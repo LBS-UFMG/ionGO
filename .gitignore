@@ -131,3 +131,4 @@ _modules/*
 
 /.php-cs-fixer.php
 .claude
+public/data/asdf.csv

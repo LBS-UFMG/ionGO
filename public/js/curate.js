@@ -62,7 +62,7 @@
                       { sphere: { scale: 0.32, color: 0xff4d4d } });
       // highlight the target ion (drawn last, on top)
       viewer.setStyle({ chain: chain, resi: resi },
-                      { sphere: { scale: ionScale, color: ionColor } });
+                      { sphere: { scale: 0.22, color: ionColor } });
 
       var ionSel  = model.selectedAtoms({ chain: chain, resi: resi });
       var ionAtom = ionSel.length ? ionSel[0] : null;

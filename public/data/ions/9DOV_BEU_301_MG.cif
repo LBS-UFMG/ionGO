@@ -1,0 +1,123 @@
+data_9DOV_BEU_301_MG
+_entry.id '9DOV_BEU_301_MG'
+
+_cell.entry_id '9DOV_BEU_301_MG'
+_cell.length_a 1
+_cell.length_b 1
+_cell.length_c 1
+_cell.angle_alpha 90
+_cell.angle_beta 90
+_cell.angle_gamma 90
+
+_symmetry.entry_id '9DOV_BEU_301_MG'
+_symmetry.space_group_name_H-M 'P 1'
+
+loop_
+_entity.id
+_entity.type
+BE polymer
+MG! non-polymer
+B5 polymer
+
+loop_
+_entity_poly.entity_id
+_entity_poly.type
+_entity_poly.pdbx_strand_id
+_entity_poly.pdbx_seq_one_letter_code
+BE polypeptide(L) BE ?
+B5 polyribonucleotide B5 ?
+
+
+
+loop_
+_chem_comp.id
+_chem_comp.type
+ARG .
+ASP .
+C .
+LYS .
+MG .
+PRO .
+SER .
+THR .
+U .
+
+loop_
+_struct_asym.id
+_struct_asym.entity_id
+D BE
+CC MG!
+HA B5
+
+
+
+loop_
+_atom_type.symbol
+C
+N
+O
+MG
+P
+
+
+loop_
+_atom_site.group_PDB
+_atom_site.id
+_atom_site.type_symbol
+_atom_site.label_atom_id
+_atom_site.label_alt_id
+_atom_site.label_comp_id
+_atom_site.label_asym_id
+_atom_site.label_entity_id
+_atom_site.label_seq_id
+_atom_site.pdbx_PDB_ins_code
+_atom_site.Cartn_x
+_atom_site.Cartn_y
+_atom_site.Cartn_z
+_atom_site.occupancy
+_atom_site.B_iso_or_equiv
+_atom_site.pdbx_formal_charge
+_atom_site.auth_seq_id
+_atom_site.auth_asym_id
+_atom_site.pdbx_PDB_model_num
+ATOM 1 O O . LYS D BE . ? 237.72278 114.52253 208.84646 1 10.3086 ? 7 BE 1
+ATOM 2 C CA . PRO D BE . ? 234.63017 107.83155 211.64915 1 13.0444 ? 29 BE 1
+ATOM 3 C C . PRO D BE . ? 234.27765 108.50327 210.33629 1 15.9727 ? 29 BE 1
+ATOM 4 C CB . PRO D BE . ? 234.6877 106.30577 211.50279 1 13.029 ? 29 BE 1
+ATOM 5 N N . ARG D BE . ? 235.13397 109.40734 209.89497 1 13.3052 ? 30 BE 1
+ATOM 6 C CA . ARG D BE . ? 234.93419 110.07708 208.62186 1 11.4022 ? 30 BE 1
+ATOM 7 C C . ARG D BE . ? 235.45872 109.18436 207.50847 1 14.4556 ? 30 BE 1
+ATOM 8 O O . ARG D BE . ? 236.67408 108.96657 207.42519 1 19.7896 ? 30 BE 1
+ATOM 9 C CB . ARG D BE . ? 235.65458 111.42048 208.62162 1 16.2309 ? 30 BE 1
+ATOM 10 C CG . ARG D BE . ? 235.66405 112.13412 207.28739 1 16.6836 ? 30 BE 1
+ATOM 11 C CD . ARG D BE . ? 234.27813 112.58893 206.89268 1 10.6457 ? 30 BE 1
+ATOM 12 N NE . ARG D BE . ? 234.28047 113.24307 205.59102 1 12.8065 ? 30 BE 1
+ATOM 13 N N . PRO D BE . ? 234.60287 108.65637 206.63798 1 11.2338 ? 31 BE 1
+ATOM 14 C CA . PRO D BE . ? 235.08914 107.73558 205.60865 1 12.7556 ? 31 BE 1
+ATOM 15 C C . PRO D BE . ? 235.97193 108.46537 204.61508 1 15.6926 ? 31 BE 1
+ATOM 16 O O . PRO D BE . ? 235.61595 109.529 204.10318 1 20.382 ? 31 BE 1
+ATOM 17 N N . SER D BE . ? 237.13628 107.88604 204.34889 1 11.9905 ? 32 BE 1
+ATOM 18 C CA . SER D BE . ? 238.05408 108.49333 203.40582 1 20.738 ? 32 BE 1
+ATOM 19 C CB . SER D BE . ? 239.39828 107.77118 203.43066 1 12.3385 ? 32 BE 1
+ATOM 20 O OG . SER D BE . ? 239.96855 107.81734 204.72625 1 13.5701 ? 32 BE 1
+ATOM 21 O OD1 . ASP D BE . ? 242.29108 104.78076 206.38223 1 32.232 ? 79 BE 1
+ATOM 22 O OD2 . ASP D BE . ? 241.21551 105.07205 204.49645 1 32.6777 ? 79 BE 1
+ATOM 23 O O . THR D BE . ? 237.19004 104.83972 205.26542 1 24.4826 ? 81 BE 1
+ATOM 24 C CB . THR D BE . ? 237.90408 105.75015 207.7668 1 22.7943 ? 81 BE 1
+ATOM 25 O OG1 . THR D BE . ? 239.07091 106.50965 207.43108 1 25.076 ? 81 BE 1
+ATOM 26 C CG2 . THR D BE . ? 237.62266 105.89683 209.24978 1 22.2977 ? 81 BE 1
+HETATM 27 MG MG . MG CC MG! . ? 239.14689 109.70253 207.90086 1 11.9677 ? 301 BE 1
+ATOM 28 O "O3'" . C HA B5 . ? 237.55808 110.07672 212.68891 1 12.0774 ? 448 B5 1
+ATOM 29 P P . C HA B5 . ? 238.68045 109.76392 211.59463 1 9.60826 ? 449 B5 1
+ATOM 30 O OP1 . C HA B5 . ? 238.0209 109.57708 210.28287 1 16.0928 ? 449 B5 1
+ATOM 31 O OP2 . C HA B5 . ? 239.53861 108.68684 212.13708 1 22.4694 ? 449 B5 1
+ATOM 32 O "O5'" . C HA B5 . ? 239.52701 111.10756 211.54305 1 16.2957 ? 449 B5 1
+ATOM 33 C "C5'" . C HA B5 . ? 238.88906 112.3627 211.37497 1 8.89481 ? 449 B5 1
+ATOM 34 C "C4'" . C HA B5 . ? 239.85572 113.49509 211.59131 1 4.69919 ? 449 B5 1
+ATOM 35 C "C3'" . C HA B5 . ? 241.22543 113.31909 210.96077 1 7.01807 ? 449 B5 1
+ATOM 36 O "O3'" . C HA B5 . ? 241.23939 113.62146 209.57767 1 16.8173 ? 449 B5 1
+ATOM 37 C "C2'" . C HA B5 . ? 242.09614 114.24004 211.80299 1 11.6976 ? 449 B5 1
+ATOM 38 P P . U HA B5 . ? 242.28187 112.89301 208.59926 1 17.9164 ? 450 B5 1
+ATOM 39 O OP1 . U HA B5 . ? 241.88876 113.16459 207.1969 1 10.3175 ? 450 B5 1
+ATOM 40 O OP2 . U HA B5 . ? 242.44402 111.49334 209.05473 1 11.7026 ? 450 B5 1
+ATOM 41 O "O5'" . U HA B5 . ? 243.6443 113.66415 208.8653 1 9.68415 ? 450 B5 1

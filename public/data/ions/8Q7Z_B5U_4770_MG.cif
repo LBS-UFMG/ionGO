@@ -1,0 +1,150 @@
+data_8Q7Z_B5U_4770_MG
+_entry.id '8Q7Z_B5U_4770_MG'
+
+_cell.entry_id '8Q7Z_B5U_4770_MG'
+_cell.length_a 1
+_cell.length_b 1
+_cell.length_c 1
+_cell.angle_alpha 90
+_cell.angle_beta 90
+_cell.angle_gamma 90
+
+_symmetry.entry_id '8Q7Z_B5U_4770_MG'
+_symmetry.space_group_name_H-M 'P 1'
+
+loop_
+_entity.id
+_entity.type
+B5 polymer
+MG! non-polymer
+B7 polymer
+
+loop_
+_entity_poly.entity_id
+_entity_poly.type
+_entity_poly.pdbx_strand_id
+_entity_poly.pdbx_seq_one_letter_code
+B5 polyribonucleotide B5 ?
+B7 polyribonucleotide B7 ?
+
+
+
+loop_
+_chem_comp.id
+_chem_comp.type
+A .
+C .
+G .
+MG .
+PSU .
+U .
+
+loop_
+_struct_asym.id
+_struct_asym.entity_id
+A B5
+LM MG!
+C B7
+
+
+
+loop_
+_atom_type.symbol
+C
+N
+O
+MG
+P
+
+
+loop_
+_atom_site.group_PDB
+_atom_site.id
+_atom_site.type_symbol
+_atom_site.label_atom_id
+_atom_site.label_alt_id
+_atom_site.label_comp_id
+_atom_site.label_asym_id
+_atom_site.label_entity_id
+_atom_site.label_seq_id
+_atom_site.pdbx_PDB_ins_code
+_atom_site.Cartn_x
+_atom_site.Cartn_y
+_atom_site.Cartn_z
+_atom_site.occupancy
+_atom_site.B_iso_or_equiv
+_atom_site.pdbx_formal_charge
+_atom_site.auth_seq_id
+_atom_site.auth_asym_id
+_atom_site.pdbx_PDB_model_num
+ATOM 1 N N1 . A A B5 . ? 247.6 185.583 282.326 1 11.68 ? 1645 B5 1
+ATOM 2 C C2 . A A B5 . ? 248.773 185.576 282.967 1 11.68 ? 1645 B5 1
+ATOM 3 C "C4'" . A A B5 . ? 253.227 184.156 280.746 1 13.04 ? 1646 B5 1
+ATOM 4 O "O4'" . A A B5 . ? 251.985 184.807 281.107 1 13.04 ? 1646 B5 1
+ATOM 5 C "C3'" . A A B5 . ? 252.84 183.187 279.641 1 13.04 ? 1646 B5 1
+ATOM 6 C "C2'" . A A B5 . ? 251.427 182.764 280.026 1 13.04 ? 1646 B5 1
+ATOM 7 O "O2'" . A A B5 . ? 251.462 181.738 281.006 1 13.04 ? 1646 B5 1
+ATOM 8 C "C1'" . A A B5 . ? 250.888 184.031 280.685 1 13.04 ? 1646 B5 1
+ATOM 9 N N9 . A A B5 . ? 250.041 184.858 279.804 1 13.04 ? 1646 B5 1
+ATOM 10 C C5 . A A B5 . ? 248.447 185.686 278.544 1 13.04 ? 1646 B5 1
+ATOM 11 C C6 . A A B5 . ? 247.233 185.639 277.843 1 13.04 ? 1646 B5 1
+ATOM 12 N N1 . A A B5 . ? 246.521 184.495 277.884 1 13.04 ? 1646 B5 1
+ATOM 13 C C2 . A A B5 . ? 247.008 183.467 278.591 1 13.04 ? 1646 B5 1
+ATOM 14 N N3 . A A B5 . ? 248.141 183.392 279.29 1 13.04 ? 1646 B5 1
+ATOM 15 C C4 . A A B5 . ? 248.826 184.548 279.23 1 13.04 ? 1646 B5 1
+ATOM 16 O "O5'" . G A B5 . ? 252.704 180.646 277.784 1 14.24 ? 1647 B5 1
+ATOM 17 C "C5'" . G A B5 . ? 252.187 179.64 278.641 1 14.24 ? 1647 B5 1
+ATOM 18 C "C4'" . G A B5 . ? 250.941 179.034 278.057 1 14.24 ? 1647 B5 1
+ATOM 19 O "O4'" . G A B5 . ? 249.833 179.953 278.202 1 14.24 ? 1647 B5 1
+ATOM 20 C "C3'" . G A B5 . ? 251.014 178.757 276.567 1 14.24 ? 1647 B5 1
+ATOM 21 O "O3'" . G A B5 . ? 251.628 177.51 276.306 1 14.24 ? 1647 B5 1
+ATOM 22 C "C2'" . G A B5 . ? 249.558 178.834 276.121 1 14.24 ? 1647 B5 1
+ATOM 23 O "O2'" . G A B5 . ? 248.892 177.606 276.37 1 14.24 ? 1647 B5 1
+ATOM 24 C "C1'" . G A B5 . ? 248.988 179.88 277.075 1 14.24 ? 1647 B5 1
+ATOM 25 N N9 . G A B5 . ? 248.859 181.238 276.508 1 14.24 ? 1647 B5 1
+ATOM 26 C C8 . G A B5 . ? 249.741 182.266 276.723 1 14.24 ? 1647 B5 1
+ATOM 27 N N7 . G A B5 . ? 249.38 183.382 276.163 1 14.24 ? 1647 B5 1
+ATOM 28 N N7 . A A B5 . ? 246.134 176.533 276.182 1 17.7 ? 1650 B5 1
+ATOM 29 C C5 . A A B5 . ? 244.82 176.943 276.354 1 17.7 ? 1650 B5 1
+ATOM 30 C C6 . A A B5 . ? 244.232 178.21 276.505 1 17.7 ? 1650 B5 1
+ATOM 31 N N6 . A A B5 . ? 244.92 179.352 276.507 1 17.7 ? 1650 B5 1
+ATOM 32 C C4 . A A B5 . ? 243.969 175.855 276.376 1 17.7 ? 1650 B5 1
+ATOM 33 O O2 . U A B5 . ? 243.91 182.047 277.07 1 14.68 ? 1698 B5 1
+ATOM 34 N N3 . U A B5 . ? 243.872 184.281 276.709 1 14.68 ? 1698 B5 1
+ATOM 35 C C2 . U A B5 . ? 244.33 177.555 280.322 1 15.98 ? 1699 B5 1
+ATOM 36 O O2 . U A B5 . ? 244.673 176.432 280.644 1 15.98 ? 1699 B5 1
+ATOM 37 N N3 . U A B5 . ? 245.234 178.574 280.159 1 15.98 ? 1699 B5 1
+ATOM 38 C C4 . U A B5 . ? 244.961 179.875 279.8 1 15.98 ? 1699 B5 1
+ATOM 39 O O4 . U A B5 . ? 245.885 180.679 279.692 1 15.98 ? 1699 B5 1
+ATOM 40 C C5 . U A B5 . ? 243.578 180.156 279.581 1 15.98 ? 1699 B5 1
+HETATM 41 C C2 . PSU A B5 . ? 244.128 183.592 281.512 1 14.68 ? 1700 B5 1
+HETATM 42 N N3 . PSU A B5 . ? 245.305 183.382 282.178 1 14.68 ? 1700 B5 1
+HETATM 43 C C4 . PSU A B5 . ? 245.582 182.339 283.042 1 14.68 ? 1700 B5 1
+HETATM 44 C C5 . PSU A B5 . ? 244.504 181.391 283.235 1 14.68 ? 1700 B5 1
+HETATM 45 O O2 . PSU A B5 . ? 243.966 184.551 280.762 1 14.68 ? 1700 B5 1
+HETATM 46 O O4 . PSU A B5 . ? 246.689 182.257 283.572 1 14.68 ? 1700 B5 1
+HETATM 47 C "C1'" . PSU A B5 . ? 244.74 180.17 284.07 1 14.68 ? 1700 B5 1
+HETATM 48 C "C2'" . PSU A B5 . ? 245.081 180.451 285.532 1 14.68 ? 1700 B5 1
+HETATM 49 O "O2'" . PSU A B5 . ? 245.944 179.425 285.997 1 14.68 ? 1700 B5 1
+HETATM 50 O "O4'" . PSU A B5 . ? 243.582 179.363 284.052 1 14.68 ? 1700 B5 1
+ATOM 51 C "C1'" . C A B5 . ? 245.396 185.123 285.874 1 12.03 ? 1701 B5 1
+ATOM 52 N N1 . C A B5 . ? 244.112 185.171 285.135 1 12.03 ? 1701 B5 1
+HETATM 53 MG MG . MG LM MG! . ? 248.516 180.805 281.05 1 12.94 ? 4770 B5 1
+ATOM 54 C C2 . A C B7 . ? 252.485 184.799 284.504 1 12.86 ? 100 B7 1
+ATOM 55 N N3 . A C B7 . ? 251.97 185.013 285.711 1 12.86 ? 100 B7 1
+ATOM 56 C "C4'" . A C B7 . ? 249.126 181.049 285.956 1 14.39 ? 101 B7 1
+ATOM 57 O "O4'" . A C B7 . ? 250.091 182.016 285.467 1 14.39 ? 101 B7 1
+ATOM 58 C "C3'" . A C B7 . ? 249.76 179.704 285.645 1 14.39 ? 101 B7 1
+ATOM 59 O "O3'" . A C B7 . ? 248.813 178.653 285.585 1 14.39 ? 101 B7 1
+ATOM 60 C "C2'" . A C B7 . ? 250.479 179.968 284.329 1 14.39 ? 101 B7 1
+ATOM 61 O "O2'" . A C B7 . ? 249.566 179.937 283.243 1 14.39 ? 101 B7 1
+ATOM 62 C "C1'" . A C B7 . ? 250.95 181.409 284.526 1 14.39 ? 101 B7 1
+ATOM 63 N N9 . A C B7 . ? 252.329 181.478 285.045 1 14.39 ? 101 B7 1
+ATOM 64 C C4 . A C B7 . ? 253.483 181.303 284.324 1 14.39 ? 101 B7 1
+ATOM 65 P P . U C B7 . ? 249.288 177.127 285.721 1 18.45 ? 102 B7 1
+ATOM 66 O "O5'" . U C B7 . ? 249.561 176.688 284.216 1 18.45 ? 102 B7 1
+ATOM 67 C "C5'" . U C B7 . ? 250.72 175.953 283.862 1 18.45 ? 102 B7 1
+ATOM 68 C "C4'" . U C B7 . ? 251.049 176.126 282.401 1 18.45 ? 102 B7 1
+ATOM 69 O "O4'" . U C B7 . ? 251.831 177.337 282.207 1 18.45 ? 102 B7 1
+ATOM 70 O "O2'" . U C B7 . ? 251.616 175.875 279.534 1 18.45 ? 102 B7 1
+ATOM 71 C "C1'" . U C B7 . ? 252.798 177.13 281.197 1 18.45 ? 102 B7 1

@@ -1,0 +1,113 @@
+data_9FXO_S1U_2309_MG
+_entry.id '9FXO_S1U_2309_MG'
+
+_cell.entry_id '9FXO_S1U_2309_MG'
+_cell.length_a 1
+_cell.length_b 1
+_cell.length_c 1
+_cell.angle_alpha 90
+_cell.angle_beta 90
+_cell.angle_gamma 90
+
+_symmetry.entry_id '9FXO_S1U_2309_MG'
+_symmetry.space_group_name_H-M 'P 1'
+
+loop_
+_entity.id
+_entity.type
+S1 polymer
+MG! non-polymer
+
+loop_
+_entity_poly.entity_id
+_entity_poly.type
+_entity_poly.pdbx_strand_id
+_entity_poly.pdbx_seq_one_letter_code
+S1 polyribonucleotide S1 ?
+
+
+
+loop_
+_chem_comp.id
+_chem_comp.type
+A .
+C .
+G .
+MG .
+
+loop_
+_struct_asym.id
+_struct_asym.entity_id
+YA S1
+IR MG!
+
+
+
+loop_
+_atom_type.symbol
+C
+N
+O
+MG
+P
+
+
+loop_
+_atom_site.group_PDB
+_atom_site.id
+_atom_site.type_symbol
+_atom_site.label_atom_id
+_atom_site.label_alt_id
+_atom_site.label_comp_id
+_atom_site.label_asym_id
+_atom_site.label_entity_id
+_atom_site.label_seq_id
+_atom_site.pdbx_PDB_ins_code
+_atom_site.Cartn_x
+_atom_site.Cartn_y
+_atom_site.Cartn_z
+_atom_site.occupancy
+_atom_site.B_iso_or_equiv
+_atom_site.pdbx_formal_charge
+_atom_site.auth_seq_id
+_atom_site.auth_asym_id
+_atom_site.pdbx_PDB_model_num
+ATOM 1 N N6 . A YA S1 . ? 129.05294 141.86887 173.91833 1 8.09819 ? 39 S1 1
+ATOM 2 P P . G YA S1 . ? 127.83302 132.88296 177.63438 1 32.7607 ? 513 S1 1
+ATOM 3 O OP1 . G YA S1 . ? 126.4406 133.05563 178.1169 1 24.5641 ? 513 S1 1
+ATOM 4 O OP2 . G YA S1 . ? 128.33634 133.72941 176.52446 1 22.4068 ? 513 S1 1
+ATOM 5 O "O5'" . G YA S1 . ? 128.81181 133.06873 178.87662 1 20.9073 ? 513 S1 1
+ATOM 6 C "C3'" . G YA S1 . ? 129.98221 134.03639 181.37466 1 15.8394 ? 513 S1 1
+ATOM 7 O "O3'" . G YA S1 . ? 129.06071 134.54629 182.32261 1 24.4345 ? 513 S1 1
+ATOM 8 C "C2'" . G YA S1 . ? 131.42597 134.0436 181.85752 1 18.2032 ? 513 S1 1
+ATOM 9 C "C1'" . G YA S1 . ? 132.05331 132.99154 180.94305 1 16.599 ? 513 S1 1
+ATOM 10 N N9 . G YA S1 . ? 132.67031 133.59385 179.74611 1 16.8819 ? 513 S1 1
+ATOM 11 C C8 . G YA S1 . ? 132.24805 133.47163 178.4451 1 15.1126 ? 513 S1 1
+ATOM 12 N N7 . G YA S1 . ? 133.00106 134.11836 177.59936 1 18.2154 ? 513 S1 1
+ATOM 13 P P . C YA S1 . ? 128.35829 135.97154 182.08249 1 35.1724 ? 514 S1 1
+ATOM 14 O OP2 . C YA S1 . ? 127.89388 136.03043 180.67459 1 25.0853 ? 514 S1 1
+ATOM 15 O "O5'" . C YA S1 . ? 129.54313 137.01953 182.26116 1 18.7332 ? 514 S1 1
+ATOM 16 O "O4'" . C YA S1 . ? 132.38621 137.42073 182.56268 1 22.5122 ? 514 S1 1
+ATOM 17 C "C3'" . C YA S1 . ? 131.19931 139.42805 182.76032 1 16.0413 ? 514 S1 1
+ATOM 18 C "C2'" . C YA S1 . ? 132.59878 139.76973 182.26557 1 18.1408 ? 514 S1 1
+ATOM 19 C "C1'" . C YA S1 . ? 133.11846 138.3938 181.84666 1 15.6442 ? 514 S1 1
+ATOM 20 N N1 . C YA S1 . ? 132.95492 138.14855 180.39518 1 12.4268 ? 514 S1 1
+ATOM 21 C C4 . C YA S1 . ? 132.73887 137.74779 177.7295 1 10.7636 ? 514 S1 1
+ATOM 22 N N4 . C YA S1 . ? 132.65375 137.55913 176.41219 1 10.5217 ? 514 S1 1
+ATOM 23 C C5 . C YA S1 . ? 131.76677 137.1822 178.60364 1 10.3111 ? 514 S1 1
+ATOM 24 C C6 . C YA S1 . ? 131.91359 137.40424 179.91517 1 12.5305 ? 514 S1 1
+ATOM 25 O OP2 . G YA S1 . ? 128.39104 140.70674 182.63926 1 19.8563 ? 515 S1 1
+ATOM 26 O "O5'" . G YA S1 . ? 130.27299 142.14328 181.86965 1 24.4998 ? 515 S1 1
+ATOM 27 O "O4'" . G YA S1 . ? 132.38674 142.70047 179.9341 1 20.2951 ? 515 S1 1
+ATOM 28 N N9 . G YA S1 . ? 131.37972 141.70938 178.06159 1 9.89154 ? 515 S1 1
+ATOM 29 C C8 . G YA S1 . ? 130.49176 140.92829 178.75943 1 8.92537 ? 515 S1 1
+ATOM 30 N N7 . G YA S1 . ? 129.99068 139.95941 178.04584 1 11.6851 ? 515 S1 1
+ATOM 31 C C5 . G YA S1 . ? 130.57803 140.11164 176.79944 1 3.4365 ? 515 S1 1
+ATOM 32 C C6 . G YA S1 . ? 130.4184 139.35423 175.61168 1 7.766 ? 515 S1 1
+ATOM 33 O O6 . G YA S1 . ? 129.70934 138.36045 175.41839 1 18.1643 ? 515 S1 1
+ATOM 34 N N1 . G YA S1 . ? 131.20569 139.85224 174.58061 1 9.40162 ? 515 S1 1
+ATOM 35 C C2 . G YA S1 . ? 132.0338 140.94162 174.67341 1 6.97961 ? 515 S1 1
+ATOM 36 N N2 . G YA S1 . ? 132.70737 141.26688 173.56141 1 6.83921 ? 515 S1 1
+ATOM 37 N N3 . G YA S1 . ? 132.18887 141.65845 175.77355 1 1.57975 ? 515 S1 1
+ATOM 38 C C4 . G YA S1 . ? 131.43491 141.19044 176.79024 1 7.44744 ? 515 S1 1
+HETATM 39 MG MG . MG IR MG! . ? 128.41186 137.84167 178.09187 1 33.0771 ? 2309 S1 1

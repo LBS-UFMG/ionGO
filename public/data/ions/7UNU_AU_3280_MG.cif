@@ -1,0 +1,96 @@
+data_7UNU_AU_3280_MG
+_entry.id '7UNU_AU_3280_MG'
+
+_cell.entry_id '7UNU_AU_3280_MG'
+_cell.length_a 1
+_cell.length_b 1
+_cell.length_c 1
+_cell.angle_alpha 90
+_cell.angle_beta 90
+_cell.angle_gamma 90
+
+_symmetry.entry_id '7UNU_AU_3280_MG'
+_symmetry.space_group_name_H-M 'P 1'
+
+loop_
+_entity.id
+_entity.type
+A polymer
+MG! non-polymer
+
+loop_
+_entity_poly.entity_id
+_entity_poly.type
+_entity_poly.pdbx_strand_id
+_entity_poly.pdbx_seq_one_letter_code
+A polyribonucleotide A ?
+
+
+
+loop_
+_chem_comp.id
+_chem_comp.type
+A .
+C .
+G .
+MG .
+U .
+
+loop_
+_struct_asym.id
+_struct_asym.entity_id
+Y A
+ML MG!
+VQ MG!
+
+
+
+loop_
+_atom_type.symbol
+C
+N
+O
+MG
+
+
+loop_
+_atom_site.group_PDB
+_atom_site.id
+_atom_site.type_symbol
+_atom_site.label_atom_id
+_atom_site.label_alt_id
+_atom_site.label_comp_id
+_atom_site.label_asym_id
+_atom_site.label_entity_id
+_atom_site.label_seq_id
+_atom_site.pdbx_PDB_ins_code
+_atom_site.Cartn_x
+_atom_site.Cartn_y
+_atom_site.Cartn_z
+_atom_site.occupancy
+_atom_site.B_iso_or_equiv
+_atom_site.pdbx_formal_charge
+_atom_site.auth_seq_id
+_atom_site.auth_asym_id
+_atom_site.pdbx_PDB_model_num
+ATOM 1 O OP2 . A Y A . ? 237.812 171.823 227.435 1 10.12 ? 689 A 1
+ATOM 2 O OP2 . G Y A . ? 238.132 167.242 226.377 1 10.72 ? 690 A 1
+ATOM 3 O "O4'" . G Y A . ? 233.265 166.341 225.613 1 10.72 ? 690 A 1
+ATOM 4 N N9 . G Y A . ? 233.198 168.315 224.33 1 10.72 ? 690 A 1
+ATOM 5 C C8 . G Y A . ? 234.421 168.758 224.747 1 10.72 ? 690 A 1
+ATOM 6 N N7 . G Y A . ? 234.667 169.984 224.4 1 10.72 ? 690 A 1
+ATOM 7 C C5 . G Y A . ? 233.541 170.379 223.701 1 10.72 ? 690 A 1
+ATOM 8 C C6 . G Y A . ? 233.224 171.614 223.085 1 10.72 ? 690 A 1
+ATOM 9 O O6 . G Y A . ? 233.899 172.643 223.023 1 10.72 ? 690 A 1
+ATOM 10 N N9 . G Y A . ? 233.109 169 219.539 1 12.16 ? 691 A 1
+ATOM 11 C C8 . G Y A . ? 234.24 168.85 220.291 1 12.16 ? 691 A 1
+ATOM 12 N N7 . G Y A . ? 234.934 169.946 220.39 1 12.16 ? 691 A 1
+ATOM 13 C C5 . G Y A . ? 234.217 170.873 219.658 1 12.16 ? 691 A 1
+ATOM 14 C C6 . G Y A . ? 234.473 172.236 219.398 1 12.16 ? 691 A 1
+ATOM 15 O O6 . G Y A . ? 235.418 172.927 219.779 1 12.16 ? 691 A 1
+ATOM 16 N N1 . G Y A . ? 233.489 172.802 218.608 1 12.16 ? 691 A 1
+ATOM 17 N N4 . C Y A . ? 235.638 175.839 219.202 1 8.67 ? 721 A 1
+ATOM 18 N N4 . C Y A . ? 233.104 175.042 221.4 1 7.97 ? 722 A 1
+ATOM 19 C C4 . U Y A . ? 243.07 175.982 227.045 1 11.07 ? 752 A 1
+HETATM 20 MG MG . MG ML MG! . ? 239.728 168.787 225.219 1 17.43 ? 3141 A 1
+HETATM 21 MG MG . MG VQ MG! . ? 238.092 171.219 223.198 1 38.47 ? 3280 A 1

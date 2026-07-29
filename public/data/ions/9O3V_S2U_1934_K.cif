@@ -1,0 +1,105 @@
+data_9O3V_S2U_1934_K
+_entry.id '9O3V_S2U_1934_K'
+
+_cell.entry_id '9O3V_S2U_1934_K'
+_cell.length_a 1
+_cell.length_b 1
+_cell.length_c 1
+_cell.angle_alpha 90
+_cell.angle_beta 90
+_cell.angle_gamma 90
+
+_symmetry.entry_id '9O3V_S2U_1934_K'
+_symmetry.space_group_name_H-M 'P 1'
+
+loop_
+_entity.id
+_entity.type
+S2 polymer
+K! non-polymer
+mR polymer
+
+loop_
+_entity_poly.entity_id
+_entity_poly.type
+_entity_poly.pdbx_strand_id
+_entity_poly.pdbx_seq_one_letter_code
+S2 polyribonucleotide S2 ?
+mR polyribonucleotide mR ?
+
+
+
+loop_
+_chem_comp.id
+_chem_comp.type
+C .
+G .
+K .
+OMC .
+
+loop_
+_struct_asym.id
+_struct_asym.entity_id
+VA S2
+CU K!
+DC mR
+
+
+
+loop_
+_atom_type.symbol
+C
+N
+O
+P
+K
+
+
+loop_
+_atom_site.group_PDB
+_atom_site.id
+_atom_site.type_symbol
+_atom_site.label_atom_id
+_atom_site.label_alt_id
+_atom_site.label_comp_id
+_atom_site.label_asym_id
+_atom_site.label_entity_id
+_atom_site.label_seq_id
+_atom_site.pdbx_PDB_ins_code
+_atom_site.Cartn_x
+_atom_site.Cartn_y
+_atom_site.Cartn_z
+_atom_site.occupancy
+_atom_site.B_iso_or_equiv
+_atom_site.pdbx_formal_charge
+_atom_site.auth_seq_id
+_atom_site.auth_asym_id
+_atom_site.pdbx_PDB_model_num
+ATOM 1 O "O2'" . C VA S2 . ? 199.607 243.723 265.282 1 42.55 ? 1698 S2 1
+ATOM 2 C "C3'" . C VA S2 . ? 207.11 239.262 265.376 1 24.22 ? 1701 S2 1
+ATOM 3 O "O3'" . C VA S2 . ? 205.968 238.856 264.632 1 25.84 ? 1701 S2 1
+ATOM 4 C "C2'" . C VA S2 . ? 206.832 239.062 266.857 1 24.02 ? 1701 S2 1
+ATOM 5 P P . G VA S2 . ? 205.803 239.238 263.086 1 24.97 ? 1702 S2 1
+ATOM 6 O OP1 . G VA S2 . ? 204.611 238.524 262.611 1 26.75 ? 1702 S2 1
+ATOM 7 O OP2 . G VA S2 . ? 207.079 239.037 262.378 1 28.04 ? 1702 S2 1
+ATOM 8 O "O5'" . G VA S2 . ? 205.478 240.792 263.102 1 24.42 ? 1702 S2 1
+ATOM 9 C "C5'" . G VA S2 . ? 204.449 241.34 263.91 1 18.21 ? 1702 S2 1
+ATOM 10 C "C4'" . G VA S2 . ? 204.35 242.829 263.708 1 18.52 ? 1702 S2 1
+ATOM 11 O "O4'" . G VA S2 . ? 205.631 243.451 264.015 1 20.16 ? 1702 S2 1
+ATOM 12 C "C3'" . G VA S2 . ? 204.055 243.29 262.288 1 17.13 ? 1702 S2 1
+ATOM 13 O "O3'" . G VA S2 . ? 202.676 243.242 261.977 1 20.06 ? 1702 S2 1
+ATOM 14 N N9 . G VA S2 . ? 207.017 244.047 262.202 1 13.76 ? 1702 S2 1
+HETATM 15 C C5 . OMC VA S2 . ? 206.376 242.133 258.54 1 13.15 ? 1703 S2 1
+HETATM 16 C C6 . OMC VA S2 . ? 205.761 243.321 258.601 1 13.27 ? 1703 S2 1
+HETATM 17 O "O5'" . OMC VA S2 . ? 202.662 243.647 259.46 1 20.28 ? 1703 S2 1
+HETATM 18 P P . OMC VA S2 . ? 202.153 242.644 260.585 1 20.54 ? 1703 S2 1
+HETATM 19 O OP1 . OMC VA S2 . ? 200.64 242.694 260.586 1 25.77 ? 1703 S2 1
+HETATM 20 O OP2 . OMC VA S2 . ? 202.839 241.345 260.242 1 23.6 ? 1703 S2 1
+HETATM 21 K K . K CU K! . ? 202.257 239.291 261.876 1 55.59 ? 1934 S2 1
+ATOM 22 O "O5'" . G DC mR . ? 206.763 235.831 258.767 1 0.8 ? 39 mR 1
+ATOM 23 C "C5'" . G DC mR . ? 205.92 234.726 258.447 1 0.57 ? 39 mR 1
+ATOM 24 C "C3'" . G DC mR . ? 204.486 235.058 260.469 1 0.58 ? 39 mR 1
+ATOM 25 O "O3'" . G DC mR . ? 203.305 234.4 260.881 1 0.45 ? 39 mR 1
+ATOM 26 C "C2'" . G DC mR . ? 205.245 235.388 261.752 1 0.49 ? 39 mR 1
+ATOM 27 O "O2'" . G DC mR . ? 204.424 235.166 262.887 1 0.47 ? 39 mR 1
+ATOM 28 C "C1'" . G DC mR . ? 206.397 234.385 261.767 1 0.51 ? 39 mR 1

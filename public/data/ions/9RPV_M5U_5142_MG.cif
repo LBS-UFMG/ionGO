@@ -1,0 +1,125 @@
+data_9RPV_M5U_5142_MG
+_entry.id '9RPV_M5U_5142_MG'
+
+_cell.entry_id '9RPV_M5U_5142_MG'
+_cell.length_a 1
+_cell.length_b 1
+_cell.length_c 1
+_cell.angle_alpha 90
+_cell.angle_beta 90
+_cell.angle_gamma 90
+
+_symmetry.entry_id '9RPV_M5U_5142_MG'
+_symmetry.space_group_name_H-M 'P 1'
+
+loop_
+_entity.id
+_entity.type
+M5 polymer
+MG! non-polymer
+MG polymer
+MN polymer
+
+loop_
+_entity_poly.entity_id
+_entity_poly.type
+_entity_poly.pdbx_strand_id
+_entity_poly.pdbx_seq_one_letter_code
+M5 polyribonucleotide M5 ?
+MG polypeptide(L) MG ?
+MN polypeptide(L) MN ?
+
+
+
+loop_
+_chem_comp.id
+_chem_comp.type
+ALA .
+ARG .
+C .
+G .
+LEU .
+MG .
+SER .
+
+loop_
+_struct_asym.id
+_struct_asym.entity_id
+AB M5
+IL MG!
+JB MG
+PB MN
+
+
+
+loop_
+_atom_type.symbol
+C
+N
+O
+MG
+P
+
+
+loop_
+_atom_site.group_PDB
+_atom_site.id
+_atom_site.type_symbol
+_atom_site.label_atom_id
+_atom_site.label_alt_id
+_atom_site.label_comp_id
+_atom_site.label_asym_id
+_atom_site.label_entity_id
+_atom_site.label_seq_id
+_atom_site.pdbx_PDB_ins_code
+_atom_site.Cartn_x
+_atom_site.Cartn_y
+_atom_site.Cartn_z
+_atom_site.occupancy
+_atom_site.B_iso_or_equiv
+_atom_site.pdbx_formal_charge
+_atom_site.auth_seq_id
+_atom_site.auth_asym_id
+_atom_site.pdbx_PDB_model_num
+ATOM 1 O "O5'" . G AB M5 . ? 288.848 375.301 260.596 1 63.85 ? 2456 M5 1
+ATOM 2 C "C5'" . G AB M5 . ? 289.617 374.719 261.632 1 61.95 ? 2456 M5 1
+ATOM 3 C "C4'" . G AB M5 . ? 288.945 373.502 262.203 1 60.82 ? 2456 M5 1
+ATOM 4 O "O4'" . G AB M5 . ? 287.618 373.843 262.673 1 60.47 ? 2456 M5 1
+ATOM 5 C "C3'" . G AB M5 . ? 288.699 372.359 261.242 1 60.44 ? 2456 M5 1
+ATOM 6 O "O3'" . G AB M5 . ? 289.853 371.582 260.998 1 63.64 ? 2456 M5 1
+ATOM 7 C "C2'" . G AB M5 . ? 287.588 371.594 261.936 1 61.18 ? 2456 M5 1
+ATOM 8 O "O2'" . G AB M5 . ? 288.108 370.841 263.019 1 72.34 ? 2456 M5 1
+ATOM 9 P P . G AB M5 . ? 290.105 370.974 259.54 1 59.05 ? 2457 M5 1
+ATOM 10 O OP1 . G AB M5 . ? 291.518 370.579 259.428 1 63.75 ? 2457 M5 1
+ATOM 11 O OP2 . G AB M5 . ? 289.515 371.901 258.553 1 61.67 ? 2457 M5 1
+ATOM 12 O "O5'" . G AB M5 . ? 289.224 369.66 259.52 1 57.83 ? 2457 M5 1
+ATOM 13 C "C5'" . G AB M5 . ? 289.459 368.616 260.442 1 57.32 ? 2457 M5 1
+ATOM 14 C "C4'" . G AB M5 . ? 288.267 367.705 260.526 1 55.76 ? 2457 M5 1
+ATOM 15 O "O4'" . G AB M5 . ? 287.108 368.476 260.915 1 53.48 ? 2457 M5 1
+ATOM 16 C "C3'" . G AB M5 . ? 287.854 367.047 259.224 1 53.14 ? 2457 M5 1
+ATOM 17 O "O3'" . G AB M5 . ? 288.604 365.883 258.942 1 53.98 ? 2457 M5 1
+ATOM 18 O OP2 . C AB M5 . ? 289.345 366.716 256.717 1 53.2 ? 2458 M5 1
+ATOM 19 O "O2'" . C AB M5 . ? 290.564 372.577 265.987 1 95.84 ? 2470 M5 1
+ATOM 20 C C2 . C AB M5 . ? 291.202 368.994 265.454 1 101.34 ? 2470 M5 1
+ATOM 21 O O2 . C AB M5 . ? 292.312 369.544 265.404 1 97.07 ? 2470 M5 1
+ATOM 22 N N3 . C AB M5 . ? 290.863 367.984 264.618 1 98 ? 2470 M5 1
+ATOM 23 C C4 . C AB M5 . ? 289.659 367.424 264.706 1 93.51 ? 2470 M5 1
+ATOM 24 N N4 . C AB M5 . ? 289.362 366.43 263.867 1 79.81 ? 2470 M5 1
+ATOM 25 C C5 . C AB M5 . ? 288.702 367.854 265.665 1 97.64 ? 2470 M5 1
+HETATM 26 MG MG . MG IL MG! . ? 291.926 370.77 261.339 1 78.8 ? 5142 M5 1
+ATOM 27 N NE . ARG JB MG . ? 295.267 373.72 265.887 1 72.81 ? 59 MG 1
+ATOM 28 N NH2 . ARG JB MG . ? 295.634 371.471 265.683 1 72.81 ? 59 MG 1
+ATOM 29 C C . LEU PB MN . ? 296.094 371.912 260.149 1 78.59 ? 33 MN 1
+ATOM 30 O O . LEU PB MN . ? 295.593 370.792 260.269 1 84.73 ? 33 MN 1
+ATOM 31 N N . SER PB MN . ? 295.468 372.9 259.519 1 79.72 ? 34 MN 1
+ATOM 32 C CA . SER PB MN . ? 294.174 372.676 258.903 1 79.36 ? 34 MN 1
+ATOM 33 C C . SER PB MN . ? 294.352 372.038 257.532 1 82.9 ? 34 MN 1
+ATOM 34 O O . SER PB MN . ? 295.46 371.938 257.004 1 87.05 ? 34 MN 1
+ATOM 35 C CB . SER PB MN . ? 293.399 373.979 258.782 1 77.49 ? 34 MN 1
+ATOM 36 O OG . SER PB MN . ? 293.807 374.693 257.632 1 90.52 ? 34 MN 1
+ATOM 37 N N . ALA PB MN . ? 293.234 371.588 256.962 1 77.41 ? 35 MN 1
+ATOM 38 C CD . ARG PB MN . ? 295.121 366.597 256.66 1 70.29 ? 65 MN 1
+ATOM 39 N NE . ARG PB MN . ? 293.761 366.799 257.14 1 74.68 ? 65 MN 1
+ATOM 40 C CZ . ARG PB MN . ? 293.41 367.734 258.009 1 82.55 ? 65 MN 1
+ATOM 41 N NH1 . ARG PB MN . ? 294.297 368.572 258.514 1 83.78 ? 65 MN 1
+ATOM 42 N NH2 . ARG PB MN . ? 292.138 367.832 258.381 1 80.41 ? 65 MN 1

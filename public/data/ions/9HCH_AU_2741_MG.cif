@@ -1,0 +1,127 @@
+data_9HCH_AU_2741_MG
+_entry.id '9HCH_AU_2741_MG'
+
+_cell.entry_id '9HCH_AU_2741_MG'
+_cell.length_a 1
+_cell.length_b 1
+_cell.length_c 1
+_cell.angle_alpha 90
+_cell.angle_beta 90
+_cell.angle_gamma 90
+
+_symmetry.entry_id '9HCH_AU_2741_MG'
+_symmetry.space_group_name_H-M 'P 1'
+
+loop_
+_entity.id
+_entity.type
+A polymer
+MG! non-polymer
+
+loop_
+_entity_poly.entity_id
+_entity_poly.type
+_entity_poly.pdbx_strand_id
+_entity_poly.pdbx_seq_one_letter_code
+A polyribonucleotide A ?
+
+
+
+loop_
+_chem_comp.id
+_chem_comp.type
+A .
+C .
+MG .
+U .
+
+loop_
+_struct_asym.id
+_struct_asym.entity_id
+A A
+UC MG!
+
+
+
+loop_
+_atom_type.symbol
+H
+C
+N
+O
+MG
+P
+
+
+loop_
+_atom_site.group_PDB
+_atom_site.id
+_atom_site.type_symbol
+_atom_site.label_atom_id
+_atom_site.label_alt_id
+_atom_site.label_comp_id
+_atom_site.label_asym_id
+_atom_site.label_entity_id
+_atom_site.label_seq_id
+_atom_site.pdbx_PDB_ins_code
+_atom_site.Cartn_x
+_atom_site.Cartn_y
+_atom_site.Cartn_z
+_atom_site.occupancy
+_atom_site.B_iso_or_equiv
+_atom_site.pdbx_formal_charge
+_atom_site.auth_seq_id
+_atom_site.auth_asym_id
+_atom_site.pdbx_PDB_model_num
+ATOM 1 C "C3'" . C A A . ? 206.38 209.227 263.676 1 17.11 ? 2446 A 1
+ATOM 2 O "O3'" . C A A . ? 205.932 208.101 262.925 1 25.93 ? 2446 A 1
+ATOM 3 C "C2'" . C A A . ? 207.821 209.012 264.122 1 16.84 ? 2446 A 1
+ATOM 4 O "O2'" . C A A . ? 208.139 207.682 264.47 1 19.3 ? 2446 A 1
+ATOM 5 C "C1'" . C A A . ? 208.599 209.477 262.895 1 18.43 ? 2446 A 1
+ATOM 6 H "H3'" . C A A . ? 205.802 209.392 264.437 1 19.61 ? 2446 A 1
+ATOM 7 H "H2'" . C A A . ? 208.007 209.593 264.876 1 19.75 ? 2446 A 1
+ATOM 8 H "HO2'" . C A A . ? 208.717 207.389 263.936 1 20.02 ? 2446 A 1
+ATOM 9 H "H1'" . C A A . ? 208.626 208.758 262.245 1 19.93 ? 2446 A 1
+ATOM 10 P P . A A A . ? 204.549 207.38 263.307 1 18.18 ? 2447 A 1
+ATOM 11 O OP1 . A A A . ? 203.454 208.353 263.097 1 16.04 ? 2447 A 1
+ATOM 12 O OP2 . A A A . ? 204.709 206.736 264.632 1 21.96 ? 2447 A 1
+ATOM 13 O "O5'" . A A A . ? 204.402 206.229 262.219 1 20.99 ? 2447 A 1
+ATOM 14 H "H3'" . A A A . ? 206.98 206.28 261.441 1 19.64 ? 2447 A 1
+ATOM 15 P P . U A A . ? 207.847 203.696 261.497 1 15.83 ? 2448 A 1
+ATOM 16 O OP2 . U A A . ? 206.831 203.98 262.537 1 16.85 ? 2448 A 1
+ATOM 17 O "O5'" . U A A . ? 209.277 203.988 262.126 1 23.23 ? 2448 A 1
+ATOM 18 C C5 . U A A . ? 209.614 205.063 266.647 1 16.17 ? 2448 A 1
+ATOM 19 H "H2'" . U A A . ? 209.796 202.293 263.963 1 16.4 ? 2448 A 1
+ATOM 20 H H5 . U A A . ? 208.746 205.393 266.673 1 17.55 ? 2448 A 1
+ATOM 21 H H6 . U A A . ? 209.413 204.127 264.943 1 17.09 ? 2448 A 1
+ATOM 22 O "O3'" . U A A . ? 199.859 201.276 267.59 1 20.85 ? 2468 A 1
+ATOM 23 H "H3'" . U A A . ? 201.419 200.189 267.101 1 21.01 ? 2468 A 1
+ATOM 24 P P . U A A . ? 200.594 202.688 267.388 1 29.55 ? 2469 A 1
+ATOM 25 O OP2 . U A A . ? 201.569 202.547 266.279 1 25.38 ? 2469 A 1
+ATOM 26 O "O5'" . U A A . ? 201.393 202.892 268.746 1 19.25 ? 2469 A 1
+ATOM 27 C "C5'" . U A A . ? 200.698 203.017 269.976 1 21.21 ? 2469 A 1
+ATOM 28 N N3 . U A A . ? 206.675 200.459 270.777 1 22.8 ? 2469 A 1
+ATOM 29 C C4 . U A A . ? 206.486 200.173 269.445 1 23.45 ? 2469 A 1
+ATOM 30 C C5 . U A A . ? 205.226 200.588 268.915 1 22.18 ? 2469 A 1
+ATOM 31 C C6 . U A A . ? 204.349 201.201 269.715 1 25.27 ? 2469 A 1
+ATOM 32 H "H5'" . U A A . ? 200.148 202.23 270.112 1 22.92 ? 2469 A 1
+ATOM 33 H "H5''" . U A A . ? 200.126 203.799 269.938 1 22.87 ? 2469 A 1
+ATOM 34 H "H3'" . U A A . ? 203.134 204.061 270.043 1 22.98 ? 2469 A 1
+ATOM 35 H H5 . U A A . ? 205.018 200.433 268.023 1 22.7 ? 2469 A 1
+ATOM 36 H H6 . U A A . ? 203.532 201.466 269.358 1 23.49 ? 2469 A 1
+ATOM 37 P P . A A A . ? 203.168 206.696 270.465 1 17.53 ? 2470 A 1
+ATOM 38 O OP2 . A A A . ? 203.242 206.435 269.009 1 18.65 ? 2470 A 1
+ATOM 39 N N9 . A A A . ? 207.938 204.289 270.886 1 20.35 ? 2470 A 1
+ATOM 40 C C8 . A A A . ? 206.943 204.26 269.945 1 23.67 ? 2470 A 1
+ATOM 41 N N7 . A A A . ? 207.221 203.518 268.903 1 20.41 ? 2470 A 1
+ATOM 42 C C5 . A A A . ? 208.485 203.021 269.176 1 18.17 ? 2470 A 1
+ATOM 43 C C6 . A A A . ? 209.342 202.168 268.462 1 19.46 ? 2470 A 1
+ATOM 44 N N6 . A A A . ? 209.045 201.639 267.276 1 20.3 ? 2470 A 1
+ATOM 45 C C4 . A A A . ? 208.938 203.485 270.395 1 17.65 ? 2470 A 1
+ATOM 46 H H8 . A A A . ? 206.144 204.726 270.037 1 22.09 ? 2470 A 1
+ATOM 47 H H61 . A A A . ? 209.608 201.121 266.883 1 20.34 ? 2470 A 1
+ATOM 48 H H62 . A A A . ? 208.29 201.815 266.904 1 20.84 ? 2470 A 1
+ATOM 49 O OP2 . A A A . ? 207.03 209.462 269.987 1 15.88 ? 2471 A 1
+ATOM 50 O "O5'" . A A A . ? 209.377 209.509 270.775 1 23.45 ? 2471 A 1
+ATOM 51 H H8 . A A A . ? 209.72 209.554 267.455 1 18.06 ? 2471 A 1
+HETATM 52 MG MG . MG UC MG! . ? 204.851 205.1 265.894 1 24 ? 2741 A 1

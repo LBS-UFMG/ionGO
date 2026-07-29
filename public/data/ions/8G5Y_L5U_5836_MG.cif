@@ -1,0 +1,106 @@
+data_8G5Y_L5U_5836_MG
+_entry.id '8G5Y_L5U_5836_MG'
+
+_cell.entry_id '8G5Y_L5U_5836_MG'
+_cell.length_a 1
+_cell.length_b 1
+_cell.length_c 1
+_cell.angle_alpha 90
+_cell.angle_beta 90
+_cell.angle_gamma 90
+
+_symmetry.entry_id '8G5Y_L5U_5836_MG'
+_symmetry.space_group_name_H-M 'P 1'
+
+loop_
+_entity.id
+_entity.type
+L5 polymer
+MG! non-polymer
+LB polymer
+
+loop_
+_entity_poly.entity_id
+_entity_poly.type
+_entity_poly.pdbx_strand_id
+_entity_poly.pdbx_seq_one_letter_code
+L5 polyribonucleotide L5 ?
+LB polypeptide(L) LB ?
+
+
+
+loop_
+_chem_comp.id
+_chem_comp.type
+A .
+C .
+HIS .
+MG .
+OMG .
+
+loop_
+_struct_asym.id
+_struct_asym.entity_id
+C L5
+BV MG!
+NA LB
+
+
+
+loop_
+_atom_type.symbol
+C
+N
+O
+MG
+P
+
+
+loop_
+_atom_site.group_PDB
+_atom_site.id
+_atom_site.type_symbol
+_atom_site.label_atom_id
+_atom_site.label_alt_id
+_atom_site.label_comp_id
+_atom_site.label_asym_id
+_atom_site.label_entity_id
+_atom_site.label_seq_id
+_atom_site.pdbx_PDB_ins_code
+_atom_site.Cartn_x
+_atom_site.Cartn_y
+_atom_site.Cartn_z
+_atom_site.occupancy
+_atom_site.B_iso_or_equiv
+_atom_site.pdbx_formal_charge
+_atom_site.auth_seq_id
+_atom_site.auth_asym_id
+_atom_site.pdbx_PDB_model_num
+ATOM 1 O OP1 . A C L5 . ? 311.894 275.171 272.638 1 13.37 ? 4622 L5 1
+ATOM 2 O OP2 . A C L5 . ? 313.053 275.434 270.407 1 13.37 ? 4622 L5 1
+ATOM 3 O "O5'" . A C L5 . ? 314.326 275.042 272.483 1 13.37 ? 4622 L5 1
+ATOM 4 C "C1'" . A C L5 . ? 318.08 275.065 273.297 1 13.37 ? 4622 L5 1
+ATOM 5 N N9 . A C L5 . ? 318.293 275.392 271.878 1 13.37 ? 4622 L5 1
+ATOM 6 C C8 . A C L5 . ? 317.405 275.268 270.851 1 13.37 ? 4622 L5 1
+ATOM 7 N N7 . A C L5 . ? 317.893 275.641 269.705 1 13.37 ? 4622 L5 1
+ATOM 8 C C5 . A C L5 . ? 319.191 276.021 269.978 1 13.37 ? 4622 L5 1
+ATOM 9 C C4 . A C L5 . ? 319.444 275.88 271.321 1 13.37 ? 4622 L5 1
+HETATM 10 O OP2 . OMG C L5 . ? 314.743 278.854 273.713 1 13.37 ? 4623 L5 1
+HETATM 11 C C8 . OMG C L5 . ? 318.877 279.329 272.115 1 13.37 ? 4623 L5 1
+HETATM 12 N N7 . OMG C L5 . ? 318.811 279.404 270.773 1 13.37 ? 4623 L5 1
+HETATM 13 C C5 . OMG C L5 . ? 320.002 279.826 270.341 1 13.37 ? 4623 L5 1
+HETATM 14 O O6 . OMG C L5 . ? 320.019 279.996 267.976 1 13.37 ? 4623 L5 1
+ATOM 15 C C8 . A C L5 . ? 319.536 283.366 270.352 1 13.37 ? 4624 L5 1
+ATOM 16 N N7 . A C L5 . ? 318.921 283.125 269.232 1 13.37 ? 4624 L5 1
+ATOM 17 C C5 . A C L5 . ? 319.877 283.386 268.27 1 13.37 ? 4624 L5 1
+ATOM 18 C C6 . A C L5 . ? 319.857 283.319 266.87 1 13.37 ? 4624 L5 1
+ATOM 19 N N6 . A C L5 . ? 318.804 282.947 266.163 1 13.37 ? 4624 L5 1
+ATOM 20 P P . C C L5 . ? 313.19 281.63 264.014 1 13.37 ? 4670 L5 1
+ATOM 21 O OP1 . C C L5 . ? 312.423 280.692 264.848 1 13.37 ? 4670 L5 1
+ATOM 22 O OP2 . C C L5 . ? 314.228 282.463 264.637 1 13.37 ? 4670 L5 1
+HETATM 23 MG MG . MG BV MG! . ? 315.037 280.014 269.007 1 19.63 ? 5836 L5 1
+ATOM 24 C CG . HIS NA LB . ? 310.158 281.275 270.998 1 13.37 ? 236 LB 1
+ATOM 25 N ND1 . HIS NA LB . ? 310.137 282.492 270.353 1 13.37 ? 236 LB 1
+ATOM 26 C CD2 . HIS NA LB . ? 311.308 281.246 271.71 1 13.37 ? 236 LB 1
+ATOM 27 C CE1 . HIS NA LB . ? 311.238 283.161 270.645 1 13.37 ? 236 LB 1
+ATOM 28 N NE2 . HIS NA LB . ? 311.966 282.426 271.465 1 13.37 ? 236 LB 1

@@ -1,0 +1,144 @@
+data_8CCS_qL_201_K
+_entry.id '8CCS_qL_201_K'
+
+_cell.entry_id '8CCS_qL_201_K'
+_cell.length_a 1
+_cell.length_b 1
+_cell.length_c 1
+_cell.angle_alpha 90
+_cell.angle_beta 90
+_cell.angle_gamma 90
+
+_symmetry.entry_id '8CCS_qL_201_K'
+_symmetry.space_group_name_H-M 'P 1'
+
+loop_
+_entity.id
+_entity.type
+c polymer
+MG! non-polymer
+q polymer
+K! non-polymer
+
+loop_
+_entity_poly.entity_id
+_entity_poly.type
+_entity_poly.pdbx_strand_id
+_entity_poly.pdbx_seq_one_letter_code
+c polyribonucleotide c ?
+q polypeptide(L) q ?
+
+
+
+loop_
+_chem_comp.id
+_chem_comp.type
+A .
+ARG .
+ASN .
+ASP .
+G .
+GLU .
+K .
+MG .
+PHE .
+SER .
+U .
+
+loop_
+_struct_asym.id
+_struct_asym.entity_id
+HB c
+UL MG!
+VB q
+HO K!
+
+
+
+loop_
+_atom_type.symbol
+C
+N
+O
+MG
+K
+
+
+loop_
+_atom_site.group_PDB
+_atom_site.id
+_atom_site.type_symbol
+_atom_site.label_atom_id
+_atom_site.label_alt_id
+_atom_site.label_comp_id
+_atom_site.label_asym_id
+_atom_site.label_entity_id
+_atom_site.label_seq_id
+_atom_site.pdbx_PDB_ins_code
+_atom_site.Cartn_x
+_atom_site.Cartn_y
+_atom_site.Cartn_z
+_atom_site.occupancy
+_atom_site.B_iso_or_equiv
+_atom_site.pdbx_formal_charge
+_atom_site.auth_seq_id
+_atom_site.auth_asym_id
+_atom_site.pdbx_PDB_model_num
+ATOM 1 O OP2 . G HB c . ? 321.021 287.728 238.008 1 53.16 ? 901 c 1
+ATOM 2 C C8 . G HB c . ? 318.232 287.889 240.724 1 53.16 ? 901 c 1
+ATOM 3 N N9 . G HB c . ? 313.947 288.222 238.214 1 52.31 ? 902 c 1
+ATOM 4 C C8 . G HB c . ? 315.171 287.86 237.716 1 52.31 ? 902 c 1
+ATOM 5 N N7 . G HB c . ? 316.079 288.774 237.873 1 52.31 ? 902 c 1
+ATOM 6 C C5 . G HB c . ? 315.415 289.807 238.507 1 52.31 ? 902 c 1
+ATOM 7 C C6 . G HB c . ? 315.894 291.069 238.926 1 52.31 ? 902 c 1
+ATOM 8 O O6 . G HB c . ? 317.033 291.536 238.82 1 52.31 ? 902 c 1
+ATOM 9 N N1 . G HB c . ? 314.889 291.812 239.527 1 52.31 ? 902 c 1
+ATOM 10 C C2 . G HB c . ? 313.596 291.399 239.703 1 52.31 ? 902 c 1
+ATOM 11 N N3 . G HB c . ? 313.135 290.222 239.317 1 52.31 ? 902 c 1
+ATOM 12 C C4 . G HB c . ? 314.096 289.485 238.728 1 52.31 ? 902 c 1
+ATOM 13 O OP2 . U HB c . ? 313.337 286.839 233.424 1 53.09 ? 903 c 1
+ATOM 14 N N3 . U HB c . ? 313.147 292.996 235.998 1 53.09 ? 903 c 1
+ATOM 15 C C4 . U HB c . ? 314.174 292.107 235.8 1 53.09 ? 903 c 1
+ATOM 16 O O4 . U HB c . ? 315.325 292.471 236.021 1 53.09 ? 903 c 1
+ATOM 17 C C5 . U HB c . ? 313.769 290.819 235.336 1 53.09 ? 903 c 1
+ATOM 18 O OP1 . A HB c . ? 313.85 295.342 232.048 1 54.82 ? 905 c 1
+ATOM 19 O OP2 . A HB c . ? 314.145 295.867 236.931 1 52.1 ? 906 c 1
+HETATM 20 MG MG . MG UL MG! . ? 318.801 290.691 239.825 1 53.45 ? 1901 c 1
+ATOM 21 C C . PHE VB q . ? 318.823 287.896 231.703 1 55.96 ? 23 q 1
+ATOM 22 O O . PHE VB q . ? 318.737 286.941 232.48 1 55.96 ? 23 q 1
+ATOM 23 N N . ASN VB q . ? 318.758 289.161 232.094 1 54.35 ? 24 q 1
+ATOM 24 C CA . ASN VB q . ? 318.762 289.676 233.463 1 54.35 ? 24 q 1
+ATOM 25 C C . ASN VB q . ? 320.135 289.692 234.139 1 54.35 ? 24 q 1
+ATOM 26 O O . ASN VB q . ? 320.211 290.232 235.244 1 54.35 ? 24 q 1
+ATOM 27 C CB . ASN VB q . ? 317.81 288.916 234.404 1 54.35 ? 24 q 1
+ATOM 28 C CG . ASN VB q . ? 316.492 288.575 233.755 1 54.35 ? 24 q 1
+ATOM 29 O OD1 . ASN VB q . ? 315.911 289.387 233.039 1 54.35 ? 24 q 1
+ATOM 30 N ND2 . ASN VB q . ? 316.01 287.363 234.001 1 54.35 ? 24 q 1
+ATOM 31 N N . ASP VB q . ? 321.208 289.174 233.535 1 53.73 ? 25 q 1
+ATOM 32 C CA . ASP VB q . ? 322.525 289.305 234.162 1 53.73 ? 25 q 1
+ATOM 33 C CB . ASP VB q . ? 322.607 288.564 235.498 1 53.73 ? 25 q 1
+ATOM 34 C CA . ASP VB q . ? 317.709 296.153 238.898 1 56.63 ? 51 q 1
+ATOM 35 C C . ASP VB q . ? 317.178 295.768 237.525 1 56.63 ? 51 q 1
+ATOM 36 O O . ASP VB q . ? 316.596 294.688 237.384 1 56.63 ? 51 q 1
+ATOM 37 C CB . ASP VB q . ? 316.543 296.173 239.896 1 56.63 ? 51 q 1
+ATOM 38 C CG . ASP VB q . ? 316.289 294.822 240.519 1 56.63 ? 51 q 1
+ATOM 39 O OD1 . ASP VB q . ? 315.561 294.017 239.906 1 56.63 ? 51 q 1
+ATOM 40 N N . ARG VB q . ? 317.382 296.596 236.506 1 58.75 ? 52 q 1
+ATOM 41 C CA . ARG VB q . ? 317.003 296.276 235.138 1 58.75 ? 52 q 1
+ATOM 42 C C . ARG VB q . ? 318.153 296.374 234.156 1 58.75 ? 52 q 1
+ATOM 43 O O . ARG VB q . ? 318.082 295.753 233.09 1 58.75 ? 52 q 1
+ATOM 44 C C . ASP VB q . ? 321.395 296.103 234.031 1 57.78 ? 53 q 1
+ATOM 45 O O . ASP VB q . ? 322.533 296.137 233.557 1 57.78 ? 53 q 1
+ATOM 46 N N . GLU VB q . ? 320.987 295.14 234.864 1 56.15 ? 54 q 1
+ATOM 47 C CA . GLU VB q . ? 321.885 294.068 235.279 1 56.15 ? 54 q 1
+ATOM 48 C C . GLU VB q . ? 322.481 293.345 234.078 1 56.15 ? 54 q 1
+ATOM 49 C CB . GLU VB q . ? 321.137 293.069 236.177 1 56.15 ? 54 q 1
+ATOM 50 C CG . GLU VB q . ? 320.855 293.521 237.619 1 56.15 ? 54 q 1
+ATOM 51 C CD . GLU VB q . ? 320.039 292.501 238.432 1 56.15 ? 54 q 1
+ATOM 52 O OE1 . GLU VB q . ? 319.616 291.47 237.878 1 56.15 ? 54 q 1
+ATOM 53 O OE2 . GLU VB q . ? 319.811 292.721 239.638 1 56.15 ? 54 q 1
+ATOM 54 N N . SER VB q . ? 321.712 293.202 233 1 56.28 ? 55 q 1
+ATOM 55 C CA . SER VB q . ? 322.133 292.467 231.815 1 56.28 ? 55 q 1
+ATOM 56 C CB . SER VB q . ? 320.983 291.604 231.297 1 56.28 ? 55 q 1
+ATOM 57 N N . SER VB q . ? 322.742 294.668 230.925 1 56.93 ? 56 q 1
+HETATM 58 K K . K HO K! . ? 317.832 291.732 235.799 1 56.85 ? 201 q 1

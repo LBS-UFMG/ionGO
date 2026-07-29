@@ -1,0 +1,145 @@
+data_8CCS_AAU_3491_MG
+_entry.id '8CCS_AAU_3491_MG'
+
+_cell.entry_id '8CCS_AAU_3491_MG'
+_cell.length_a 1
+_cell.length_b 1
+_cell.length_c 1
+_cell.angle_alpha 90
+_cell.angle_beta 90
+_cell.angle_gamma 90
+
+_symmetry.entry_id '8CCS_AAU_3491_MG'
+_symmetry.space_group_name_H-M 'P 1'
+
+loop_
+_entity.id
+_entity.type
+AA polymer
+MG! non-polymer
+water water
+B polymer
+V polymer
+
+loop_
+_entity_poly.entity_id
+_entity_poly.type
+_entity_poly.pdbx_strand_id
+_entity_poly.pdbx_seq_one_letter_code
+AA polyribonucleotide AA ?
+B polypeptide(L) B ?
+V polypeptide(L) V ?
+
+
+
+loop_
+_chem_comp.id
+_chem_comp.type
+A .
+ARG .
+C .
+G .
+GLY .
+HIS .
+HOH .
+MG .
+THR .
+
+loop_
+_struct_asym.id
+_struct_asym.entity_id
+K AA
+UF MG!
+KO water
+L B
+AB V
+
+
+
+loop_
+_atom_type.symbol
+C
+N
+O
+MG
+P
+
+
+loop_
+_atom_site.group_PDB
+_atom_site.id
+_atom_site.type_symbol
+_atom_site.label_atom_id
+_atom_site.label_alt_id
+_atom_site.label_comp_id
+_atom_site.label_asym_id
+_atom_site.label_entity_id
+_atom_site.label_seq_id
+_atom_site.pdbx_PDB_ins_code
+_atom_site.Cartn_x
+_atom_site.Cartn_y
+_atom_site.Cartn_z
+_atom_site.occupancy
+_atom_site.B_iso_or_equiv
+_atom_site.pdbx_formal_charge
+_atom_site.auth_seq_id
+_atom_site.auth_asym_id
+_atom_site.pdbx_PDB_model_num
+ATOM 1 C "C5'" . A K AA . ? 269.1 232.668 300.906 1 27.63 ? 882 AA 1
+ATOM 2 C "C4'" . A K AA . ? 269.717 233.344 299.714 1 27.63 ? 882 AA 1
+ATOM 3 C "C3'" . A K AA . ? 269.874 234.85 299.823 1 27.63 ? 882 AA 1
+ATOM 4 O "O3'" . A K AA . ? 271.077 235.2 300.474 1 27.63 ? 882 AA 1
+ATOM 5 C "C2'" . A K AA . ? 269.84 235.313 298.374 1 27.63 ? 882 AA 1
+ATOM 6 P P . A K AA . ? 271.093 236.263 301.666 1 27.55 ? 883 AA 1
+ATOM 7 O OP1 . A K AA . ? 272.195 235.851 302.559 1 27.55 ? 883 AA 1
+ATOM 8 O OP2 . A K AA . ? 269.729 236.415 302.212 1 27.55 ? 883 AA 1
+ATOM 9 O "O5'" . A K AA . ? 271.534 237.619 300.967 1 27.55 ? 883 AA 1
+ATOM 10 C "C5'" . A K AA . ? 270.626 238.388 300.196 1 27.55 ? 883 AA 1
+ATOM 11 C "C4'" . A K AA . ? 271.219 239.728 299.854 1 27.55 ? 883 AA 1
+ATOM 12 C "C3'" . A K AA . ? 272.595 239.681 299.214 1 27.55 ? 883 AA 1
+ATOM 13 C C8 . A K AA . ? 273.371 239.432 302.709 1 27.55 ? 883 AA 1
+ATOM 14 N N7 . A K AA . ? 274.304 239.192 303.586 1 27.55 ? 883 AA 1
+ATOM 15 O OP1 . A K AA . ? 272.815 236.999 297.918 1 28.23 ? 884 AA 1
+ATOM 16 C C5 . A K AA . ? 278.084 239.315 301.883 1 27.53 ? 921 AA 1
+ATOM 17 C C6 . A K AA . ? 277.231 238.228 302.119 1 27.53 ? 921 AA 1
+ATOM 18 N N6 . A K AA . ? 277.32 237.435 303.183 1 27.53 ? 921 AA 1
+ATOM 19 N N1 . A K AA . ? 276.267 237.982 301.213 1 27.53 ? 921 AA 1
+ATOM 20 C C2 . A K AA . ? 276.173 238.778 300.147 1 27.53 ? 921 AA 1
+ATOM 21 N N3 . A K AA . ? 276.914 239.828 299.818 1 27.53 ? 921 AA 1
+ATOM 22 C "C3'" . G K AA . ? 278.114 232.737 302.51 1 27.7 ? 1845 AA 1
+ATOM 23 O "O3'" . G K AA . ? 277.927 233.918 303.266 1 27.7 ? 1845 AA 1
+ATOM 24 C "C2'" . G K AA . ? 277.147 232.597 301.349 1 27.7 ? 1845 AA 1
+ATOM 25 O "O2'" . G K AA . ? 277.063 233.81 300.621 1 27.7 ? 1845 AA 1
+ATOM 26 C "C1'" . G K AA . ? 277.875 231.569 300.486 1 27.7 ? 1845 AA 1
+ATOM 27 N N9 . G K AA . ? 277.388 230.209 300.764 1 27.7 ? 1845 AA 1
+ATOM 28 N N2 . G K AA . ? 273.19 230.271 298.714 1 27.7 ? 1845 AA 1
+ATOM 29 N N3 . G K AA . ? 275.266 230.423 299.66 1 27.7 ? 1845 AA 1
+ATOM 30 P P . C K AA . ? 276.795 233.984 304.402 1 29.61 ? 1846 AA 1
+ATOM 31 O OP1 . C K AA . ? 275.47 233.843 303.772 1 29.61 ? 1846 AA 1
+ATOM 32 O OP2 . C K AA . ? 277.075 235.167 305.237 1 29.61 ? 1846 AA 1
+ATOM 33 O "O5'" . C K AA . ? 277.046 232.688 305.291 1 29.61 ? 1846 AA 1
+ATOM 34 C "C5'" . C K AA . ? 278.263 232.515 306.008 1 29.61 ? 1846 AA 1
+ATOM 35 C "C4'" . C K AA . ? 278.036 232.121 307.448 1 29.61 ? 1846 AA 1
+ATOM 36 C "C3'" . C K AA . ? 276.918 231.106 307.7 1 29.61 ? 1846 AA 1
+ATOM 37 N N7 . A K AA . ? 272.472 230.399 306.101 1 29.52 ? 1847 AA 1
+ATOM 38 C C6 . A K AA . ? 270.131 230.241 305.099 1 29.52 ? 1847 AA 1
+ATOM 39 N N6 . A K AA . ? 270.001 231.466 304.603 1 29.52 ? 1847 AA 1
+ATOM 40 C C2 . C K AA . ? 272.231 230.021 302.036 1 28.97 ? 1849 AA 1
+ATOM 41 O O2 . C K AA . ? 271.462 230.634 301.297 1 28.97 ? 1849 AA 1
+ATOM 42 N N3 . C K AA . ? 273.301 230.615 302.591 1 28.97 ? 1849 AA 1
+ATOM 43 C C4 . C K AA . ? 274.103 229.91 303.375 1 28.97 ? 1849 AA 1
+ATOM 44 N N4 . C K AA . ? 275.147 230.534 303.909 1 28.97 ? 1849 AA 1
+HETATM 45 MG MG . MG UF MG! . ? 273.961 234.864 302.883 1 28.1 ? 3491 AA 1
+HETATM 46 O O . HOH KO water . ? 275.291 235.738 301.394 1 28.1 ? 3820 AA 1
+HETATM 47 O O . HOH KO water . ? 272.628 233.999 304.373 1 28.1 ? 3999 AA 1
+HETATM 48 O O . HOH KO water . ? 274.501 236.464 304.26 1 28.1 ? 4271 AA 1
+HETATM 49 O O . HOH KO water . ? 273.44 233.262 301.5 1 28.1 ? 4321 AA 1
+ATOM 50 C CA . HIS L B . ? 269.284 239.614 303.345 1 28.31 ? 133 B 1
+ATOM 51 C C . HIS L B . ? 270.305 239.249 304.419 1 28.31 ? 133 B 1
+ATOM 52 N N . GLY L B . ? 270.544 237.953 304.578 1 28.2 ? 134 B 1
+ATOM 53 C CA . GLY L B . ? 271.598 237.474 305.453 1 28.2 ? 134 B 1
+ATOM 54 C C . GLY L B . ? 271.381 237.795 306.912 1 28.2 ? 134 B 1
+ATOM 55 O O . GLY L B . ? 272.324 238.195 307.602 1 28.2 ? 134 B 1
+ATOM 56 N N . ARG L B . ? 270.162 237.63 307.402 1 29.59 ? 135 B 1
+ATOM 57 O OG1 . THR AB V . ? 274.727 235.447 298.707 1 27.84 ? 5 V 1
+ATOM 58 C CG2 . THR AB V . ? 275.03 233.204 297.901 1 27.84 ? 5 V 1

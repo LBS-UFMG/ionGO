@@ -1,0 +1,152 @@
+data_8GLP_L5U_5252_MG
+_entry.id '8GLP_L5U_5252_MG'
+
+_cell.entry_id '8GLP_L5U_5252_MG'
+_cell.length_a 1
+_cell.length_b 1
+_cell.length_c 1
+_cell.angle_alpha 90
+_cell.angle_beta 90
+_cell.angle_gamma 90
+
+_symmetry.entry_id '8GLP_L5U_5252_MG'
+_symmetry.space_group_name_H-M 'P 1'
+
+loop_
+_entity.id
+_entity.type
+L5 polymer
+MG! non-polymer
+water water
+LX polymer
+
+loop_
+_entity_poly.entity_id
+_entity_poly.type
+_entity_poly.pdbx_strand_id
+_entity_poly.pdbx_seq_one_letter_code
+L5 polyribonucleotide L5 ?
+LX polypeptide(L) LX ?
+
+
+
+loop_
+_chem_comp.id
+_chem_comp.type
+A .
+C .
+G .
+HOH .
+LEU .
+LYS .
+MG .
+THR .
+U .
+
+loop_
+_struct_asym.id
+_struct_asym.entity_id
+C L5
+OO MG!
+HJA water
+GB LX
+MKA water
+
+
+
+loop_
+_atom_type.symbol
+C
+N
+O
+MG
+P
+
+
+loop_
+_atom_site.group_PDB
+_atom_site.id
+_atom_site.type_symbol
+_atom_site.label_atom_id
+_atom_site.label_alt_id
+_atom_site.label_comp_id
+_atom_site.label_asym_id
+_atom_site.label_entity_id
+_atom_site.label_seq_id
+_atom_site.pdbx_PDB_ins_code
+_atom_site.Cartn_x
+_atom_site.Cartn_y
+_atom_site.Cartn_z
+_atom_site.occupancy
+_atom_site.B_iso_or_equiv
+_atom_site.pdbx_formal_charge
+_atom_site.auth_seq_id
+_atom_site.auth_asym_id
+_atom_site.pdbx_PDB_model_num
+ATOM 1 C "C5'" . C C L5 . ? 249.463 337.11 273.446 1 28.58 ? 2437 L5 1
+ATOM 2 C "C4'" . C C L5 . ? 248.609 338.352 273.502 1 28.58 ? 2437 L5 1
+ATOM 3 O "O4'" . C C L5 . ? 249.328 339.392 274.219 1 28.58 ? 2437 L5 1
+ATOM 4 C "C3'" . C C L5 . ? 248.253 338.953 272.148 1 28.58 ? 2437 L5 1
+ATOM 5 O "O3'" . C C L5 . ? 247.005 339.628 272.259 1 28.58 ? 2437 L5 1
+ATOM 6 C "C2'" . C C L5 . ? 249.354 339.984 271.954 1 28.58 ? 2437 L5 1
+ATOM 7 C "C1'" . C C L5 . ? 249.508 340.512 273.374 1 28.58 ? 2437 L5 1
+ATOM 8 P P . A C L5 . ? 245.634 338.887 271.893 1 28.11 ? 2438 L5 1
+ATOM 9 O OP1 . A C L5 . ? 244.542 339.662 272.508 1 28.11 ? 2438 L5 1
+ATOM 10 O OP2 . A C L5 . ? 245.766 337.453 272.222 1 28.11 ? 2438 L5 1
+ATOM 11 O "O5'" . A C L5 . ? 245.542 339.002 270.311 1 28.11 ? 2438 L5 1
+ATOM 12 C "C5'" . A C L5 . ? 245.417 340.257 269.651 1 28.11 ? 2438 L5 1
+ATOM 13 C "C4'" . A C L5 . ? 245.188 340.072 268.169 1 28.11 ? 2438 L5 1
+ATOM 14 O "O4'" . A C L5 . ? 246.243 339.232 267.624 1 28.11 ? 2438 L5 1
+ATOM 15 C "C3'" . A C L5 . ? 243.882 339.381 267.795 1 28.11 ? 2438 L5 1
+ATOM 16 C "C2'" . A C L5 . ? 244.31 337.922 267.719 1 28.11 ? 2438 L5 1
+ATOM 17 C C8 . A C L5 . ? 246.834 336.271 268.452 1 28.11 ? 2438 L5 1
+ATOM 18 N N7 . A C L5 . ? 247.723 335.327 268.329 1 28.11 ? 2438 L5 1
+ATOM 19 C C6 . G C L5 . ? 242.93 330.807 267.624 1 28.47 ? 2442 L5 1
+ATOM 20 O O6 . G C L5 . ? 242.335 331.879 267.693 1 28.47 ? 2442 L5 1
+ATOM 21 C "C1'" . C C L5 . ? 249.767 338.914 267.741 1 28.7 ? 2531 L5 1
+ATOM 22 O O2 . C C L5 . ? 249.832 337.396 269.975 1 28.7 ? 2531 L5 1
+ATOM 23 O OP2 . C C L5 . ? 240.429 334.957 276.437 1 28.97 ? 2780 L5 1
+ATOM 24 O "O5'" . C C L5 . ? 240.619 332.525 276.827 1 28.97 ? 2780 L5 1
+ATOM 25 C "C5'" . C C L5 . ? 240.327 331.3 277.471 1 28.97 ? 2780 L5 1
+ATOM 26 N N3 . C C L5 . ? 241.785 330.987 271.112 1 28.97 ? 2780 L5 1
+ATOM 27 C C4 . C C L5 . ? 241.411 332.249 271.278 1 28.97 ? 2780 L5 1
+ATOM 28 N N4 . C C L5 . ? 241.532 333.064 270.235 1 28.97 ? 2780 L5 1
+ATOM 29 C C5 . C C L5 . ? 240.906 332.725 272.519 1 28.97 ? 2780 L5 1
+ATOM 30 C C6 . C C L5 . ? 240.812 331.847 273.521 1 28.97 ? 2780 L5 1
+ATOM 31 P P . G C L5 . ? 244.698 330.647 277.319 1 27.1 ? 2781 L5 1
+ATOM 32 O OP2 . G C L5 . ? 244.559 332.026 276.815 1 27.1 ? 2781 L5 1
+ATOM 33 N N7 . G C L5 . ? 244.735 331.506 271.955 1 27.1 ? 2781 L5 1
+ATOM 34 C C5 . G C L5 . ? 245.421 331.236 270.788 1 27.1 ? 2781 L5 1
+ATOM 35 C C6 . G C L5 . ? 245.474 331.949 269.568 1 27.1 ? 2781 L5 1
+ATOM 36 O O6 . G C L5 . ? 244.904 332.994 269.27 1 27.1 ? 2781 L5 1
+ATOM 37 N N1 . G C L5 . ? 246.291 331.325 268.638 1 27.1 ? 2781 L5 1
+ATOM 38 N N1 . U C L5 . ? 249.751 332.272 271.664 1 26.86 ? 2782 L5 1
+ATOM 39 C C2 . U C L5 . ? 249.417 332.95 270.514 1 26.86 ? 2782 L5 1
+ATOM 40 O O2 . U C L5 . ? 250.064 332.878 269.493 1 26.86 ? 2782 L5 1
+ATOM 41 N N3 . U C L5 . ? 248.289 333.712 270.605 1 26.86 ? 2782 L5 1
+ATOM 42 C C4 . U C L5 . ? 247.489 333.871 271.709 1 26.86 ? 2782 L5 1
+ATOM 43 O O4 . U C L5 . ? 246.504 334.592 271.636 1 26.86 ? 2782 L5 1
+ATOM 44 C C5 . U C L5 . ? 247.905 333.145 272.861 1 26.86 ? 2782 L5 1
+ATOM 45 C C6 . U C L5 . ? 249.001 332.394 272.801 1 26.86 ? 2782 L5 1
+HETATM 46 MG MG . MG OO MG! . ? 245.081 335.645 272.58 1 28.75 ? 5252 L5 1
+HETATM 47 O O . HOH HJA water . ? 243.292 333.804 275.884 1 28.74 ? 5901 L5 1
+HETATM 48 O O . HOH HJA water . ? 240.366 337.731 277.231 1 30.95 ? 6012 L5 1
+HETATM 49 O O . HOH HJA water . ? 243.562 336.793 273.406 1 29.13 ? 6860 L5 1
+HETATM 50 O O . HOH HJA water . ? 249.426 332.878 275.884 1 28.05 ? 7233 L5 1
+HETATM 51 O O . HOH HJA water . ? 244.081 335.356 270.789 1 27.87 ? 7777 L5 1
+HETATM 52 O O . HOH HJA water . ? 241.192 335.713 267.654 1 32.04 ? 8379 L5 1
+HETATM 53 O O . HOH HJA water . ? 244.208 333.798 273.344 1 27.72 ? 8411 L5 1
+HETATM 54 O O . HOH HJA water . ? 240.987 336.013 273.951 1 30.56 ? 8751 L5 1
+HETATM 55 O O . HOH HJA water . ? 246.833 333.704 276.503 1 27.58 ? 9620 L5 1
+HETATM 56 O O . HOH HJA water . ? 241.228 335.94 270.451 1 31.81 ? 10103 L5 1
+ATOM 57 C CE . LYS GB LX . ? 241.503 340.372 273.396 1 32.35 ? 106 LX 1
+ATOM 58 N NZ . LYS GB LX . ? 242.018 340.229 272.012 1 32.35 ? 106 LX 1
+ATOM 59 C CA . THR GB LX . ? 244.779 339.954 276.664 1 29.46 ? 126 LX 1
+ATOM 60 C C . THR GB LX . ? 245.611 338.701 276.477 1 29.46 ? 126 LX 1
+ATOM 61 O O . THR GB LX . ? 245.672 338.126 275.389 1 29.46 ? 126 LX 1
+ATOM 62 C CB . THR GB LX . ? 243.376 339.545 277.138 1 29.46 ? 126 LX 1
+ATOM 63 O OG1 . THR GB LX . ? 242.731 338.768 276.123 1 29.46 ? 126 LX 1
+ATOM 64 N N . LEU GB LX . ? 246.249 338.285 277.561 1 28.52 ? 127 LX 1
+ATOM 65 C CB . LEU GB LX . ? 248.373 337.03 277.303 1 28.52 ? 127 LX 1
+HETATM 66 O O . HOH MKA water . ? 246.148 335.741 274.309 1 28.4 ? 205 LX 1
+HETATM 67 O O . HOH MKA water . ? 243.67 336.182 277.224 1 30.46 ? 210 LX 1

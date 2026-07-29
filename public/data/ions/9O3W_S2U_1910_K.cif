@@ -1,0 +1,127 @@
+data_9O3W_S2U_1910_K
+_entry.id '9O3W_S2U_1910_K'
+
+_cell.entry_id '9O3W_S2U_1910_K'
+_cell.length_a 1
+_cell.length_b 1
+_cell.length_c 1
+_cell.angle_alpha 90
+_cell.angle_beta 90
+_cell.angle_gamma 90
+
+_symmetry.entry_id '9O3W_S2U_1910_K'
+_symmetry.space_group_name_H-M 'P 1'
+
+loop_
+_entity.id
+_entity.type
+S2 polymer
+K! non-polymer
+water water
+
+loop_
+_entity_poly.entity_id
+_entity_poly.type
+_entity_poly.pdbx_strand_id
+_entity_poly.pdbx_seq_one_letter_code
+S2 polyribonucleotide S2 ?
+
+
+
+loop_
+_chem_comp.id
+_chem_comp.type
+A .
+C .
+G .
+HOH .
+K .
+U .
+
+loop_
+_struct_asym.id
+_struct_asym.entity_id
+VA S2
+ZW K!
+EBA water
+GBA water
+JBA water
+MBA water
+
+
+
+loop_
+_atom_type.symbol
+C
+N
+O
+K
+
+
+loop_
+_atom_site.group_PDB
+_atom_site.id
+_atom_site.type_symbol
+_atom_site.label_atom_id
+_atom_site.label_alt_id
+_atom_site.label_comp_id
+_atom_site.label_asym_id
+_atom_site.label_entity_id
+_atom_site.label_seq_id
+_atom_site.pdbx_PDB_ins_code
+_atom_site.Cartn_x
+_atom_site.Cartn_y
+_atom_site.Cartn_z
+_atom_site.occupancy
+_atom_site.B_iso_or_equiv
+_atom_site.pdbx_formal_charge
+_atom_site.auth_seq_id
+_atom_site.auth_asym_id
+_atom_site.pdbx_PDB_model_num
+ATOM 1 C C5 . A VA S2 . ? 201.066 269.073 267.674 1 7.58 ? 1200 S2 1
+ATOM 2 N N1 . U VA S2 . ? 201.112 268.814 272.996 1 8.62 ? 1201 S2 1
+ATOM 3 N N3 . U VA S2 . ? 200.634 266.71 272.224 1 7.32 ? 1201 S2 1
+ATOM 4 C C4 . U VA S2 . ? 201.462 266.803 271.138 1 8.52 ? 1201 S2 1
+ATOM 5 O O4 . U VA S2 . ? 201.547 265.857 270.381 1 9.85 ? 1201 S2 1
+ATOM 6 C C5 . U VA S2 . ? 202.158 268.04 271.025 1 9.18 ? 1201 S2 1
+ATOM 7 C C6 . U VA S2 . ? 201.959 268.983 271.934 1 10.32 ? 1201 S2 1
+ATOM 8 N N1 . U VA S2 . ? 201.828 265.665 276.335 1 9.84 ? 1202 S2 1
+ATOM 9 C C2 . U VA S2 . ? 201.304 264.494 275.829 1 9.81 ? 1202 S2 1
+ATOM 10 N N3 . U VA S2 . ? 201.756 264.122 274.6 1 8.17 ? 1202 S2 1
+ATOM 11 C C4 . U VA S2 . ? 202.659 264.794 273.822 1 8.61 ? 1202 S2 1
+ATOM 12 O O4 . U VA S2 . ? 202.956 264.341 272.729 1 10.08 ? 1202 S2 1
+ATOM 13 C C5 . U VA S2 . ? 203.159 265.998 274.403 1 9.21 ? 1202 S2 1
+ATOM 14 C C6 . U VA S2 . ? 202.739 266.378 275.608 1 9.73 ? 1202 S2 1
+ATOM 15 C C8 . G VA S2 . ? 204.172 262.773 276.615 1 9.25 ? 1203 S2 1
+ATOM 16 N N7 . G VA S2 . ? 204.603 262.827 275.393 1 8.64 ? 1203 S2 1
+ATOM 17 C C5 . G VA S2 . ? 204.179 261.646 274.833 1 7.69 ? 1203 S2 1
+ATOM 18 C C6 . G VA S2 . ? 204.33 261.123 273.532 1 7.66 ? 1203 S2 1
+ATOM 19 O O6 . G VA S2 . ? 204.869 261.621 272.562 1 9.43 ? 1203 S2 1
+ATOM 20 N N1 . G VA S2 . ? 203.754 259.879 273.394 1 7.15 ? 1203 S2 1
+ATOM 21 N N3 . G VA S2 . ? 202.945 259.684 275.58 1 8.55 ? 1203 S2 1
+ATOM 22 C C4 . G VA S2 . ? 203.496 260.89 275.745 1 8.2 ? 1203 S2 1
+ATOM 23 N N7 . A VA S2 . ? 206.609 259.812 276.64 1 8.66 ? 1204 S2 1
+ATOM 24 C C5 . A VA S2 . ? 206.672 259.419 275.323 1 6.78 ? 1204 S2 1
+ATOM 25 C C6 . A VA S2 . ? 207.209 260.061 274.21 1 7.73 ? 1204 S2 1
+ATOM 26 N N6 . A VA S2 . ? 207.784 261.241 274.295 1 7.63 ? 1204 S2 1
+ATOM 27 N N1 . A VA S2 . ? 207.148 259.446 273.018 1 8.06 ? 1204 S2 1
+ATOM 28 N N4 . C VA S2 . ? 210.211 259.731 275.512 1 8.91 ? 1205 S2 1
+ATOM 29 C "C1'" . U VA S2 . ? 208.318 259.883 267.086 1 10.38 ? 1694 S2 1
+ATOM 30 N N1 . U VA S2 . ? 208.318 260.71 268.315 1 9.64 ? 1694 S2 1
+ATOM 31 C C2 . U VA S2 . ? 207.795 260.13 269.455 1 9.8 ? 1694 S2 1
+ATOM 32 N N3 . U VA S2 . ? 207.808 260.887 270.579 1 7.84 ? 1694 S2 1
+ATOM 33 C C4 . U VA S2 . ? 208.291 262.164 270.676 1 8.3 ? 1694 S2 1
+ATOM 34 O O4 . U VA S2 . ? 208.245 262.731 271.745 1 10.53 ? 1694 S2 1
+ATOM 35 C C5 . U VA S2 . ? 208.82 262.71 269.463 1 9.43 ? 1694 S2 1
+ATOM 36 C C6 . U VA S2 . ? 208.816 261.981 268.352 1 9.22 ? 1694 S2 1
+ATOM 37 C C4 . C VA S2 . ? 203.926 259.478 269.711 1 8.69 ? 1696 S2 1
+ATOM 38 N N4 . C VA S2 . ? 204.175 260.775 269.859 1 7.67 ? 1696 S2 1
+ATOM 39 C C6 . A VA S2 . ? 200.967 261.213 272.449 1 7.26 ? 1697 S2 1
+ATOM 40 N N6 . A VA S2 . ? 201.674 261.911 271.577 1 8.16 ? 1697 S2 1
+ATOM 41 N N1 . A VA S2 . ? 200.796 261.688 273.686 1 8.06 ? 1697 S2 1
+HETATM 42 K K . K ZW K! . ? 205.518 264.225 271.877 1 29 ? 1910 S2 1
+HETATM 43 O O . HOH EBA water . ? 203.781 265.816 268.53 1 16.8 ? 6510 S2 1
+HETATM 44 O O . HOH GBA water . ? 210.114 266.094 268.744 1 14.32 ? 6932 S2 1
+HETATM 45 O O . HOH GBA water . ? 204.826 269.223 269.382 1 16.71 ? 6937 S2 1
+HETATM 46 O O . HOH JBA water . ? 209.888 263.817 274.386 1 13.08 ? 6374 S2 1
+HETATM 47 O O . HOH MBA water . ? 205.949 268.548 273.22 1 19.6 ? 6673 S2 1

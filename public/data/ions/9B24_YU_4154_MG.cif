@@ -1,0 +1,128 @@
+data_9B24_YU_4154_MG
+_entry.id '9B24_YU_4154_MG'
+
+_cell.entry_id '9B24_YU_4154_MG'
+_cell.length_a 1
+_cell.length_b 1
+_cell.length_c 1
+_cell.angle_alpha 90
+_cell.angle_beta 90
+_cell.angle_gamma 90
+
+_symmetry.entry_id '9B24_YU_4154_MG'
+_symmetry.space_group_name_H-M 'P 1'
+
+loop_
+_entity.id
+_entity.type
+Y polymer
+MG! non-polymer
+
+loop_
+_entity_poly.entity_id
+_entity_poly.type
+_entity_poly.pdbx_strand_id
+_entity_poly.pdbx_seq_one_letter_code
+Y polyribonucleotide Y ?
+
+
+
+loop_
+_chem_comp.id
+_chem_comp.type
+C .
+G .
+MG .
+U .
+
+loop_
+_struct_asym.id
+_struct_asym.entity_id
+T Y
+HP MG!
+
+
+
+loop_
+_atom_type.symbol
+C
+N
+O
+MG
+P
+
+
+loop_
+_atom_site.group_PDB
+_atom_site.id
+_atom_site.type_symbol
+_atom_site.label_atom_id
+_atom_site.label_alt_id
+_atom_site.label_comp_id
+_atom_site.label_asym_id
+_atom_site.label_entity_id
+_atom_site.label_seq_id
+_atom_site.pdbx_PDB_ins_code
+_atom_site.Cartn_x
+_atom_site.Cartn_y
+_atom_site.Cartn_z
+_atom_site.occupancy
+_atom_site.B_iso_or_equiv
+_atom_site.pdbx_formal_charge
+_atom_site.auth_seq_id
+_atom_site.auth_asym_id
+_atom_site.pdbx_PDB_model_num
+ATOM 1 C "C3'" . G T Y . ? 236.073 264.198 272.203 1 105.15 ? 860 Y 1
+ATOM 2 O "O3'" . G T Y . ? 235.487 262.916 272.324 1 105.15 ? 860 Y 1
+ATOM 3 P P . U T Y . ? 235.981 261.908 273.471 1 107.38 ? 861 Y 1
+ATOM 4 O OP2 . U T Y . ? 236.177 262.687 274.718 1 107.38 ? 861 Y 1
+ATOM 5 O "O5'" . U T Y . ? 237.405 261.415 272.957 1 107.38 ? 861 Y 1
+ATOM 6 C "C5'" . U T Y . ? 237.528 260.74 271.715 1 107.38 ? 861 Y 1
+ATOM 7 C "C3'" . U T Y . ? 239.96 260.051 272.164 1 107.38 ? 861 Y 1
+ATOM 8 O "O3'" . U T Y . ? 239.954 258.64 272.048 1 107.38 ? 861 Y 1
+ATOM 9 C "C2'" . U T Y . ? 241.282 260.681 271.738 1 107.38 ? 861 Y 1
+ATOM 10 N N1 . U T Y . ? 241.138 263.117 272.347 1 107.38 ? 861 Y 1
+ATOM 11 C C2 . U T Y . ? 242.417 263.633 272.384 1 107.38 ? 861 Y 1
+ATOM 12 O O2 . U T Y . ? 243.3 263.266 271.63 1 107.38 ? 861 Y 1
+ATOM 13 N N3 . U T Y . ? 242.634 264.594 273.338 1 107.38 ? 861 Y 1
+ATOM 14 C C4 . U T Y . ? 241.72 265.088 274.241 1 107.38 ? 861 Y 1
+ATOM 15 C C5 . U T Y . ? 240.417 264.51 274.136 1 107.38 ? 861 Y 1
+ATOM 16 C C6 . U T Y . ? 240.176 263.572 273.215 1 107.38 ? 861 Y 1
+ATOM 17 P P . U T Y . ? 239.545 257.726 273.303 1 110.69 ? 862 Y 1
+ATOM 18 O OP1 . U T Y . ? 238.956 258.604 274.345 1 110.69 ? 862 Y 1
+ATOM 19 O OP2 . U T Y . ? 240.698 256.852 273.631 1 110.69 ? 862 Y 1
+ATOM 20 O "O5'" . U T Y . ? 238.384 256.796 272.734 1 110.69 ? 862 Y 1
+ATOM 21 C "C5'" . U T Y . ? 238.56 256.071 271.526 1 110.69 ? 862 Y 1
+ATOM 22 C "C3'" . U T Y . ? 236.129 255.2 271.579 1 110.69 ? 862 Y 1
+ATOM 23 P P . U T Y . ? 244.997 264.002 278.968 1 105.03 ? 2835 Y 1
+ATOM 24 O OP2 . U T Y . ? 244.751 263.753 280.411 1 105.03 ? 2835 Y 1
+ATOM 25 O "O5'" . U T Y . ? 244.563 262.703 278.158 1 105.03 ? 2835 Y 1
+ATOM 26 C "C5'" . U T Y . ? 244.331 262.762 276.759 1 105.03 ? 2835 Y 1
+ATOM 27 C "C4'" . U T Y . ? 243.687 261.496 276.26 1 105.03 ? 2835 Y 1
+ATOM 28 O "O4'" . U T Y . ? 244.704 260.501 275.981 1 105.03 ? 2835 Y 1
+ATOM 29 C "C3'" . U T Y . ? 242.752 260.808 277.24 1 105.03 ? 2835 Y 1
+ATOM 30 O "O3'" . U T Y . ? 241.459 261.384 277.258 1 105.03 ? 2835 Y 1
+ATOM 31 C "C2'" . U T Y . ? 242.772 259.364 276.762 1 105.03 ? 2835 Y 1
+ATOM 32 O "O2'" . U T Y . ? 241.93 259.199 275.632 1 105.03 ? 2835 Y 1
+ATOM 33 C "C1'" . U T Y . ? 244.223 259.215 276.305 1 105.03 ? 2835 Y 1
+ATOM 34 N N1 . U T Y . ? 245.091 258.647 277.358 1 105.03 ? 2835 Y 1
+ATOM 35 C C2 . U T Y . ? 244.937 257.318 277.707 1 105.03 ? 2835 Y 1
+ATOM 36 O O2 . U T Y . ? 244.112 256.58 277.199 1 105.03 ? 2835 Y 1
+ATOM 37 P P . C T Y . ? 240.691 261.613 278.65 1 103.99 ? 2836 Y 1
+ATOM 38 O OP1 . C T Y . ? 239.443 262.361 278.36 1 103.99 ? 2836 Y 1
+ATOM 39 O OP2 . C T Y . ? 241.664 262.154 279.632 1 103.99 ? 2836 Y 1
+ATOM 40 O "O5'" . C T Y . ? 240.278 260.146 279.112 1 103.99 ? 2836 Y 1
+ATOM 41 C "C5'" . C T Y . ? 239.308 259.405 278.388 1 103.99 ? 2836 Y 1
+ATOM 42 C "C4'" . C T Y . ? 239.316 257.949 278.779 1 103.99 ? 2836 Y 1
+ATOM 43 O "O4'" . C T Y . ? 240.668 257.435 278.732 1 103.99 ? 2836 Y 1
+ATOM 44 C "C3'" . C T Y . ? 238.846 257.632 280.188 1 103.99 ? 2836 Y 1
+ATOM 45 O "O3'" . C T Y . ? 237.436 257.566 280.279 1 103.99 ? 2836 Y 1
+ATOM 46 C "C2'" . C T Y . ? 239.515 256.294 280.472 1 103.99 ? 2836 Y 1
+ATOM 47 O "O2'" . C T Y . ? 238.776 255.231 279.891 1 103.99 ? 2836 Y 1
+ATOM 48 C "C1'" . C T Y . ? 240.835 256.434 279.711 1 103.99 ? 2836 Y 1
+ATOM 49 N N1 . C T Y . ? 241.963 256.805 280.592 1 103.99 ? 2836 Y 1
+ATOM 50 C C5 . C T Y . ? 243.505 258.391 281.387 1 103.99 ? 2836 Y 1
+ATOM 51 C C6 . C T Y . ? 242.48 258.067 280.59 1 103.99 ? 2836 Y 1
+ATOM 52 P P . U T Y . ? 236.611 258.664 281.107 1 103.71 ? 2837 Y 1
+ATOM 53 O OP1 . U T Y . ? 237.027 260.01 280.642 1 103.71 ? 2837 Y 1
+HETATM 54 MG MG . MG HP MG! . ? 240.34 260.088 276.413 1 108.53 ? 4154 Y 1

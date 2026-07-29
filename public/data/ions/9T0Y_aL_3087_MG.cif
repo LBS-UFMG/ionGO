@@ -1,0 +1,109 @@
+data_9T0Y_aL_3087_MG
+_entry.id '9T0Y_aL_3087_MG'
+
+_cell.entry_id '9T0Y_aL_3087_MG'
+_cell.length_a 1
+_cell.length_b 1
+_cell.length_c 1
+_cell.angle_alpha 90
+_cell.angle_beta 90
+_cell.angle_gamma 90
+
+_symmetry.entry_id '9T0Y_aL_3087_MG'
+_symmetry.space_group_name_H-M 'P 1'
+
+loop_
+_entity.id
+_entity.type
+a polymer
+MG! non-polymer
+water water
+
+loop_
+_entity_poly.entity_id
+_entity_poly.type
+_entity_poly.pdbx_strand_id
+_entity_poly.pdbx_seq_one_letter_code
+a polyribonucleotide a ?
+
+
+
+loop_
+_chem_comp.id
+_chem_comp.type
+A .
+C .
+G .
+HOH .
+MG .
+U .
+
+loop_
+_struct_asym.id
+_struct_asym.entity_id
+Y a
+QI MG!
+TU water
+
+
+
+loop_
+_atom_type.symbol
+C
+O
+MG
+P
+
+
+loop_
+_atom_site.group_PDB
+_atom_site.id
+_atom_site.type_symbol
+_atom_site.label_atom_id
+_atom_site.label_alt_id
+_atom_site.label_comp_id
+_atom_site.label_asym_id
+_atom_site.label_entity_id
+_atom_site.label_seq_id
+_atom_site.pdbx_PDB_ins_code
+_atom_site.Cartn_x
+_atom_site.Cartn_y
+_atom_site.Cartn_z
+_atom_site.occupancy
+_atom_site.B_iso_or_equiv
+_atom_site.pdbx_formal_charge
+_atom_site.auth_seq_id
+_atom_site.auth_asym_id
+_atom_site.pdbx_PDB_model_num
+ATOM 1 C "C3'" . G Y a . ? 236.342767 194.715362 278.213571 1 41.8438 ? 375 a 1
+ATOM 2 O "O3'" . G Y a . ? 234.953663 194.514511 277.975805 1 46.2059 ? 375 a 1
+ATOM 3 O "O2'" . G Y a . ? 235.804839 196.199735 280.033075 1 44.996 ? 375 a 1
+ATOM 4 P P . G Y a . ? 234.318216 194.753688 276.512403 1 45.125 ? 376 a 1
+ATOM 5 O OP1 . G Y a . ? 232.916474 194.266604 276.520685 1 53.1597 ? 376 a 1
+ATOM 6 O OP2 . G Y a . ? 235.246705 194.318853 275.429173 1 47.5635 ? 376 a 1
+ATOM 7 O "O5'" . G Y a . ? 234.283083 196.341731 276.456807 1 45.2662 ? 376 a 1
+ATOM 8 C "C5'" . G Y a . ? 233.638834 197.07083 277.533876 1 42.5619 ? 376 a 1
+ATOM 9 C "C4'" . G Y a . ? 233.889624 198.544529 277.371696 1 44.2425 ? 376 a 1
+ATOM 10 O "O4'" . G Y a . ? 235.318113 198.81843 277.467435 1 44.1686 ? 376 a 1
+ATOM 11 O OP2 . G Y a . ? 231.842323 197.995346 273.844692 1 50.1533 ? 377 a 1
+ATOM 12 P P . A Y a . ? 226.923303 190.459527 273.521735 1 44.6923 ? 391 a 1
+ATOM 13 O OP1 . A Y a . ? 226.777725 191.886697 273.865991 1 52.6361 ? 391 a 1
+ATOM 14 O OP2 . A Y a . ? 227.752396 190.044945 272.359626 1 47.5309 ? 391 a 1
+ATOM 15 O "O5'" . A Y a . ? 227.591421 189.615875 274.707153 1 45.9414 ? 391 a 1
+ATOM 16 C "C5'" . A Y a . ? 227.134698 189.82207 276.070888 1 42.8667 ? 391 a 1
+ATOM 17 O OP1 . U Y a . ? 231.872596 189.107574 278.22532 1 57.2585 ? 392 a 1
+ATOM 18 O OP2 . U Y a . ? 230.773468 189.866299 276.030262 1 45.5389 ? 392 a 1
+ATOM 19 O OP1 . C Y a . ? 227.503898 191.216656 279.877901 1 53.5926 ? 413 a 1
+HETATM 20 MG MG . MG QI MG! . ? 231.423119 194.006045 275.139262 1 56.737 ? 3087 a 1
+HETATM 21 O O . HOH TU water . ? 232.075878 195.48838 273.811584 1 52.6776 ? 3672 a 1
+HETATM 22 O O . HOH TU water . ? 230.708422 192.459082 276.38265 1 55.117 ? 4209 a 1
+HETATM 23 O O . HOH TU water . ? 235.857303 197.72356 271.264976 1 42.9446 ? 4233 a 1
+HETATM 24 O O . HOH TU water . ? 231.635711 198.719743 271.19591 1 49.6384 ? 4339 a 1
+HETATM 25 O O . HOH TU water . ? 233.871052 190.941623 277.609945 1 55.3337 ? 5699 a 1
+HETATM 26 O O . HOH TU water . ? 232.539388 189.622378 273.830818 1 51.44 ? 6033 a 1
+HETATM 27 O O . HOH TU water . ? 232.397227 193.060505 279.068564 1 53.7813 ? 6238 a 1
+HETATM 28 O O . HOH TU water . ? 232.586835 192.472436 274.22732 1 51.0022 ? 6506 a 1
+HETATM 29 O O . HOH TU water . ? 234.025879 191.393547 270.961271 1 51.6393 ? 6508 a 1
+HETATM 30 O O . HOH TU water . ? 230.221377 195.388656 276.132982 1 59.9385 ? 6561 a 1
+HETATM 31 O O . HOH TU water . ? 235.335553 191.312242 275.222518 1 59.3994 ? 6716 a 1
+HETATM 32 O O . HOH TU water . ? 229.956019 193.485951 273.821211 1 70.5368 ? 7030 a 1

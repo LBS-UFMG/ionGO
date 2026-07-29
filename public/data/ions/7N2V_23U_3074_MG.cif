@@ -1,0 +1,124 @@
+data_7N2V_23U_3074_MG
+_entry.id '7N2V_23U_3074_MG'
+
+_cell.entry_id '7N2V_23U_3074_MG'
+_cell.length_a 1
+_cell.length_b 1
+_cell.length_c 1
+_cell.angle_alpha 90
+_cell.angle_beta 90
+_cell.angle_gamma 90
+
+_symmetry.entry_id '7N2V_23U_3074_MG'
+_symmetry.space_group_name_H-M 'P 1'
+
+loop_
+_entity.id
+_entity.type
+23 polymer
+MG! non-polymer
+
+loop_
+_entity_poly.entity_id
+_entity_poly.type
+_entity_poly.pdbx_strand_id
+_entity_poly.pdbx_seq_one_letter_code
+23 polyribonucleotide 23 ?
+
+
+
+loop_
+_chem_comp.id
+_chem_comp.type
+6MZ .
+A .
+C .
+G .
+MG .
+U .
+
+loop_
+_struct_asym.id
+_struct_asym.entity_id
+W 23
+WG MG!
+UM MG!
+
+
+
+loop_
+_atom_type.symbol
+C
+N
+O
+MG
+P
+
+
+loop_
+_atom_site.group_PDB
+_atom_site.id
+_atom_site.type_symbol
+_atom_site.label_atom_id
+_atom_site.label_alt_id
+_atom_site.label_comp_id
+_atom_site.label_asym_id
+_atom_site.label_entity_id
+_atom_site.label_seq_id
+_atom_site.pdbx_PDB_ins_code
+_atom_site.Cartn_x
+_atom_site.Cartn_y
+_atom_site.Cartn_z
+_atom_site.occupancy
+_atom_site.B_iso_or_equiv
+_atom_site.pdbx_formal_charge
+_atom_site.auth_seq_id
+_atom_site.auth_asym_id
+_atom_site.pdbx_PDB_model_num
+ATOM 1 O "O3'" . U W 23 . ? 349.962 305.627 335.544 1 55.44 ? 567 23 1
+ATOM 2 C "C2'" . U W 23 . ? 350.401 303.461 334.497 1 55.44 ? 567 23 1
+ATOM 3 O "O2'" . U W 23 . ? 349.212 303.704 333.765 1 55.44 ? 567 23 1
+ATOM 4 O "O4'" . U W 23 . ? 349.303 301.487 336.726 1 55.32 ? 568 23 1
+ATOM 5 O "O2'" . U W 23 . ? 347.006 299.391 336.716 1 55.32 ? 568 23 1
+ATOM 6 C "C1'" . U W 23 . ? 349.296 300.081 336.748 1 55.32 ? 568 23 1
+ATOM 7 O O2 . U W 23 . ? 350.229 297.6 336.373 1 55.32 ? 568 23 1
+ATOM 8 N N7 . G W 23 . ? 347.209 296.653 336.76 1 54.59 ? 570 23 1
+ATOM 9 O O6 . G W 23 . ? 344.853 297.119 334.865 1 54.59 ? 570 23 1
+ATOM 10 C C4 . U W 23 . ? 349.996 296.582 330.947 1 55.18 ? 571 23 1
+ATOM 11 O O4 . U W 23 . ? 349.245 297.478 330.588 1 55.18 ? 571 23 1
+ATOM 12 N N9 . A W 23 . ? 350.36 297.56 327.302 1 54.18 ? 575 23 1
+ATOM 13 N N6 . A W 23 . ? 345.757 304.328 336.529 1 56.07 ? 945 23 1
+HETATM 14 N N1 . 6MZ W 23 . ? 347.121 296.237 332.3 1 54.69 ? 2030 23 1
+HETATM 15 N N6 . 6MZ W 23 . ? 348.468 297.021 333.899 1 54.69 ? 2030 23 1
+HETATM 16 C C9 . 6MZ W 23 . ? 348.025 298.347 333.537 1 54.69 ? 2030 23 1
+ATOM 17 C "C3'" . G W 23 . ? 342.901 305.808 330.066 1 57.12 ? 2446 23 1
+ATOM 18 O "O3'" . G W 23 . ? 343.55 304.796 330.809 1 57.12 ? 2446 23 1
+ATOM 19 C "C2'" . G W 23 . ? 341.4 305.613 329.937 1 57.12 ? 2446 23 1
+ATOM 20 O "O2'" . G W 23 . ? 340.852 305.185 331.169 1 57.12 ? 2446 23 1
+ATOM 21 P P . G W 23 . ? 344.775 303.982 330.17 1 56.81 ? 2447 23 1
+ATOM 22 O OP1 . G W 23 . ? 345.817 303.852 331.203 1 56.81 ? 2447 23 1
+ATOM 23 O OP2 . G W 23 . ? 345.106 304.568 328.859 1 56.81 ? 2447 23 1
+ATOM 24 O "O5'" . G W 23 . ? 344.193 302.526 329.93 1 56.81 ? 2447 23 1
+ATOM 25 C "C5'" . G W 23 . ? 343.212 302.287 328.934 1 56.81 ? 2447 23 1
+ATOM 26 C "C4'" . G W 23 . ? 341.968 301.703 329.541 1 56.81 ? 2447 23 1
+ATOM 27 O "O4'" . G W 23 . ? 340.882 301.803 328.589 1 56.81 ? 2447 23 1
+ATOM 28 C "C3'" . G W 23 . ? 342.05 300.232 329.926 1 56.81 ? 2447 23 1
+ATOM 29 O "O3'" . G W 23 . ? 341.202 300.007 331.05 1 56.81 ? 2447 23 1
+ATOM 30 C "C2'" . G W 23 . ? 341.45 299.545 328.715 1 56.81 ? 2447 23 1
+ATOM 31 O "O2'" . G W 23 . ? 340.952 298.253 328.964 1 56.81 ? 2447 23 1
+ATOM 32 P P . A W 23 . ? 341.805 299.98 332.529 1 57.98 ? 2448 23 1
+ATOM 33 O OP1 . A W 23 . ? 343.245 299.652 332.516 1 57.98 ? 2448 23 1
+ATOM 34 O OP2 . A W 23 . ? 340.892 299.105 333.288 1 57.98 ? 2448 23 1
+ATOM 35 O "O5'" . A W 23 . ? 341.576 301.456 333.063 1 57.98 ? 2448 23 1
+ATOM 36 O "O4'" . A W 23 . ? 340.799 303.121 335.062 1 57.98 ? 2448 23 1
+ATOM 37 N N9 . A W 23 . ? 341.504 305.314 335.403 1 57.98 ? 2448 23 1
+ATOM 38 C C8 . A W 23 . ? 342.283 305.644 334.331 1 57.98 ? 2448 23 1
+ATOM 39 C C4 . A W 23 . ? 342.049 305.974 336.47 1 57.98 ? 2448 23 1
+ATOM 40 O OP1 . C W 23 . ? 343.141 296.482 332.705 1 54.53 ? 2499 23 1
+ATOM 41 O OP2 . C W 23 . ? 340.641 296.437 332.233 1 54.53 ? 2499 23 1
+ATOM 42 P P . U W 23 . ? 344.664 297.053 328.477 1 55.53 ? 2500 23 1
+ATOM 43 O OP1 . U W 23 . ? 346.071 297.441 328.679 1 55.53 ? 2500 23 1
+ATOM 44 O OP2 . U W 23 . ? 343.644 297.424 329.471 1 55.53 ? 2500 23 1
+ATOM 45 O "O5'" . U W 23 . ? 344.233 297.637 327.067 1 55.53 ? 2500 23 1
+HETATM 46 MG MG . MG WG MG! . ? 345.57 301.04 331.78 1 56.02 ? 3074 23 1
+HETATM 47 MG MG . MG UM MG! . ? 343.526 298.138 333.847 1 57.04 ? 3228 23 1

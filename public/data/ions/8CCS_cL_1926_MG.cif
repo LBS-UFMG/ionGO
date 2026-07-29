@@ -1,0 +1,111 @@
+data_8CCS_cL_1926_MG
+_entry.id '8CCS_cL_1926_MG'
+
+_cell.entry_id '8CCS_cL_1926_MG'
+_cell.length_a 1
+_cell.length_b 1
+_cell.length_c 1
+_cell.angle_alpha 90
+_cell.angle_beta 90
+_cell.angle_gamma 90
+
+_symmetry.entry_id '8CCS_cL_1926_MG'
+_symmetry.space_group_name_H-M 'P 1'
+
+loop_
+_entity.id
+_entity.type
+c polymer
+MG! non-polymer
+water water
+
+loop_
+_entity_poly.entity_id
+_entity_poly.type
+_entity_poly.pdbx_strand_id
+_entity_poly.pdbx_seq_one_letter_code
+c polyribonucleotide c ?
+
+
+
+loop_
+_chem_comp.id
+_chem_comp.type
+A .
+A2M .
+G .
+HOH .
+MG .
+U .
+
+loop_
+_struct_asym.id
+_struct_asym.entity_id
+HB c
+TM MG!
+XM MG!
+JP water
+
+
+
+loop_
+_atom_type.symbol
+C
+N
+O
+MG
+P
+
+
+loop_
+_atom_site.group_PDB
+_atom_site.id
+_atom_site.type_symbol
+_atom_site.label_atom_id
+_atom_site.label_alt_id
+_atom_site.label_comp_id
+_atom_site.label_asym_id
+_atom_site.label_entity_id
+_atom_site.label_seq_id
+_atom_site.pdbx_PDB_ins_code
+_atom_site.Cartn_x
+_atom_site.Cartn_y
+_atom_site.Cartn_z
+_atom_site.occupancy
+_atom_site.B_iso_or_equiv
+_atom_site.pdbx_formal_charge
+_atom_site.auth_seq_id
+_atom_site.auth_asym_id
+_atom_site.pdbx_PDB_model_num
+ATOM 1 C "C5'" . U HB c . ? 283.127 271.848 207.569 1 33.27 ? 618 c 1
+ATOM 2 O "O3'" . U HB c . ? 281.536 274.546 208.414 1 33.27 ? 618 c 1
+HETATM 3 P P . A2M HB c . ? 280.196 274.014 209.116 1 32.69 ? 619 c 1
+HETATM 4 O OP1 . A2M HB c . ? 280.285 274.325 210.582 1 32.69 ? 619 c 1
+HETATM 5 O "O5'" . A2M HB c . ? 279 274.91 208.452 1 32.69 ? 619 c 1
+HETATM 6 C "C5'" . A2M HB c . ? 278.427 274.497 207.255 1 32.69 ? 619 c 1
+HETATM 7 C "C3'" . A2M HB c . ? 276.132 274.399 207.511 1 32.69 ? 619 c 1
+HETATM 8 O "O3'" . A2M HB c . ? 275.824 274.671 208.946 1 32.69 ? 619 c 1
+HETATM 9 O OP2 . A2M HB c . ? 279.989 272.545 208.868 1 32.69 ? 619 c 1
+ATOM 10 P P . A HB c . ? 276.033 273.543 210.068 1 32.98 ? 620 c 1
+ATOM 11 O OP1 . A HB c . ? 276.417 274.219 211.322 1 32.98 ? 620 c 1
+ATOM 12 O OP2 . A HB c . ? 276.904 272.478 209.529 1 32.98 ? 620 c 1
+ATOM 13 C C5 . A HB c . ? 285.069 271.989 210.187 1 33.62 ? 1030 c 1
+ATOM 14 C C6 . A HB c . ? 284.229 272.95 210.757 1 33.62 ? 1030 c 1
+ATOM 15 N N6 . A HB c . ? 284.401 274.262 210.606 1 33.62 ? 1030 c 1
+ATOM 16 N N1 . A HB c . ? 283.201 272.511 211.505 1 33.62 ? 1030 c 1
+ATOM 17 C C2 . A HB c . ? 283.029 271.197 211.657 1 33.62 ? 1030 c 1
+ATOM 18 C C4 . A HB c . ? 284.763 270.666 210.434 1 33.62 ? 1030 c 1
+ATOM 19 C "C3'" . G HB c . ? 276.047 280.152 209.916 1 33.05 ? 1140 c 1
+ATOM 20 O "O3'" . G HB c . ? 277.36 279.708 210.193 1 33.05 ? 1140 c 1
+ATOM 21 P P . G HB c . ? 278.616 280.455 209.539 1 32.94 ? 1141 c 1
+ATOM 22 O OP1 . G HB c . ? 279.829 280.016 210.264 1 32.94 ? 1141 c 1
+ATOM 23 O "O5'" . G HB c . ? 278.688 279.869 208.062 1 32.94 ? 1141 c 1
+ATOM 24 C "C5'" . G HB c . ? 278.872 278.481 207.833 1 32.94 ? 1141 c 1
+HETATM 25 MG MG . MG TM MG! . ? 280.619 275.491 212.227 1 35.56 ? 1926 c 1
+HETATM 26 MG MG . MG XM MG! . ? 278.593 271.047 209.7 1 32.93 ? 1930 c 1
+HETATM 27 O O . HOH JP water . ? 281.7 273.825 213.127 1 35.56 ? 2072 c 1
+HETATM 28 O O . HOH JP water . ? 278.732 274.647 212.917 1 35.56 ? 2140 c 1
+HETATM 29 O O . HOH JP water . ? 279 271.908 211.658 1 32.93 ? 2171 c 1
+HETATM 30 O O . HOH JP water . ? 282.5 276.333 211.517 1 35.56 ? 2173 c 1
+HETATM 31 O O . HOH JP water . ? 279.538 277.165 211.344 1 35.56 ? 2185 c 1
+HETATM 32 O O . HOH JP water . ? 280.798 276.601 214.094 1 35.56 ? 2222 c 1

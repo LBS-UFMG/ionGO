@@ -1,0 +1,126 @@
+data_9J1M_aL_1661_MG
+_entry.id '9J1M_aL_1661_MG'
+
+_cell.entry_id '9J1M_aL_1661_MG'
+_cell.length_a 1
+_cell.length_b 1
+_cell.length_c 1
+_cell.angle_alpha 90
+_cell.angle_beta 90
+_cell.angle_gamma 90
+
+_symmetry.entry_id '9J1M_aL_1661_MG'
+_symmetry.space_group_name_H-M 'P 1'
+
+loop_
+_entity.id
+_entity.type
+a polymer
+MG! non-polymer
+m polymer
+
+loop_
+_entity_poly.entity_id
+_entity_poly.type
+_entity_poly.pdbx_strand_id
+_entity_poly.pdbx_seq_one_letter_code
+a polyribonucleotide a ?
+m polypeptide(L) m ?
+
+
+
+loop_
+_chem_comp.id
+_chem_comp.type
+A .
+C .
+G .
+LYS .
+MG .
+
+loop_
+_struct_asym.id
+_struct_asym.entity_id
+FA a
+KP MG!
+QA m
+
+
+
+loop_
+_atom_type.symbol
+C
+N
+O
+MG
+P
+
+
+loop_
+_atom_site.group_PDB
+_atom_site.id
+_atom_site.type_symbol
+_atom_site.label_atom_id
+_atom_site.label_alt_id
+_atom_site.label_comp_id
+_atom_site.label_asym_id
+_atom_site.label_entity_id
+_atom_site.label_seq_id
+_atom_site.pdbx_PDB_ins_code
+_atom_site.Cartn_x
+_atom_site.Cartn_y
+_atom_site.Cartn_z
+_atom_site.occupancy
+_atom_site.B_iso_or_equiv
+_atom_site.pdbx_formal_charge
+_atom_site.auth_seq_id
+_atom_site.auth_asym_id
+_atom_site.pdbx_PDB_model_num
+ATOM 1 O "O3'" . C FA a . ? 130.29296 187.81695 233.73728 1 129.489 ? 936 a 1
+ATOM 2 P P . G FA a . ? 131.05713 189.2188 233.55181 1 131.289 ? 937 a 1
+ATOM 3 O OP1 . G FA a . ? 131.48829 189.68312 234.89285 1 130.187 ? 937 a 1
+ATOM 4 O OP2 . G FA a . ? 130.22448 190.1041 232.70113 1 134.141 ? 937 a 1
+ATOM 5 O "O5'" . G FA a . ? 132.36012 188.84879 232.71689 1 130.683 ? 937 a 1
+ATOM 6 C "C5'" . G FA a . ? 133.55576 188.42157 233.35242 1 128.817 ? 937 a 1
+ATOM 7 C "C4'" . G FA a . ? 134.70785 188.46276 232.38414 1 128.834 ? 937 a 1
+ATOM 8 O "O4'" . G FA a . ? 134.45776 187.52991 231.30409 1 128.265 ? 937 a 1
+ATOM 9 C "C3'" . G FA a . ? 134.91189 189.79843 231.68766 1 130.165 ? 937 a 1
+ATOM 10 O "O3'" . G FA a . ? 135.67424 190.70396 232.46276 1 130.449 ? 937 a 1
+ATOM 11 C "C2'" . G FA a . ? 135.57585 189.40782 230.37535 1 129.331 ? 937 a 1
+ATOM 12 O "O2'" . G FA a . ? 136.96276 189.17529 230.56588 1 128.161 ? 937 a 1
+ATOM 13 C "C1'" . G FA a . ? 134.90179 188.0709 230.07978 1 128.372 ? 937 a 1
+ATOM 14 P P . G FA a . ? 134.96962 191.99441 233.10245 1 131.84 ? 938 a 1
+ATOM 15 O OP1 . G FA a . ? 136.02758 192.87433 233.65606 1 130.854 ? 938 a 1
+ATOM 16 O OP2 . G FA a . ? 133.86907 191.5274 233.9824 1 131.261 ? 938 a 1
+ATOM 17 O "O5'" . G FA a . ? 134.31349 192.72293 231.84934 1 133.166 ? 938 a 1
+ATOM 18 C "C5'" . G FA a . ? 135.11515 193.36467 230.8709 1 132.271 ? 938 a 1
+ATOM 19 C "C4'" . G FA a . ? 134.34347 194.45208 230.17194 1 133.291 ? 938 a 1
+ATOM 20 C "C3'" . G FA a . ? 133.47138 195.3125 231.06845 1 135.291 ? 938 a 1
+ATOM 21 O "O3'" . G FA a . ? 134.20315 196.32907 231.72815 1 137.538 ? 938 a 1
+ATOM 22 C "C2'" . G FA a . ? 132.42382 195.84158 230.10202 1 136.78 ? 938 a 1
+ATOM 23 N N7 . G FA a . ? 130.05128 191.87146 230.12685 1 137.568 ? 938 a 1
+ATOM 24 C C5 . G FA a . ? 129.18608 192.94553 230.25974 1 140.501 ? 938 a 1
+ATOM 25 C C6 . G FA a . ? 127.82679 192.96853 230.65722 1 142.646 ? 938 a 1
+ATOM 26 O O6 . G FA a . ? 127.10961 192.01295 230.96619 1 142.829 ? 938 a 1
+ATOM 27 N N1 . G FA a . ? 127.31011 194.25797 230.66432 1 143.675 ? 938 a 1
+ATOM 28 C C2 . G FA a . ? 128.02062 195.38271 230.331 1 143.467 ? 938 a 1
+ATOM 29 N N2 . G FA a . ? 127.35217 196.54167 230.40032 1 147.029 ? 938 a 1
+ATOM 30 N N3 . G FA a . ? 129.29082 195.37536 229.96187 1 141.095 ? 938 a 1
+ATOM 31 C C4 . G FA a . ? 129.81503 194.13028 229.94411 1 140.043 ? 938 a 1
+ATOM 32 P P . A FA a . ? 133.94398 196.62515 233.28423 1 139.468 ? 939 a 1
+ATOM 33 O OP2 . A FA a . ? 133.96294 195.33344 234.0121 1 137.715 ? 939 a 1
+ATOM 34 O "O5'" . A FA a . ? 132.45323 197.17964 233.31798 1 142.487 ? 939 a 1
+ATOM 35 N N9 . A FA a . ? 128.32512 196.59373 233.66378 1 143.946 ? 939 a 1
+ATOM 36 C C8 . A FA a . ? 129.0656 195.52288 233.2384 1 142.293 ? 939 a 1
+ATOM 37 N N7 . A FA a . ? 128.53895 194.36625 233.53867 1 142.42 ? 939 a 1
+ATOM 38 C C5 . A FA a . ? 127.37171 194.70385 234.20354 1 144.224 ? 939 a 1
+ATOM 39 C C4 . A FA a . ? 127.22094 196.07174 234.28478 1 145.153 ? 939 a 1
+ATOM 40 N N9 . G FA a . ? 127.2419 197.22722 238.12757 1 146.329 ? 940 a 1
+ATOM 41 C C8 . G FA a . ? 128.29934 196.83289 237.34962 1 145.515 ? 940 a 1
+ATOM 42 N N7 . G FA a . ? 128.35812 195.54484 237.17248 1 144.806 ? 940 a 1
+ATOM 43 C C5 . G FA a . ? 127.2699 195.05731 237.87585 1 145.421 ? 940 a 1
+ATOM 44 O O6 . G FA a . ? 127.32689 192.69838 237.58809 1 145.626 ? 940 a 1
+ATOM 45 N N7 . G FA a . ? 128.86295 187.38016 239.29591 1 138.492 ? 1225 a 1
+ATOM 46 O O6 . G FA a . ? 129.33357 190.41132 239.39898 1 139.831 ? 1225 a 1
+HETATM 47 MG MG . MG KP MG! . ? 132.07501 192.27193 234.78201 1 127.531 ? 1661 a 1
+ATOM 48 N NZ . LYS QA m . ? 136.51478 196.86684 236.34821 1 147.114 ? 114 m 1

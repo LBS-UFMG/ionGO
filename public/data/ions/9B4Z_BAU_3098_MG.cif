@@ -1,0 +1,95 @@
+data_9B4Z_BAU_3098_MG
+_entry.id '9B4Z_BAU_3098_MG'
+
+_cell.entry_id '9B4Z_BAU_3098_MG'
+_cell.length_a 1
+_cell.length_b 1
+_cell.length_c 1
+_cell.angle_alpha 90
+_cell.angle_beta 90
+_cell.angle_gamma 90
+
+_symmetry.entry_id '9B4Z_BAU_3098_MG'
+_symmetry.space_group_name_H-M 'P 1'
+
+loop_
+_entity.id
+_entity.type
+BA polymer
+MG! non-polymer
+
+loop_
+_entity_poly.entity_id
+_entity_poly.type
+_entity_poly.pdbx_strand_id
+_entity_poly.pdbx_seq_one_letter_code
+BA polyribonucleotide BA ?
+
+
+
+loop_
+_chem_comp.id
+_chem_comp.type
+A .
+G .
+MG .
+
+loop_
+_struct_asym.id
+_struct_asym.entity_id
+FA BA
+AF MG!
+RI MG!
+
+
+
+loop_
+_atom_type.symbol
+C
+O
+MG
+P
+
+
+loop_
+_atom_site.group_PDB
+_atom_site.id
+_atom_site.type_symbol
+_atom_site.label_atom_id
+_atom_site.label_alt_id
+_atom_site.label_comp_id
+_atom_site.label_asym_id
+_atom_site.label_entity_id
+_atom_site.label_seq_id
+_atom_site.pdbx_PDB_ins_code
+_atom_site.Cartn_x
+_atom_site.Cartn_y
+_atom_site.Cartn_z
+_atom_site.occupancy
+_atom_site.B_iso_or_equiv
+_atom_site.pdbx_formal_charge
+_atom_site.auth_seq_id
+_atom_site.auth_asym_id
+_atom_site.pdbx_PDB_model_num
+ATOM 1 O "O3'" . G FA BA . ? 219.501 262.473 213.626 1 71.82 ? 1663 BA 1
+ATOM 2 P P . A FA BA . ? 220.494 261.294 214.071 1 71.21 ? 1664 BA 1
+ATOM 3 O OP1 . A FA BA . ? 221.501 261.102 213.004 1 74.9 ? 1664 BA 1
+ATOM 4 O OP2 . A FA BA . ? 219.696 260.14 214.541 1 79.45 ? 1664 BA 1
+ATOM 5 O "O5'" . A FA BA . ? 221.253 261.906 215.324 1 71.3 ? 1664 BA 1
+ATOM 6 C "C5'" . A FA BA . ? 221.844 263.195 215.269 1 66.98 ? 1664 BA 1
+ATOM 7 C "C4'" . A FA BA . ? 222.634 263.463 216.52 1 67.57 ? 1664 BA 1
+ATOM 8 C "C3'" . A FA BA . ? 223.623 262.368 216.89 1 68.91 ? 1664 BA 1
+ATOM 9 O "O3'" . A FA BA . ? 224.882 262.577 216.279 1 72.35 ? 1664 BA 1
+ATOM 10 P P . A FA BA . ? 225.472 261.519 215.23 1 78.28 ? 1665 BA 1
+ATOM 11 O OP1 . A FA BA . ? 226.613 262.163 214.542 1 73.86 ? 1665 BA 1
+ATOM 12 O OP2 . A FA BA . ? 224.356 260.969 214.427 1 76.33 ? 1665 BA 1
+ATOM 13 O "O5'" . A FA BA . ? 226.049 260.364 216.156 1 77.21 ? 1665 BA 1
+ATOM 14 C "C5'" . A FA BA . ? 226.97 260.657 217.194 1 63.71 ? 1665 BA 1
+ATOM 15 C "C3'" . A FA BA . ? 226.992 258.125 217.571 1 65.42 ? 1665 BA 1
+ATOM 16 O "O3'" . A FA BA . ? 228.212 257.699 216.995 1 67.07 ? 1665 BA 1
+ATOM 17 P P . G FA BA . ? 228.196 256.785 215.679 1 75.27 ? 1666 BA 1
+ATOM 18 O OP2 . G FA BA . ? 227.29 257.409 214.687 1 73.67 ? 1666 BA 1
+ATOM 19 O "O5'" . G FA BA . ? 227.537 255.427 216.174 1 75.33 ? 1666 BA 1
+ATOM 20 O O6 . G FA BA . ? 221.53 255.658 212.759 1 77.26 ? 1667 BA 1
+HETATM 21 MG MG . MG AF MG! . ? 219.19 258.038 214.896 1 75.08 ? 3003 BA 1
+HETATM 22 MG MG . MG RI MG! . ? 223.403 260.372 212.58 1 70.89 ? 3098 BA 1

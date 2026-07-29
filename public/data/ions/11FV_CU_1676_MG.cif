@@ -1,0 +1,102 @@
+data_11FV_CU_1676_MG
+_entry.id '11FV_CU_1676_MG'
+
+_cell.entry_id '11FV_CU_1676_MG'
+_cell.length_a 1
+_cell.length_b 1
+_cell.length_c 1
+_cell.angle_alpha 90
+_cell.angle_beta 90
+_cell.angle_gamma 90
+
+_symmetry.entry_id '11FV_CU_1676_MG'
+_symmetry.space_group_name_H-M 'P 1'
+
+loop_
+_entity.id
+_entity.type
+C polymer
+MG! non-polymer
+w polymer
+
+loop_
+_entity_poly.entity_id
+_entity_poly.type
+_entity_poly.pdbx_strand_id
+_entity_poly.pdbx_seq_one_letter_code
+C polyribonucleotide C ?
+w polypeptide(L) w ?
+
+
+
+loop_
+_chem_comp.id
+_chem_comp.type
+ARG .
+G .
+GLN .
+GLY .
+LEU .
+MET .
+MG .
+U .
+
+loop_
+_struct_asym.id
+_struct_asym.entity_id
+A C
+XD MG!
+TA w
+
+
+
+loop_
+_atom_type.symbol
+C
+N
+O
+MG
+P
+S
+
+
+loop_
+_atom_site.group_PDB
+_atom_site.id
+_atom_site.type_symbol
+_atom_site.label_atom_id
+_atom_site.label_alt_id
+_atom_site.label_comp_id
+_atom_site.label_asym_id
+_atom_site.label_entity_id
+_atom_site.label_seq_id
+_atom_site.pdbx_PDB_ins_code
+_atom_site.Cartn_x
+_atom_site.Cartn_y
+_atom_site.Cartn_z
+_atom_site.occupancy
+_atom_site.B_iso_or_equiv
+_atom_site.pdbx_formal_charge
+_atom_site.auth_seq_id
+_atom_site.auth_asym_id
+_atom_site.pdbx_PDB_model_num
+ATOM 1 O OP1 . U A C . ? 252.667 262.854 299.781 1 68.84 ? 651 C 1
+ATOM 2 O "O3'" . G A C . ? 252.794 264.093 290.148 1 52.68 ? 735 C 1
+ATOM 3 P P . G A C . ? 253.457 264.419 291.568 1 55.02 ? 736 C 1
+ATOM 4 O OP1 . G A C . ? 252.642 263.764 292.61 1 55.02 ? 736 C 1
+ATOM 5 O OP2 . G A C . ? 253.704 265.872 291.631 1 55.02 ? 736 C 1
+ATOM 6 O "O5'" . G A C . ? 254.872 263.696 291.512 1 55.02 ? 736 C 1
+ATOM 7 C "C5'" . G A C . ? 254.971 262.282 291.557 1 55.02 ? 736 C 1
+HETATM 8 MG MG . MG XD MG! . ? 251.246 263.717 294.789 1 72.18 ? 1676 C 1
+ATOM 9 C CD2 . LEU TA w . ? 246.822 263.744 297.572 1 60.45 ? 32 w 1
+ATOM 10 C CG . GLN TA w . ? 246.867 268.438 292.867 1 58.96 ? 35 w 1
+ATOM 11 O O . GLY TA w . ? 248.955 261.797 290.873 1 50.33 ? 55 w 1
+ATOM 12 N NE . ARG TA w . ? 253.106 258.952 294.375 1 55.12 ? 58 w 1
+ATOM 13 C CZ . ARG TA w . ? 254.411 258.841 294.572 1 55.12 ? 58 w 1
+ATOM 14 N NH2 . ARG TA w . ? 255.016 259.682 295.406 1 55.12 ? 58 w 1
+ATOM 15 N N . MET TA w . ? 247.443 259.874 293.302 1 55.2 ? 59 w 1
+ATOM 16 C CA . MET TA w . ? 246.737 260.706 294.267 1 55.2 ? 59 w 1
+ATOM 17 C CB . MET TA w . ? 246.649 262.131 293.732 1 55.2 ? 59 w 1
+ATOM 18 C CG . MET TA w . ? 247.997 262.822 293.637 1 55.2 ? 59 w 1
+ATOM 19 S SD . MET TA w . ? 247.977 264.406 292.775 1 55.2 ? 59 w 1
+ATOM 20 C CE . MET TA w . ? 246.255 264.824 292.903 1 55.2 ? 59 w 1

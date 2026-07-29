@@ -1,0 +1,124 @@
+data_9PKD_L8U_203_MG
+_entry.id '9PKD_L8U_203_MG'
+
+_cell.entry_id '9PKD_L8U_203_MG'
+_cell.length_a 1
+_cell.length_b 1
+_cell.length_c 1
+_cell.angle_alpha 90
+_cell.angle_beta 90
+_cell.angle_gamma 90
+
+_symmetry.entry_id '9PKD_L8U_203_MG'
+_symmetry.space_group_name_H-M 'P 1'
+
+loop_
+_entity.id
+_entity.type
+L5 polymer
+L8 polymer
+MG! non-polymer
+LC polymer
+
+loop_
+_entity_poly.entity_id
+_entity_poly.type
+_entity_poly.pdbx_strand_id
+_entity_poly.pdbx_seq_one_letter_code
+L5 polyribonucleotide L5 ?
+L8 polyribonucleotide L8 ?
+LC polypeptide(L) LC ?
+
+
+
+loop_
+_chem_comp.id
+_chem_comp.type
+A .
+ALA .
+C .
+G .
+GLY .
+LYS .
+MG .
+U .
+
+loop_
+_struct_asym.id
+_struct_asym.entity_id
+B L5
+D L8
+WJ MG!
+G LC
+
+
+
+loop_
+_atom_type.symbol
+C
+N
+O
+MG
+P
+
+
+loop_
+_atom_site.group_PDB
+_atom_site.id
+_atom_site.type_symbol
+_atom_site.label_atom_id
+_atom_site.label_alt_id
+_atom_site.label_comp_id
+_atom_site.label_asym_id
+_atom_site.label_entity_id
+_atom_site.label_seq_id
+_atom_site.pdbx_PDB_ins_code
+_atom_site.Cartn_x
+_atom_site.Cartn_y
+_atom_site.Cartn_z
+_atom_site.occupancy
+_atom_site.B_iso_or_equiv
+_atom_site.pdbx_formal_charge
+_atom_site.auth_seq_id
+_atom_site.auth_asym_id
+_atom_site.pdbx_PDB_model_num
+ATOM 1 P P . U B L5 . ? 265.337 236.729 289.021 1 72.34 ? 2293 L5 1
+ATOM 2 O OP1 . U B L5 . ? 266.187 237.466 289.98 1 70.4 ? 2293 L5 1
+ATOM 3 O OP2 . U B L5 . ? 265.471 235.262 288.895 1 63.1 ? 2293 L5 1
+ATOM 4 O "O5'" . U B L5 . ? 263.817 237.045 289.355 1 66.17 ? 2293 L5 1
+ATOM 5 C "C5'" . U B L5 . ? 263.349 238.379 289.438 1 61.14 ? 2293 L5 1
+ATOM 6 C "C4'" . U B L5 . ? 261.844 238.427 289.458 1 57.47 ? 2293 L5 1
+ATOM 7 O OP2 . G B L5 . ? 262.348 236.171 292.814 1 59.82 ? 2294 L5 1
+ATOM 8 O "O2'" . A B L5 . ? 270.916 240.1 294.786 1 60.73 ? 2308 L5 1
+ATOM 9 P P . C B L5 . ? 266.763 238.053 298.657 1 63.29 ? 2334 L5 1
+ATOM 10 O OP1 . C B L5 . ? 266.263 238.837 297.511 1 65.67 ? 2334 L5 1
+ATOM 11 O "O5'" . C B L5 . ? 267.644 236.854 298.108 1 63.57 ? 2334 L5 1
+ATOM 12 C "C5'" . C B L5 . ? 268.769 237.104 297.288 1 59.41 ? 2334 L5 1
+ATOM 13 C "C4'" . C B L5 . ? 269.56 235.85 297.041 1 60.58 ? 2334 L5 1
+ATOM 14 O "O4'" . C B L5 . ? 269.967 235.255 298.297 1 62.23 ? 2334 L5 1
+ATOM 15 C "C3'" . C B L5 . ? 268.831 234.726 296.336 1 58.49 ? 2334 L5 1
+ATOM 16 O "O3'" . C B L5 . ? 268.728 234.929 294.941 1 64.89 ? 2334 L5 1
+ATOM 17 P P . C B L5 . ? 267.579 234.191 294.102 1 73.1 ? 2335 L5 1
+ATOM 18 O OP1 . C B L5 . ? 267.481 234.87 292.792 1 74.05 ? 2335 L5 1
+ATOM 19 O OP2 . C B L5 . ? 266.378 234.07 294.954 1 64.45 ? 2335 L5 1
+ATOM 20 O OP1 . C D L8 . ? 267.158 243.629 289.235 1 63.02 ? 19 L8 1
+ATOM 21 C "C5'" . C D L8 . ? 269.228 243.25 291.394 1 54 ? 19 L8 1
+ATOM 22 C "C4'" . C D L8 . ? 269.95 243.266 292.711 1 56.26 ? 19 L8 1
+ATOM 23 C "C3'" . C D L8 . ? 269.075 243.382 293.941 1 56.39 ? 19 L8 1
+ATOM 24 O "O3'" . C D L8 . ? 268.504 242.145 294.316 1 60.54 ? 19 L8 1
+ATOM 25 O "O2'" . C D L8 . ? 270.86 242.91 295.481 1 58.43 ? 19 L8 1
+ATOM 26 P P . A D L8 . ? 267.004 242.08 294.869 1 63.14 ? 20 L8 1
+ATOM 27 O OP1 . A D L8 . ? 266.585 240.663 294.814 1 67.17 ? 20 L8 1
+ATOM 28 O OP2 . A D L8 . ? 266.197 243.107 294.175 1 57.08 ? 20 L8 1
+ATOM 29 O "O5'" . A D L8 . ? 267.146 242.514 296.391 1 59.97 ? 20 L8 1
+ATOM 30 C "C5'" . A D L8 . ? 268.046 241.841 297.254 1 54.48 ? 20 L8 1
+ATOM 31 C "C4'" . A D L8 . ? 268.353 242.653 298.485 1 57.09 ? 20 L8 1
+ATOM 32 O "O4'" . A D L8 . ? 269.211 243.773 298.151 1 59.22 ? 20 L8 1
+ATOM 33 O OP2 . C D L8 . ? 264.324 242.868 298.652 1 67.72 ? 21 L8 1
+HETATM 34 MG MG . MG WJ MG! . ? 266.539 238.921 293.7 1 58.01 ? 203 L8 1
+ATOM 35 C C . ALA G LC . ? 263.196 235.271 298.077 1 59.93 ? 191 LC 1
+ATOM 36 O O . ALA G LC . ? 262.358 234.687 297.385 1 64.94 ? 191 LC 1
+ATOM 37 N N . GLY G LC . ? 263.332 236.591 298.09 1 59.92 ? 192 LC 1
+ATOM 38 C CA . GLY G LC . ? 262.615 237.411 297.137 1 59.08 ? 192 LC 1
+ATOM 39 C C . GLY G LC . ? 261.614 238.381 297.722 1 59.12 ? 192 LC 1
+ATOM 40 N NZ . LYS G LC . ? 261.831 243.078 293.773 1 66.3 ? 193 LC 1

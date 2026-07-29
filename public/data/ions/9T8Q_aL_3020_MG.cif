@@ -1,0 +1,87 @@
+data_9T8Q_aL_3020_MG
+_entry.id '9T8Q_aL_3020_MG'
+
+_cell.entry_id '9T8Q_aL_3020_MG'
+_cell.length_a 1
+_cell.length_b 1
+_cell.length_c 1
+_cell.angle_alpha 90
+_cell.angle_beta 90
+_cell.angle_gamma 90
+
+_symmetry.entry_id '9T8Q_aL_3020_MG'
+_symmetry.space_group_name_H-M 'P 1'
+
+loop_
+_entity.id
+_entity.type
+a polymer
+MG! non-polymer
+
+loop_
+_entity_poly.entity_id
+_entity_poly.type
+_entity_poly.pdbx_strand_id
+_entity_poly.pdbx_seq_one_letter_code
+a polyribonucleotide a ?
+
+
+
+loop_
+_chem_comp.id
+_chem_comp.type
+A .
+G .
+MG .
+
+loop_
+_struct_asym.id
+_struct_asym.entity_id
+B a
+FA MG!
+
+
+
+loop_
+_atom_type.symbol
+C
+N
+O
+MG
+
+
+loop_
+_atom_site.group_PDB
+_atom_site.id
+_atom_site.type_symbol
+_atom_site.label_atom_id
+_atom_site.label_alt_id
+_atom_site.label_comp_id
+_atom_site.label_asym_id
+_atom_site.label_entity_id
+_atom_site.label_seq_id
+_atom_site.pdbx_PDB_ins_code
+_atom_site.Cartn_x
+_atom_site.Cartn_y
+_atom_site.Cartn_z
+_atom_site.occupancy
+_atom_site.B_iso_or_equiv
+_atom_site.pdbx_formal_charge
+_atom_site.auth_seq_id
+_atom_site.auth_asym_id
+_atom_site.pdbx_PDB_model_num
+ATOM 1 C C8 . G B a . ? 194.718364 152.744494 194.416424 1 17.9196 ? 530 a 1
+ATOM 2 N N7 . G B a . ? 193.570383 152.994648 193.835233 1 22.7343 ? 530 a 1
+ATOM 3 O OP2 . G B a . ? 187.328063 149.127952 200.847463 1 24.0134 ? 561 a 1
+ATOM 4 N N9 . G B a . ? 192.300383 147.678473 201.425126 1 7.54661 ? 561 a 1
+ATOM 5 C C8 . G B a . ? 191.186306 147.906888 200.651775 1 5.86201 ? 561 a 1
+ATOM 6 N N7 . G B a . ? 191.440938 147.831788 199.368385 1 7.05319 ? 561 a 1
+ATOM 7 C C5 . G B a . ? 192.80693 147.560223 199.305659 1 1.37966 ? 561 a 1
+ATOM 8 C C6 . G B a . ? 193.651801 147.395816 198.191956 1 5.15949 ? 561 a 1
+ATOM 9 O O6 . G B a . ? 193.357035 147.400907 196.990323 1 15.5779 ? 561 a 1
+ATOM 10 N N1 . G B a . ? 194.962021 147.167228 198.589833 1 1.5299 ? 561 a 1
+ATOM 11 C C2 . G B a . ? 195.413424 147.191489 199.875022 1 0.778297 ? 561 a 1
+ATOM 12 N N3 . G B a . ? 194.628816 147.357776 200.92486 1 3.147 ? 561 a 1
+ATOM 13 C C4 . G B a . ? 193.341206 147.487738 200.557253 1 0.5 ? 561 a 1
+ATOM 14 O OP1 . A B a . ? 188.297529 152.372717 198.665048 1 30.1275 ? 2037 a 1
+HETATM 15 MG MG . MG FA MG! . ? 190.569453 148.424938 196.985487 1 52.3258 ? 3020 a 1

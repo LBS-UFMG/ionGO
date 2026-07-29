@@ -1,0 +1,121 @@
+data_7QIZ_2U_3723_MG
+_entry.id '7QIZ_2U_3723_MG'
+
+_cell.entry_id '7QIZ_2U_3723_MG'
+_cell.length_a 1
+_cell.length_b 1
+_cell.length_c 1
+_cell.angle_alpha 90
+_cell.angle_beta 90
+_cell.angle_gamma 90
+
+_symmetry.entry_id '7QIZ_2U_3723_MG'
+_symmetry.space_group_name_H-M 'P 1'
+
+loop_
+_entity.id
+_entity.type
+2 polymer
+MG! non-polymer
+water water
+
+loop_
+_entity_poly.entity_id
+_entity_poly.type
+_entity_poly.pdbx_strand_id
+_entity_poly.pdbx_seq_one_letter_code
+2 polyribonucleotide 2 ?
+
+
+
+loop_
+_chem_comp.id
+_chem_comp.type
+A .
+C .
+G .
+HOH .
+MG .
+U .
+
+loop_
+_struct_asym.id
+_struct_asym.entity_id
+QA 2
+FP MG!
+QW water
+
+
+
+loop_
+_atom_type.symbol
+H
+C
+N
+O
+MG
+
+
+loop_
+_atom_site.group_PDB
+_atom_site.id
+_atom_site.type_symbol
+_atom_site.label_atom_id
+_atom_site.label_alt_id
+_atom_site.label_comp_id
+_atom_site.label_asym_id
+_atom_site.label_entity_id
+_atom_site.label_seq_id
+_atom_site.pdbx_PDB_ins_code
+_atom_site.Cartn_x
+_atom_site.Cartn_y
+_atom_site.Cartn_z
+_atom_site.occupancy
+_atom_site.B_iso_or_equiv
+_atom_site.pdbx_formal_charge
+_atom_site.auth_seq_id
+_atom_site.auth_asym_id
+_atom_site.pdbx_PDB_model_num
+ATOM 1 C C8 . G QA 2 . ? 187.911 193.041 271.511 1 9.92 ? 1668 2 1
+ATOM 2 N N7 . G QA 2 . ? 187.472 193.728 270.493 1 9.92 ? 1668 2 1
+ATOM 3 C C5 . G QA 2 . ? 186.409 194.46 271.004 1 9.92 ? 1668 2 1
+ATOM 4 C C6 . G QA 2 . ? 185.538 195.388 270.379 1 9.92 ? 1668 2 1
+ATOM 5 O O6 . G QA 2 . ? 185.528 195.765 269.204 1 9.92 ? 1668 2 1
+ATOM 6 C C4 . G QA 2 . ? 186.234 194.191 272.343 1 9.92 ? 1668 2 1
+ATOM 7 O OP2 . G QA 2 . ? 185.53 188.368 272.378 1 9.92 ? 1669 2 1
+ATOM 8 C C8 . G QA 2 . ? 183.368 192.194 272.055 1 9.92 ? 1669 2 1
+ATOM 9 N N7 . G QA 2 . ? 183.498 192.585 270.818 1 9.92 ? 1669 2 1
+ATOM 10 C C5 . G QA 2 . ? 182.448 193.472 270.627 1 9.92 ? 1669 2 1
+ATOM 11 C C6 . G QA 2 . ? 182.069 194.22 269.483 1 9.92 ? 1669 2 1
+ATOM 12 O O6 . G QA 2 . ? 182.605 194.247 268.371 1 9.92 ? 1669 2 1
+ATOM 13 N N1 . G QA 2 . ? 180.94 194.994 269.726 1 9.92 ? 1669 2 1
+ATOM 14 C C2 . G QA 2 . ? 180.261 195.044 270.916 1 9.92 ? 1669 2 1
+ATOM 15 N N3 . G QA 2 . ? 180.603 194.353 271.989 1 9.92 ? 1669 2 1
+ATOM 16 C C4 . G QA 2 . ? 181.698 193.595 271.774 1 9.92 ? 1669 2 1
+ATOM 17 H H8 . G QA 2 . ? 183.943 191.588 272.464 1 9.92 ? 1669 2 1
+ATOM 18 H H1 . G QA 2 . ? 180.644 195.478 269.08 1 9.92 ? 1669 2 1
+ATOM 19 C C8 . G QA 2 . ? 178.92 191.688 270.763 1 7.7 ? 1670 2 1
+ATOM 20 N N7 . G QA 2 . ? 179.653 191.73 269.686 1 7.7 ? 1670 2 1
+ATOM 21 C C5 . G QA 2 . ? 178.951 192.557 268.823 1 7.7 ? 1670 2 1
+ATOM 22 C C6 . G QA 2 . ? 179.249 192.979 267.502 1 7.7 ? 1670 2 1
+ATOM 23 O O6 . G QA 2 . ? 180.228 192.697 266.804 1 7.7 ? 1670 2 1
+ATOM 24 H H8 . G QA 2 . ? 179.15 191.2 271.52 1 7.7 ? 1670 2 1
+ATOM 25 N N6 . A QA 2 . ? 178.774 190.424 264.949 1 9.92 ? 1671 2 1
+ATOM 26 H H61 . A QA 2 . ? 179.02 189.937 265.614 1 9.92 ? 1671 2 1
+ATOM 27 H H62 . A QA 2 . ? 179.288 190.507 264.264 1 9.92 ? 1671 2 1
+ATOM 28 O OP1 . G QA 2 . ? 186.155 186.407 264.372 1 9.92 ? 1786 2 1
+ATOM 29 N N4 . C QA 2 . ? 180.614 188.104 262.782 1 9.92 ? 1787 2 1
+ATOM 30 H H41 . C QA 2 . ? 179.805 188.112 263.074 1 9.92 ? 1787 2 1
+ATOM 31 H H42 . C QA 2 . ? 181.268 188.001 263.33 1 9.92 ? 1787 2 1
+ATOM 32 O O4 . U QA 2 . ? 180.23 191.201 262.761 1 9.92 ? 1788 2 1
+ATOM 33 N N3 . C QA 2 . ? 178.822 194.785 264.266 1 9.92 ? 1789 2 1
+ATOM 34 C C4 . C QA 2 . ? 179.934 194.594 263.556 1 9.92 ? 1789 2 1
+ATOM 35 N N4 . C QA 2 . ? 180.879 193.806 264.07 1 9.92 ? 1789 2 1
+ATOM 36 H H41 . C QA 2 . ? 180.762 193.437 264.838 1 9.92 ? 1789 2 1
+ATOM 37 H H42 . C QA 2 . ? 181.607 193.666 263.633 1 9.92 ? 1789 2 1
+ATOM 38 H H41 . C QA 2 . ? 182.132 195.507 266.857 1 9.92 ? 1790 2 1
+HETATM 39 MG MG . MG FP MG! . ? 183.486 190.847 267.5 1 13.34 ? 3723 2 1
+HETATM 40 O O . HOH QW water . ? 184.797 191.726 268.961 1 7.74 ? 4114 2 1
+HETATM 41 O O . HOH QW water . ? 181.811 190.368 268.814 1 9.92 ? 5115 2 1
+HETATM 42 O O . HOH QW water . ? 184.857 189.252 267.226 1 8.86 ? 6910 2 1
+HETATM 43 O O . HOH QW water . ? 185.282 190.888 266.286 1 12.11 ? 6937 2 1

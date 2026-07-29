@@ -1,0 +1,97 @@
+data_9RPV_M5U_5291_MG
+_entry.id '9RPV_M5U_5291_MG'
+
+_cell.entry_id '9RPV_M5U_5291_MG'
+_cell.length_a 1
+_cell.length_b 1
+_cell.length_c 1
+_cell.angle_alpha 90
+_cell.angle_beta 90
+_cell.angle_gamma 90
+
+_symmetry.entry_id '9RPV_M5U_5291_MG'
+_symmetry.space_group_name_H-M 'P 1'
+
+loop_
+_entity.id
+_entity.type
+M5 polymer
+MG! non-polymer
+
+loop_
+_entity_poly.entity_id
+_entity_poly.type
+_entity_poly.pdbx_strand_id
+_entity_poly.pdbx_seq_one_letter_code
+M5 polyribonucleotide M5 ?
+
+
+
+loop_
+_chem_comp.id
+_chem_comp.type
+A .
+C .
+G .
+MG .
+
+loop_
+_struct_asym.id
+_struct_asym.entity_id
+AB M5
+BR MG!
+
+
+
+loop_
+_atom_type.symbol
+C
+N
+O
+MG
+
+
+loop_
+_atom_site.group_PDB
+_atom_site.id
+_atom_site.type_symbol
+_atom_site.label_atom_id
+_atom_site.label_alt_id
+_atom_site.label_comp_id
+_atom_site.label_asym_id
+_atom_site.label_entity_id
+_atom_site.label_seq_id
+_atom_site.pdbx_PDB_ins_code
+_atom_site.Cartn_x
+_atom_site.Cartn_y
+_atom_site.Cartn_z
+_atom_site.occupancy
+_atom_site.B_iso_or_equiv
+_atom_site.pdbx_formal_charge
+_atom_site.auth_seq_id
+_atom_site.auth_asym_id
+_atom_site.pdbx_PDB_model_num
+ATOM 1 O OP1 . C AB M5 . ? 271.578 264.104 224.932 1 77.25 ? 4243 M5 1
+ATOM 2 O "O5'" . C AB M5 . ? 270.445 266.221 225.512 1 79.32 ? 4243 M5 1
+ATOM 3 O OP2 . A AB M5 . ? 268.513 266.233 227.948 1 81.8 ? 4244 M5 1
+ATOM 4 N N7 . A AB M5 . ? 264.291 266.754 225.404 1 68.76 ? 4244 M5 1
+ATOM 5 C C5 . A AB M5 . ? 262.913 266.838 225.419 1 67.21 ? 4244 M5 1
+ATOM 6 O OP2 . G AB M5 . ? 265.587 266.936 231.95 1 75.84 ? 4245 M5 1
+ATOM 7 O "O5'" . G AB M5 . ? 263.135 266.92 231.499 1 73.64 ? 4245 M5 1
+ATOM 8 N N9 . G AB M5 . ? 262.134 264.804 228.347 1 67.13 ? 4245 M5 1
+ATOM 9 C C8 . G AB M5 . ? 263.405 265.173 228.676 1 68.51 ? 4245 M5 1
+ATOM 10 N N7 . G AB M5 . ? 264.311 264.447 228.098 1 67.89 ? 4245 M5 1
+ATOM 11 C C5 . G AB M5 . ? 263.592 263.541 227.339 1 65.3 ? 4245 M5 1
+ATOM 12 C C6 . G AB M5 . ? 264.038 262.498 226.5 1 67.28 ? 4245 M5 1
+ATOM 13 O O6 . G AB M5 . ? 265.197 262.169 226.246 1 68.64 ? 4245 M5 1
+ATOM 14 N N1 . G AB M5 . ? 262.985 261.813 225.916 1 69.08 ? 4245 M5 1
+ATOM 15 C C4 . G AB M5 . ? 262.246 263.747 227.484 1 66.1 ? 4245 M5 1
+ATOM 16 N N7 . G AB M5 . ? 263.137 260.94 229.379 1 67.58 ? 4246 M5 1
+ATOM 17 C C5 . G AB M5 . ? 263.096 259.798 228.597 1 68.63 ? 4246 M5 1
+ATOM 18 C C6 . G AB M5 . ? 264.139 259.053 227.999 1 70.16 ? 4246 M5 1
+ATOM 19 O O6 . G AB M5 . ? 265.351 259.276 228.028 1 71.31 ? 4246 M5 1
+ATOM 20 N N1 . G AB M5 . ? 263.66 257.963 227.291 1 68.36 ? 4246 M5 1
+ATOM 21 C C2 . G AB M5 . ? 262.339 257.632 227.19 1 70.05 ? 4246 M5 1
+ATOM 22 N N4 . C AB M5 . ? 267.362 257.402 226.99 1 67.27 ? 4262 M5 1
+ATOM 23 N N4 . C AB M5 . ? 265.896 259.739 224.749 1 65.88 ? 4263 M5 1
+HETATM 24 MG MG . MG BR MG! . ? 267.053 262.365 229.706 1 73.11 ? 5291 M5 1

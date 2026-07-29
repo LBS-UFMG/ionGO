@@ -1,0 +1,99 @@
+data_9B24_YU_4250_MG
+_entry.id '9B24_YU_4250_MG'
+
+_cell.entry_id '9B24_YU_4250_MG'
+_cell.length_a 1
+_cell.length_b 1
+_cell.length_c 1
+_cell.angle_alpha 90
+_cell.angle_beta 90
+_cell.angle_gamma 90
+
+_symmetry.entry_id '9B24_YU_4250_MG'
+_symmetry.space_group_name_H-M 'P 1'
+
+loop_
+_entity.id
+_entity.type
+Y polymer
+MG! non-polymer
+a polymer
+
+loop_
+_entity_poly.entity_id
+_entity_poly.type
+_entity_poly.pdbx_strand_id
+_entity_poly.pdbx_seq_one_letter_code
+Y polyribonucleotide Y ?
+a polypeptide(L) a ?
+
+
+
+loop_
+_chem_comp.id
+_chem_comp.type
+A .
+ARG .
+C .
+GLY .
+LYS .
+MG .
+
+loop_
+_struct_asym.id
+_struct_asym.entity_id
+T Y
+ZS MG!
+W a
+
+
+
+loop_
+_atom_type.symbol
+C
+N
+O
+MG
+P
+
+
+loop_
+_atom_site.group_PDB
+_atom_site.id
+_atom_site.type_symbol
+_atom_site.label_atom_id
+_atom_site.label_alt_id
+_atom_site.label_comp_id
+_atom_site.label_asym_id
+_atom_site.label_entity_id
+_atom_site.label_seq_id
+_atom_site.pdbx_PDB_ins_code
+_atom_site.Cartn_x
+_atom_site.Cartn_y
+_atom_site.Cartn_z
+_atom_site.occupancy
+_atom_site.B_iso_or_equiv
+_atom_site.pdbx_formal_charge
+_atom_site.auth_seq_id
+_atom_site.auth_asym_id
+_atom_site.pdbx_PDB_model_num
+ATOM 1 P P . A T Y . ? 231.813 277.321 307.231 1 117.18 ? 2902 Y 1
+ATOM 2 O OP1 . A T Y . ? 231.535 275.959 306.714 1 117.18 ? 2902 Y 1
+ATOM 3 O OP2 . A T Y . ? 231.979 278.445 306.278 1 117.18 ? 2902 Y 1
+ATOM 4 P P . A T Y . ? 226.228 277.279 307.609 1 115.82 ? 2903 Y 1
+ATOM 5 O OP1 . A T Y . ? 225.496 276.033 307.274 1 115.82 ? 2903 Y 1
+ATOM 6 O OP2 . A T Y . ? 227.154 277.875 306.616 1 115.82 ? 2903 Y 1
+ATOM 7 O "O5'" . A T Y . ? 225.158 278.386 308.014 1 115.82 ? 2903 Y 1
+ATOM 8 N N7 . A T Y . ? 226.957 282.609 307.652 1 115.82 ? 2903 Y 1
+ATOM 9 C C5 . A T Y . ? 226.319 283.818 307.888 1 115.82 ? 2903 Y 1
+ATOM 10 C "C3'" . C T Y . ? 225.895 283.743 298.15 1 115.55 ? 2948 Y 1
+ATOM 11 O "O3'" . C T Y . ? 227.199 283.253 298.413 1 115.55 ? 2948 Y 1
+ATOM 12 P P . A T Y . ? 227.986 283.681 299.746 1 122.79 ? 2949 Y 1
+ATOM 13 O OP1 . A T Y . ? 229.128 282.749 299.917 1 122.79 ? 2949 Y 1
+ATOM 14 O OP2 . A T Y . ? 226.995 283.833 300.839 1 122.79 ? 2949 Y 1
+HETATM 15 MG MG . MG ZS MG! . ? 229.732 279.445 303.105 1 95.79 ? 4250 Y 1
+ATOM 16 C C . LYS W a . ? 230.681 275.582 298.601 1 97.72 ? 128 a 1
+ATOM 17 O O . LYS W a . ? 230.439 276.391 299.502 1 97.72 ? 128 a 1
+ATOM 18 N NZ . LYS W a . ? 226.183 277.556 298.355 1 97.72 ? 128 a 1
+ATOM 19 O O . ARG W a . ? 231.277 274.748 302.169 1 101.78 ? 129 a 1
+ATOM 20 N N . GLY W a . ? 234.343 275.935 300.729 1 97.64 ? 131 a 1

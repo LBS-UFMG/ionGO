@@ -1,0 +1,1602 @@
+{
+ "9B24_YU_4154_MG": {
+  "ion": "MG",
+  "true_label": "check"
+ },
+ "6ORE_bL_102_MG": {
+  "ion": "MG",
+  "true_label": "check"
+ },
+ "7K00_AU_1669_MG": {
+  "ion": "MG",
+  "true_label": "validated"
+ },
+ "9T6M_aL_3187_MG": {
+  "ion": "MG",
+  "true_label": "validated"
+ },
+ "8GLP_L5U_5353_MG": {
+  "ion": "MG",
+  "true_label": "validated"
+ },
+ "8GLP_L5U_5563_MG": {
+  "ion": "MG",
+  "true_label": "check"
+ },
+ "8CCS_AAU_3582_MG": {
+  "ion": "MG",
+  "true_label": "validated"
+ },
+ "9E6Q_1U_3216_MG": {
+  "ion": "MG",
+  "true_label": "validated"
+ },
+ "8EWC_A1U_3403_MG": {
+  "ion": "MG",
+  "true_label": "check"
+ },
+ "11FV_IU_3143_MG": {
+  "ion": "MG",
+  "true_label": "check"
+ },
+ "8QK7_2U_1699_K": {
+  "ion": "K",
+  "true_label": "check"
+ },
+ "9RPV_M5U_5142_MG": {
+  "ion": "MG",
+  "true_label": "check"
+ },
+ "28UM_aL_3040_K": {
+  "ion": "K",
+  "true_label": "validated"
+ },
+ "9Q87_aL_3064_MG": {
+  "ion": "MG",
+  "true_label": "validated"
+ },
+ "9O3V_L5U_5351_K": {
+  "ion": "K",
+  "true_label": "check"
+ },
+ "9J1M_aL_1661_MG": {
+  "ion": "MG",
+  "true_label": "check"
+ },
+ "9B24_AU_1780_MG": {
+  "ion": "MG",
+  "true_label": "check"
+ },
+ "7K00_aL_6097_MG": {
+  "ion": "MG",
+  "true_label": "validated"
+ },
+ "8CAM_aL_3066_MG": {
+  "ion": "MG",
+  "true_label": "validated"
+ },
+ "9T6M_AU_1647_MG": {
+  "ion": "MG",
+  "true_label": "check"
+ },
+ "11FV_CU_1676_MG": {
+  "ion": "MG",
+  "true_label": "check"
+ },
+ "8B0X_AU_1605_K": {
+  "ion": "K",
+  "true_label": "check"
+ },
+ "7N1P_16U_1606_MG": {
+  "ion": "MG",
+  "true_label": "check"
+ },
+ "8Q7Z_B5U_4639_MG": {
+  "ion": "MG",
+  "true_label": "check"
+ },
+ "9T6M_aL_3118_MG": {
+  "ion": "MG",
+  "true_label": "validated"
+ },
+ "8CAM_aL_3145_MG": {
+  "ion": "MG",
+  "true_label": "validated"
+ },
+ "8CGV_aL_3076_MG": {
+  "ion": "MG",
+  "true_label": "validated"
+ },
+ "8CCS_AAU_3491_MG": {
+  "ion": "MG",
+  "true_label": "validated"
+ },
+ "8QYX_A2U_5574_MG": {
+  "ion": "MG",
+  "true_label": "validated"
+ },
+ "9T0Y_aL_3152_MG": {
+  "ion": "MG",
+  "true_label": "validated"
+ },
+ "8CCS_AAU_3439_MG": {
+  "ion": "MG",
+  "true_label": "validated"
+ },
+ "9O3V_L5U_5470_K": {
+  "ion": "K",
+  "true_label": "validated"
+ },
+ "7QIZ_2U_3666_MG": {
+  "ion": "MG",
+  "true_label": "validated"
+ },
+ "9T8Q_aL_3020_MG": {
+  "ion": "MG",
+  "true_label": "check"
+ },
+ "8CGV_aL_3253_K": {
+  "ion": "K",
+  "true_label": "check"
+ },
+ "9T6M_aL_3125_MG": {
+  "ion": "MG",
+  "true_label": "check"
+ },
+ "9B24_AU_1717_MG": {
+  "ion": "MG",
+  "true_label": "check"
+ },
+ "8QK7_1U_3087_MG": {
+  "ion": "MG",
+  "true_label": "check"
+ },
+ "8QOI_L5U_5130_MG": {
+  "ion": "MG",
+  "true_label": "validated"
+ },
+ "8CCS_AAU_3569_MG": {
+  "ion": "MG",
+  "true_label": "validated"
+ },
+ "9J1M_AU_3319_MG": {
+  "ion": "MG",
+  "true_label": "check"
+ },
+ "9T0Y_aL_3033_MG": {
+  "ion": "MG",
+  "true_label": "validated"
+ },
+ "8B0X_AU_1683_MG": {
+  "ion": "MG",
+  "true_label": "validated"
+ },
+ "7QI5_AAU_1746_MG": {
+  "ion": "MG",
+  "true_label": "check"
+ },
+ "8CGD_aL_3168_MG": {
+  "ion": "MG",
+  "true_label": "check"
+ },
+ "9T6M_aL_3144_MG": {
+  "ion": "MG",
+  "true_label": "validated"
+ },
+ "8QK7_1U_3112_MG": {
+  "ion": "MG",
+  "true_label": "check"
+ },
+ "8CEU_aL_3189_K": {
+  "ion": "K",
+  "true_label": "validated"
+ },
+ "8CCS_cL_1924_MG": {
+  "ion": "MG",
+  "true_label": "validated"
+ },
+ "8CGD_aL_3291_MG": {
+  "ion": "MG",
+  "true_label": "check"
+ },
+ "9Q87_aL_3181_MG": {
+  "ion": "MG",
+  "true_label": "validated"
+ },
+ "8GLP_L5U_5252_MG": {
+  "ion": "MG",
+  "true_label": "validated"
+ },
+ "6ORE_5U_101_MG": {
+  "ion": "MG",
+  "true_label": "check"
+ },
+ "8CEU_aL_3056_MG": {
+  "ion": "MG",
+  "true_label": "validated"
+ },
+ "9PKD_L8U_203_MG": {
+  "ion": "MG",
+  "true_label": "check"
+ },
+ "8CEU_aL_3007_MG": {
+  "ion": "MG",
+  "true_label": "validated"
+ },
+ "9GHA_aL_3287_MG": {
+  "ion": "MG",
+  "true_label": "check"
+ },
+ "9B24_YU_4131_MG": {
+  "ion": "MG",
+  "true_label": "check"
+ },
+ "9E6Q_1U_3166_MG": {
+  "ion": "MG",
+  "true_label": "check"
+ },
+ "8ANA_aL_6126_MG": {
+  "ion": "MG",
+  "true_label": "check"
+ },
+ "6ORE_1U_3218_MG": {
+  "ion": "MG",
+  "true_label": "check"
+ },
+ "7QIZ_S2U_1987_MG": {
+  "ion": "MG",
+  "true_label": "validated"
+ },
+ "8CGI_AU_1630_MG": {
+  "ion": "MG",
+  "true_label": "check"
+ },
+ "8QOI_S2U_2004_K": {
+  "ion": "K",
+  "true_label": "validated"
+ },
+ "8CAM_aL_3077_MG": {
+  "ion": "MG",
+  "true_label": "validated"
+ },
+ "6ORE_1U_3035_MG": {
+  "ion": "MG",
+  "true_label": "check"
+ },
+ "9O3W_L5U_5556_MG": {
+  "ion": "MG",
+  "true_label": "check"
+ },
+ "9HCH_AU_2741_MG": {
+  "ion": "MG",
+  "true_label": "check"
+ },
+ "9O3W_L5U_5136_K": {
+  "ion": "K",
+  "true_label": "validated"
+ },
+ "8CGD_aL_3299_MG": {
+  "ion": "MG",
+  "true_label": "validated"
+ },
+ "9T6M_aL_3197_MG": {
+  "ion": "MG",
+  "true_label": "validated"
+ },
+ "8CAM_aL_3240_K": {
+  "ion": "K",
+  "true_label": "check"
+ },
+ "8CGD_aL_3130_MG": {
+  "ion": "MG",
+  "true_label": "validated"
+ },
+ "8CEU_aL_3255_K": {
+  "ion": "K",
+  "true_label": "check"
+ },
+ "8CEU_aL_3027_MG": {
+  "ion": "MG",
+  "true_label": "validated"
+ },
+ "8GLP_L7U_212_MG": {
+  "ion": "MG",
+  "true_label": "check"
+ },
+ "7UQB_1U_3417_MG": {
+  "ion": "MG",
+  "true_label": "check"
+ },
+ "9T0Y_AU_1688_MG": {
+  "ion": "MG",
+  "true_label": "check"
+ },
+ "9FXO_L2U_1711_K": {
+  "ion": "K",
+  "true_label": "validated"
+ },
+ "8EWC_A1U_3454_MG": {
+  "ion": "MG",
+  "true_label": "check"
+ },
+ "9O3W_S2U_1917_MG": {
+  "ion": "MG",
+  "true_label": "validated"
+ },
+ "6ORE_1U_3189_MG": {
+  "ion": "MG",
+  "true_label": "check"
+ },
+ "9T8L_aL_3024_K": {
+  "ion": "K",
+  "true_label": "check"
+ },
+ "9Q87_aL_3380_MG": {
+  "ion": "MG",
+  "true_label": "validated"
+ },
+ "8B0X_aL_3105_K": {
+  "ion": "K",
+  "true_label": "validated"
+ },
+ "8CCS_AAU_3478_MG": {
+  "ion": "MG",
+  "true_label": "validated"
+ },
+ "28UM_aL_3172_MG": {
+  "ion": "MG",
+  "true_label": "validated"
+ },
+ "8CGD_aL_3108_MG": {
+  "ion": "MG",
+  "true_label": "validated"
+ },
+ "9O3V_S2U_1980_MG": {
+  "ion": "MG",
+  "true_label": "check"
+ },
+ "8CGV_aL_3056_MG": {
+  "ion": "MG",
+  "true_label": "validated"
+ },
+ "8QOI_L5U_5341_K": {
+  "ion": "K",
+  "true_label": "validated"
+ },
+ "7PO1_AU_1769_K": {
+  "ion": "K",
+  "true_label": "check"
+ },
+ "8QOI_L5U_5254_MG": {
+  "ion": "MG",
+  "true_label": "validated"
+ },
+ "28UM_aL_3075_K": {
+  "ion": "K",
+  "true_label": "check"
+ },
+ "8SYL_AU_3243_MG": {
+  "ion": "MG",
+  "true_label": "check"
+ },
+ "8FLC_L3U_6047_MG": {
+  "ion": "MG",
+  "true_label": "check"
+ },
+ "8QOI_L5U_5333_K": {
+  "ion": "K",
+  "true_label": "validated"
+ },
+ "9T6M_aL_3106_MG": {
+  "ion": "MG",
+  "true_label": "validated"
+ },
+ "8SYL_AU_3026_MG": {
+  "ion": "MG",
+  "true_label": "check"
+ },
+ "9Q87_aL_3188_MG": {
+  "ion": "MG",
+  "true_label": "validated"
+ },
+ "8CGV_aL_3033_MG": {
+  "ion": "MG",
+  "true_label": "validated"
+ },
+ "8SYL_AU_3154_MG": {
+  "ion": "MG",
+  "true_label": "check"
+ },
+ "8FKY_SUU_1001_MG": {
+  "ion": "MG",
+  "true_label": "check"
+ },
+ "8B0X_AU_1738_K": {
+  "ion": "K",
+  "true_label": "check"
+ },
+ "6ORE_1U_3126_MG": {
+  "ion": "MG",
+  "true_label": "check"
+ },
+ "9PKD_L5U_5107_MG": {
+  "ion": "MG",
+  "true_label": "check"
+ },
+ "9O3W_L5U_5327_MG": {
+  "ion": "MG",
+  "true_label": "validated"
+ },
+ "8CGD_aL_3259_K": {
+  "ion": "K",
+  "true_label": "check"
+ },
+ "8B0X_aL_3187_MG": {
+  "ion": "MG",
+  "true_label": "check"
+ },
+ "9O3V_L5U_5400_K": {
+  "ion": "K",
+  "true_label": "validated"
+ },
+ "28UM_aL_3107_MG": {
+  "ion": "MG",
+  "true_label": "validated"
+ },
+ "8CCS_qL_201_K": {
+  "ion": "K",
+  "true_label": "validated"
+ },
+ "9O3W_L7U_209_MG": {
+  "ion": "MG",
+  "true_label": "check"
+ },
+ "7N2V_16U_1637_MG": {
+  "ion": "MG",
+  "true_label": "check"
+ },
+ "9E6Q_1U_3223_MG": {
+  "ion": "MG",
+  "true_label": "validated"
+ },
+ "9DOV_A1U_3427_MG": {
+  "ion": "MG",
+  "true_label": "check"
+ },
+ "8CAM_aL_3278_K": {
+  "ion": "K",
+  "true_label": "check"
+ },
+ "9B24_YU_4072_MG": {
+  "ion": "MG",
+  "true_label": "check"
+ },
+ "9FXO_S1U_2309_MG": {
+  "ion": "MG",
+  "true_label": "check"
+ },
+ "8W51_AU_3002_MG": {
+  "ion": "MG",
+  "true_label": "check"
+ },
+ "8CGD_aL_3215_K": {
+  "ion": "K",
+  "true_label": "validated"
+ },
+ "7QIZ_2U_3559_MG": {
+  "ion": "MG",
+  "true_label": "validated"
+ },
+ "7QIZ_2U_3626_MG": {
+  "ion": "MG",
+  "true_label": "validated"
+ },
+ "9Q87_aL_3473_MG": {
+  "ion": "MG",
+  "true_label": "validated"
+ },
+ "8G5Y_S2U_1931_MG": {
+  "ion": "MG",
+  "true_label": "check"
+ },
+ "9FXO_L1U_1834_MG": {
+  "ion": "MG",
+  "true_label": "check"
+ },
+ "7QIZ_S2U_1988_MG": {
+  "ion": "MG",
+  "true_label": "validated"
+ },
+ "9B24_YU_4316_MG": {
+  "ion": "MG",
+  "true_label": "check"
+ },
+ "8B0X_aL_3129_K": {
+  "ion": "K",
+  "true_label": "check"
+ },
+ "7QIZ_2U_3579_MG": {
+  "ion": "MG",
+  "true_label": "validated"
+ },
+ "8QOI_L5U_5311_K": {
+  "ion": "K",
+  "true_label": "check"
+ },
+ "8CCS_AAU_3517_MG": {
+  "ion": "MG",
+  "true_label": "validated"
+ },
+ "6YWS_AU_3596_MG": {
+  "ion": "MG",
+  "true_label": "check"
+ },
+ "8CGD_aL_3072_MG": {
+  "ion": "MG",
+  "true_label": "validated"
+ },
+ "9T6M_cL_305_MG": {
+  "ion": "MG",
+  "true_label": "validated"
+ },
+ "28UM_aL_3134_MG": {
+  "ion": "MG",
+  "true_label": "validated"
+ },
+ "8FL3_L3U_6014_MG": {
+  "ion": "MG",
+  "true_label": "check"
+ },
+ "7PO4_AU_3339_K": {
+  "ion": "K",
+  "true_label": "check"
+ },
+ "8CGJ_AU_1645_MG": {
+  "ion": "MG",
+  "true_label": "validated"
+ },
+ "8CCS_AAU_3406_MG": {
+  "ion": "MG",
+  "true_label": "validated"
+ },
+ "7ZAH_2U_1655_MG": {
+  "ion": "MG",
+  "true_label": "validated"
+ },
+ "9DTR_CU_2502_MG": {
+  "ion": "MG",
+  "true_label": "check"
+ },
+ "9O3W_L5U_5397_MG": {
+  "ion": "MG",
+  "true_label": "validated"
+ },
+ "8CGV_aL_3204_K": {
+  "ion": "K",
+  "true_label": "check"
+ },
+ "9GHA_aL_3216_K": {
+  "ion": "K",
+  "true_label": "validated"
+ },
+ "9RPV_S3U_1913_MG": {
+  "ion": "MG",
+  "true_label": "check"
+ },
+ "7PNX_AU_1762_MG": {
+  "ion": "MG",
+  "true_label": "check"
+ },
+ "8AKN_aL_6084_MG": {
+  "ion": "MG",
+  "true_label": "validated"
+ },
+ "9Q87_aL_3193_MG": {
+  "ion": "MG",
+  "true_label": "validated"
+ },
+ "9E6Q_1U_3299_MG": {
+  "ion": "MG",
+  "true_label": "check"
+ },
+ "9FXO_S1U_2442_K": {
+  "ion": "K",
+  "true_label": "check"
+ },
+ "9FXO_S1U_2434_K": {
+  "ion": "K",
+  "true_label": "validated"
+ },
+ "8CGV_cL_304_K": {
+  "ion": "K",
+  "true_label": "check"
+ },
+ "8CGD_aL_3059_MG": {
+  "ion": "MG",
+  "true_label": "validated"
+ },
+ "8QYX_A2U_5606_MG": {
+  "ion": "MG",
+  "true_label": "validated"
+ },
+ "9O3V_S2U_2000_K": {
+  "ion": "K",
+  "true_label": "validated"
+ },
+ "7QIZ_2U_3413_K": {
+  "ion": "K",
+  "true_label": "validated"
+ },
+ "9QLO_L5U_5121_MG": {
+  "ion": "MG",
+  "true_label": "check"
+ },
+ "8QFD_5U_5139_MG": {
+  "ion": "MG",
+  "true_label": "check"
+ },
+ "9FXO_S1U_2438_K": {
+  "ion": "K",
+  "true_label": "check"
+ },
+ "8B0X_AU_1676_MG": {
+  "ion": "MG",
+  "true_label": "validated"
+ },
+ "8QOI_S2U_1994_K": {
+  "ion": "K",
+  "true_label": "validated"
+ },
+ "8B0X_bL_206_K": {
+  "ion": "K",
+  "true_label": "check"
+ },
+ "8CCS_cL_1926_MG": {
+  "ion": "MG",
+  "true_label": "validated"
+ },
+ "9Q87_aL_3311_MG": {
+  "ion": "MG",
+  "true_label": "validated"
+ },
+ "9Q87_aL_3304_MG": {
+  "ion": "MG",
+  "true_label": "validated"
+ },
+ "28UM_aL_3015_K": {
+  "ion": "K",
+  "true_label": "validated"
+ },
+ "9Q87_bL_203_MG": {
+  "ion": "MG",
+  "true_label": "validated"
+ },
+ "8SYL_aL_3072_MG": {
+  "ion": "MG",
+  "true_label": "check"
+ },
+ "8CGV_aL_3212_K": {
+  "ion": "K",
+  "true_label": "validated"
+ },
+ "9E6Q_1U_3232_MG": {
+  "ion": "MG",
+  "true_label": "validated"
+ },
+ "8QOI_L5U_5147_MG": {
+  "ion": "MG",
+  "true_label": "validated"
+ },
+ "9GHA_aL_3222_K": {
+  "ion": "K",
+  "true_label": "validated"
+ },
+ "9BKD_AU_1955_MG": {
+  "ion": "MG",
+  "true_label": "check"
+ },
+ "8CA7_AU_1608_MG": {
+  "ion": "MG",
+  "true_label": "validated"
+ },
+ "8CCS_AAU_3470_K": {
+  "ion": "K",
+  "true_label": "check"
+ },
+ "8CCS_AAU_3576_MG": {
+  "ion": "MG",
+  "true_label": "validated"
+ },
+ "8CGD_aL_3207_K": {
+  "ion": "K",
+  "true_label": "validated"
+ },
+ "6XZ7_AU_3171_MG": {
+  "ion": "MG",
+  "true_label": "validated"
+ },
+ "9O3V_S2U_1934_K": {
+  "ion": "K",
+  "true_label": "check"
+ },
+ "9O3W_L5U_5123_K": {
+  "ion": "K",
+  "true_label": "validated"
+ },
+ "8EWC_A1U_3467_MG": {
+  "ion": "MG",
+  "true_label": "check"
+ },
+ "7QIZ_2U_3543_MG": {
+  "ion": "MG",
+  "true_label": "validated"
+ },
+ "9T6M_aL_3018_MG": {
+  "ion": "MG",
+  "true_label": "validated"
+ },
+ "7R4X_2U_1952_K": {
+  "ion": "K",
+  "true_label": "validated"
+ },
+ "8CGD_aL_3048_MG": {
+  "ion": "MG",
+  "true_label": "validated"
+ },
+ "9T0Y_AU_1677_MG": {
+  "ion": "MG",
+  "true_label": "validated"
+ },
+ "9T8Q_aL_3006_MG": {
+  "ion": "MG",
+  "true_label": "check"
+ },
+ "7UNU_AU_3021_MG": {
+  "ion": "MG",
+  "true_label": "check"
+ },
+ "9HCH_AU_2771_MG": {
+  "ion": "MG",
+  "true_label": "check"
+ },
+ "7R4X_2U_2019_MG": {
+  "ion": "MG",
+  "true_label": "check"
+ },
+ "8FL6_L1U_203_MG": {
+  "ion": "MG",
+  "true_label": "check"
+ },
+ "9O3W_L5U_5141_K": {
+  "ion": "K",
+  "true_label": "check"
+ },
+ "8B0X_AU_1681_MG": {
+  "ion": "MG",
+  "true_label": "validated"
+ },
+ "8CEU_aL_3209_K": {
+  "ion": "K",
+  "true_label": "validated"
+ },
+ "9RPV_M5U_5262_MG": {
+  "ion": "MG",
+  "true_label": "check"
+ },
+ "8CAM_aL_3124_MG": {
+  "ion": "MG",
+  "true_label": "validated"
+ },
+ "9RFW_aL_6149_MG": {
+  "ion": "MG",
+  "true_label": "check"
+ },
+ "9B24_YU_4250_MG": {
+  "ion": "MG",
+  "true_label": "check"
+ },
+ "8CGJ_AU_1625_MG": {
+  "ion": "MG",
+  "true_label": "validated"
+ },
+ "8CGD_aL_3268_K": {
+  "ion": "K",
+  "true_label": "check"
+ },
+ "9B4Z_BAU_3150_MG": {
+  "ion": "MG",
+  "true_label": "check"
+ },
+ "6YWS_AU_3621_MG": {
+  "ion": "MG",
+  "true_label": "check"
+ },
+ "8B0X_aL_3188_MG": {
+  "ion": "MG",
+  "true_label": "validated"
+ },
+ "8CEU_aL_3016_MG": {
+  "ion": "MG",
+  "true_label": "validated"
+ },
+ "28UM_aL_3024_K": {
+  "ion": "K",
+  "true_label": "check"
+ },
+ "8QYX_A2U_5466_MG": {
+  "ion": "MG",
+  "true_label": "validated"
+ },
+ "6ORE_1U_3263_MG": {
+  "ion": "MG",
+  "true_label": "check"
+ },
+ "9B24_YU_4329_MG": {
+  "ion": "MG",
+  "true_label": "check"
+ },
+ "8QOI_L5U_5282_MG": {
+  "ion": "MG",
+  "true_label": "validated"
+ },
+ "8SYL_AU_3100_MG": {
+  "ion": "MG",
+  "true_label": "check"
+ },
+ "8CGD_aL_3260_K": {
+  "ion": "K",
+  "true_label": "check"
+ },
+ "8QYX_A2U_5596_MG": {
+  "ion": "MG",
+  "true_label": "validated"
+ },
+ "9J1M_AU_3448_MG": {
+  "ion": "MG",
+  "true_label": "check"
+ },
+ "9O3W_L5U_5506_MG": {
+  "ion": "MG",
+  "true_label": "validated"
+ },
+ "8B0X_aL_3020_MG": {
+  "ion": "MG",
+  "true_label": "validated"
+ },
+ "8B0X_aL_3229_MG": {
+  "ion": "MG",
+  "true_label": "validated"
+ },
+ "8CAM_aL_3264_K": {
+  "ion": "K",
+  "true_label": "check"
+ },
+ "7QIZ_2U_3575_MG": {
+  "ion": "MG",
+  "true_label": "validated"
+ },
+ "9O3W_L5U_5150_K": {
+  "ion": "K",
+  "true_label": "validated"
+ },
+ "7N1P_23U_3037_MG": {
+  "ion": "MG",
+  "true_label": "check"
+ },
+ "8ANA_aL_6147_MG": {
+  "ion": "MG",
+  "true_label": "check"
+ },
+ "9Q87_aL_3005_K": {
+  "ion": "K",
+  "true_label": "validated"
+ },
+ "7PNX_AU_1768_K": {
+  "ion": "K",
+  "true_label": "validated"
+ },
+ "9RPV_M5U_5486_MG": {
+  "ion": "MG",
+  "true_label": "check"
+ },
+ "8CGD_aL_3007_MG": {
+  "ion": "MG",
+  "true_label": "validated"
+ },
+ "8CGD_aL_3149_MG": {
+  "ion": "MG",
+  "true_label": "validated"
+ },
+ "8CCS_AAU_3503_MG": {
+  "ion": "MG",
+  "true_label": "validated"
+ },
+ "8Q7Z_B5U_4509_MG": {
+  "ion": "MG",
+  "true_label": "check"
+ },
+ "9O3W_L5U_5178_K": {
+  "ion": "K",
+  "true_label": "validated"
+ },
+ "8QYX_A2U_5607_MG": {
+  "ion": "MG",
+  "true_label": "check"
+ },
+ "8QYX_A2U_5612_MG": {
+  "ion": "MG",
+  "true_label": "validated"
+ },
+ "9O3V_S2U_1938_K": {
+  "ion": "K",
+  "true_label": "validated"
+ },
+ "8QOI_S2U_1941_MG": {
+  "ion": "MG",
+  "true_label": "check"
+ },
+ "8CEU_aL_3075_MG": {
+  "ion": "MG",
+  "true_label": "validated"
+ },
+ "8B0X_aL_3284_K": {
+  "ion": "K",
+  "true_label": "validated"
+ },
+ "8QOI_L5U_5301_K": {
+  "ion": "K",
+  "true_label": "validated"
+ },
+ "11FV_IU_3042_MG": {
+  "ion": "MG",
+  "true_label": "check"
+ },
+ "8CAM_aL_3262_K": {
+  "ion": "K",
+  "true_label": "check"
+ },
+ "9QLO_S2U_1948_MG": {
+  "ion": "MG",
+  "true_label": "check"
+ },
+ "8CEU_dL_301_MG": {
+  "ion": "MG",
+  "true_label": "validated"
+ },
+ "9GHH_AU_3039_MG": {
+  "ion": "MG",
+  "true_label": "check"
+ },
+ "7UNU_AU_3031_MG": {
+  "ion": "MG",
+  "true_label": "check"
+ },
+ "9GHA_aL_3265_K": {
+  "ion": "K",
+  "true_label": "check"
+ },
+ "8B0X_aL_3052_MG": {
+  "ion": "MG",
+  "true_label": "check"
+ },
+ "8CGD_aL_3205_K": {
+  "ion": "K",
+  "true_label": "check"
+ },
+ "7K00_aL_6158_MG": {
+  "ion": "MG",
+  "true_label": "check"
+ },
+ "9E6Q_1U_3196_MG": {
+  "ion": "MG",
+  "true_label": "validated"
+ },
+ "7R4X_2U_2030_MG": {
+  "ion": "MG",
+  "true_label": "validated"
+ },
+ "8CGD_aL_3075_MG": {
+  "ion": "MG",
+  "true_label": "validated"
+ },
+ "7UQB_VU_201_MG": {
+  "ion": "MG",
+  "true_label": "validated"
+ },
+ "7UNU_AU_3213_MG": {
+  "ion": "MG",
+  "true_label": "check"
+ },
+ "8QOI_L5U_5345_K": {
+  "ion": "K",
+  "true_label": "validated"
+ },
+ "8CAM_aL_3063_MG": {
+  "ion": "MG",
+  "true_label": "validated"
+ },
+ "8B0X_cL_305_K": {
+  "ion": "K",
+  "true_label": "validated"
+ },
+ "8ANA_aL_6059_MG": {
+  "ion": "MG",
+  "true_label": "check"
+ },
+ "9O3W_LjU_102_MG": {
+  "ion": "MG",
+  "true_label": "validated"
+ },
+ "8QFD_5U_5244_MG": {
+  "ion": "MG",
+  "true_label": "check"
+ },
+ "9O3V_LNU_302_K": {
+  "ion": "K",
+  "true_label": "validated"
+ },
+ "9FDA_BU_1662_K": {
+  "ion": "K",
+  "true_label": "check"
+ },
+ "7UNU_aL_3068_MG": {
+  "ion": "MG",
+  "true_label": "check"
+ },
+ "8QK7_2U_1708_K": {
+  "ion": "K",
+  "true_label": "validated"
+ },
+ "9B24_YU_4347_MG": {
+  "ion": "MG",
+  "true_label": "check"
+ },
+ "9RPV_M5U_5224_MG": {
+  "ion": "MG",
+  "true_label": "check"
+ },
+ "9T8Q_aL_3025_MG": {
+  "ion": "MG",
+  "true_label": "check"
+ },
+ "9E6Q_1U_3173_MG": {
+  "ion": "MG",
+  "true_label": "check"
+ },
+ "9Q87_aL_3029_K": {
+  "ion": "K",
+  "true_label": "validated"
+ },
+ "8ANA_aL_6051_MG": {
+  "ion": "MG",
+  "true_label": "check"
+ },
+ "9GHA_AU_1641_K": {
+  "ion": "K",
+  "true_label": "validated"
+ },
+ "9O3V_L5U_5136_MG": {
+  "ion": "MG",
+  "true_label": "validated"
+ },
+ "9Q87_aL_3338_MG": {
+  "ion": "MG",
+  "true_label": "validated"
+ },
+ "7QIZ_S2U_2001_MG": {
+  "ion": "MG",
+  "true_label": "check"
+ },
+ "8CA7_AU_1616_MG": {
+  "ion": "MG",
+  "true_label": "validated"
+ },
+ "8CGV_aL_3230_K": {
+  "ion": "K",
+  "true_label": "validated"
+ },
+ "7QI5_AU_3455_K": {
+  "ion": "K",
+  "true_label": "check"
+ },
+ "7R4X_2U_2009_MG": {
+  "ion": "MG",
+  "true_label": "validated"
+ },
+ "8QYX_B2U_203_MG": {
+  "ion": "MG",
+  "true_label": "validated"
+ },
+ "9BKD_AU_1954_MG": {
+  "ion": "MG",
+  "true_label": "check"
+ },
+ "8B0X_aL_3181_K": {
+  "ion": "K",
+  "true_label": "check"
+ },
+ "8QOI_L5U_5174_MG": {
+  "ion": "MG",
+  "true_label": "check"
+ },
+ "7QIZ_2U_3630_MG": {
+  "ion": "MG",
+  "true_label": "validated"
+ },
+ "8Q7Z_B5U_4685_MG": {
+  "ion": "MG",
+  "true_label": "check"
+ },
+ "7UNU_AU_3384_MG": {
+  "ion": "MG",
+  "true_label": "check"
+ },
+ "9T6M_aL_3254_MG": {
+  "ion": "MG",
+  "true_label": "validated"
+ },
+ "7UNU_AU_3007_MG": {
+  "ion": "MG",
+  "true_label": "check"
+ },
+ "9Q87_aL_3210_MG": {
+  "ion": "MG",
+  "true_label": "validated"
+ },
+ "8CGD_aL_3135_MG": {
+  "ion": "MG",
+  "true_label": "validated"
+ },
+ "9Q87_aL_3377_MG": {
+  "ion": "MG",
+  "true_label": "validated"
+ },
+ "7QIZ_2U_3723_MG": {
+  "ion": "MG",
+  "true_label": "check"
+ },
+ "7N2V_23U_3282_MG": {
+  "ion": "MG",
+  "true_label": "check"
+ },
+ "8QK7_1U_3226_K": {
+  "ion": "K",
+  "true_label": "check"
+ },
+ "9T6M_aL_3154_MG": {
+  "ion": "MG",
+  "true_label": "validated"
+ },
+ "7UNU_AU_3412_MG": {
+  "ion": "MG",
+  "true_label": "check"
+ },
+ "7QI5_AU_3365_MG": {
+  "ion": "MG",
+  "true_label": "validated"
+ },
+ "8CGV_aL_3221_K": {
+  "ion": "K",
+  "true_label": "check"
+ },
+ "7R4X_2U_1913_K": {
+  "ion": "K",
+  "true_label": "check"
+ },
+ "7QI5_AU_3387_MG": {
+  "ion": "MG",
+  "true_label": "validated"
+ },
+ "9GHA_aL_3045_MG": {
+  "ion": "MG",
+  "true_label": "check"
+ },
+ "8ANA_aL_6066_MG": {
+  "ion": "MG",
+  "true_label": "check"
+ },
+ "9FXO_L2U_1650_MG": {
+  "ion": "MG",
+  "true_label": "check"
+ },
+ "9GHH_AU_3051_MG": {
+  "ion": "MG",
+  "true_label": "check"
+ },
+ "8GLP_L5U_5491_MG": {
+  "ion": "MG",
+  "true_label": "check"
+ },
+ "8QK7_1U_3230_K": {
+  "ion": "K",
+  "true_label": "check"
+ },
+ "9O3V_L5U_5366_K": {
+  "ion": "K",
+  "true_label": "validated"
+ },
+ "7QIZ_2U_3602_MG": {
+  "ion": "MG",
+  "true_label": "validated"
+ },
+ "28UM_aL_3247_MG": {
+  "ion": "MG",
+  "true_label": "validated"
+ },
+ "9B24_YU_4214_MG": {
+  "ion": "MG",
+  "true_label": "check"
+ },
+ "7QIZ_2U_3662_MG": {
+  "ion": "MG",
+  "true_label": "validated"
+ },
+ "8QOI_L5U_5215_MG": {
+  "ion": "MG",
+  "true_label": "check"
+ },
+ "9DOV_BEU_301_MG": {
+  "ion": "MG",
+  "true_label": "check"
+ },
+ "9FDA_BU_1628_MG": {
+  "ion": "MG",
+  "true_label": "validated"
+ },
+ "8QOI_L5U_5121_MG": {
+  "ion": "MG",
+  "true_label": "validated"
+ },
+ "7UNU_AU_3280_MG": {
+  "ion": "MG",
+  "true_label": "check"
+ },
+ "7PNX_AU_1717_MG": {
+  "ion": "MG",
+  "true_label": "validated"
+ },
+ "7K00_aL_6176_MG": {
+  "ion": "MG",
+  "true_label": "check"
+ },
+ "8CEU_aL_3171_MG": {
+  "ion": "MG",
+  "true_label": "validated"
+ },
+ "7QI5_AAU_1710_MG": {
+  "ion": "MG",
+  "true_label": "validated"
+ },
+ "8CCS_AAU_3590_MG": {
+  "ion": "MG",
+  "true_label": "validated"
+ },
+ "28UM_aL_3111_MG": {
+  "ion": "MG",
+  "true_label": "validated"
+ },
+ "9Q87_cL_305_K": {
+  "ion": "K",
+  "true_label": "validated"
+ },
+ "9Q87_AU_1672_MG": {
+  "ion": "MG",
+  "true_label": "validated"
+ },
+ "8G5Y_L5U_5836_MG": {
+  "ion": "MG",
+  "true_label": "check"
+ },
+ "7UNU_AU_3198_MG": {
+  "ion": "MG",
+  "true_label": "check"
+ },
+ "9O3W_S2U_1910_K": {
+  "ion": "K",
+  "true_label": "validated"
+ },
+ "9Q87_aL_3412_MG": {
+  "ion": "MG",
+  "true_label": "validated"
+ },
+ "28UM_aL_3124_MG": {
+  "ion": "MG",
+  "true_label": "validated"
+ },
+ "6ORE_1U_3271_MG": {
+  "ion": "MG",
+  "true_label": "check"
+ },
+ "9Q87_aL_3075_MG": {
+  "ion": "MG",
+  "true_label": "validated"
+ },
+ "9Q87_AU_1607_MG": {
+  "ion": "MG",
+  "true_label": "validated"
+ },
+ "8GLP_L5U_5591_MG": {
+  "ion": "MG",
+  "true_label": "check"
+ },
+ "8B0X_AU_1666_K": {
+  "ion": "K",
+  "true_label": "check"
+ },
+ "8CAM_aL_3163_MG": {
+  "ion": "MG",
+  "true_label": "check"
+ },
+ "9T6M_aL_3024_MG": {
+  "ion": "MG",
+  "true_label": "validated"
+ },
+ "8QK7_1U_3246_K": {
+  "ion": "K",
+  "true_label": "check"
+ },
+ "9O3W_STU_201_K": {
+  "ion": "K",
+  "true_label": "validated"
+ },
+ "8G5Y_S2U_1921_MG": {
+  "ion": "MG",
+  "true_label": "check"
+ },
+ "9P7K_L5U_5236_MG": {
+  "ion": "MG",
+  "true_label": "check"
+ },
+ "9RPV_M5U_5218_MG": {
+  "ion": "MG",
+  "true_label": "check"
+ },
+ "28UM_aL_3143_MG": {
+  "ion": "MG",
+  "true_label": "check"
+ },
+ "8B0X_aL_3122_K": {
+  "ion": "K",
+  "true_label": "check"
+ },
+ "8QK7_1U_3239_K": {
+  "ion": "K",
+  "true_label": "check"
+ },
+ "7UNU_AU_3328_MG": {
+  "ion": "MG",
+  "true_label": "check"
+ },
+ "7QIZ_2U_3483_MG": {
+  "ion": "MG",
+  "true_label": "validated"
+ },
+ "8CEU_aL_3205_K": {
+  "ion": "K",
+  "true_label": "validated"
+ },
+ "7N2V_16U_1643_MG": {
+  "ion": "MG",
+  "true_label": "check"
+ },
+ "9T6M_aL_3115_MG": {
+  "ion": "MG",
+  "true_label": "check"
+ },
+ "9T0Y_aL_3087_MG": {
+  "ion": "MG",
+  "true_label": "validated"
+ },
+ "8CCS_AAU_3412_MG": {
+  "ion": "MG",
+  "true_label": "validated"
+ },
+ "28UM_aL_3006_K": {
+  "ion": "K",
+  "true_label": "check"
+ },
+ "9Q87_AU_1671_MG": {
+  "ion": "MG",
+  "true_label": "validated"
+ },
+ "8B0X_AU_1629_MG": {
+  "ion": "MG",
+  "true_label": "validated"
+ },
+ "8B0X_aL_3258_K": {
+  "ion": "K",
+  "true_label": "validated"
+ },
+ "8CCS_AAU_3578_MG": {
+  "ion": "MG",
+  "true_label": "validated"
+ },
+ "9Q87_AU_1601_K": {
+  "ion": "K",
+  "true_label": "validated"
+ },
+ "8CEU_aL_3175_MG": {
+  "ion": "MG",
+  "true_label": "validated"
+ },
+ "8G5Y_L5U_5906_MG": {
+  "ion": "MG",
+  "true_label": "check"
+ },
+ "11FV_CU_1653_MG": {
+  "ion": "MG",
+  "true_label": "check"
+ },
+ "9RPV_M5U_5291_MG": {
+  "ion": "MG",
+  "true_label": "check"
+ },
+ "9B4Z_BAU_3075_MG": {
+  "ion": "MG",
+  "true_label": "check"
+ },
+ "8CGV_aL_3114_MG": {
+  "ion": "MG",
+  "true_label": "validated"
+ },
+ "9T8P_aL_3049_K": {
+  "ion": "K",
+  "true_label": "validated"
+ },
+ "9O3W_L5U_5155_K": {
+  "ion": "K",
+  "true_label": "check"
+ },
+ "7ZAH_2U_1610_MG": {
+  "ion": "MG",
+  "true_label": "check"
+ },
+ "7QI5_AU_3357_MG": {
+  "ion": "MG",
+  "true_label": "validated"
+ },
+ "8QK7_1U_3138_MG": {
+  "ion": "MG",
+  "true_label": "check"
+ },
+ "7AFA_1U_1606_MG": {
+  "ion": "MG",
+  "true_label": "check"
+ },
+ "8CEU_aL_3160_MG": {
+  "ion": "MG",
+  "true_label": "validated"
+ },
+ "8CCS_AAU_3467_K": {
+  "ion": "K",
+  "true_label": "check"
+ },
+ "9T0Y_AU_1606_MG": {
+  "ion": "MG",
+  "true_label": "validated"
+ },
+ "9Q87_aL_3246_K": {
+  "ion": "K",
+  "true_label": "check"
+ },
+ "9RFW_aL_6098_MG": {
+  "ion": "MG",
+  "true_label": "check"
+ },
+ "8CGV_aL_3081_MG": {
+  "ion": "MG",
+  "true_label": "validated"
+ },
+ "8CEU_aL_3074_MG": {
+  "ion": "MG",
+  "true_label": "validated"
+ },
+ "8Q7Z_B5U_4770_MG": {
+  "ion": "MG",
+  "true_label": "check"
+ },
+ "9GHH_AU_3081_MG": {
+  "ion": "MG",
+  "true_label": "check"
+ },
+ "8CAM_aL_3259_K": {
+  "ion": "K",
+  "true_label": "check"
+ },
+ "9HCH_AU_2754_MG": {
+  "ion": "MG",
+  "true_label": "check"
+ },
+ "8Q7Z_A2U_1990_MG": {
+  "ion": "MG",
+  "true_label": "check"
+ },
+ "28UM_aL_3188_MG": {
+  "ion": "MG",
+  "true_label": "validated"
+ },
+ "8AKN_aL_6135_MG": {
+  "ion": "MG",
+  "true_label": "check"
+ },
+ "8B0X_aL_3338_K": {
+  "ion": "K",
+  "true_label": "validated"
+ },
+ "8QK7_1U_3277_K": {
+  "ion": "K",
+  "true_label": "check"
+ },
+ "9RFW_aL_6027_MG": {
+  "ion": "MG",
+  "true_label": "check"
+ },
+ "9Q87_aL_3173_MG": {
+  "ion": "MG",
+  "true_label": "validated"
+ },
+ "9T6M_aL_3063_MG": {
+  "ion": "MG",
+  "true_label": "validated"
+ },
+ "7R4X_UU_201_K": {
+  "ion": "K",
+  "true_label": "validated"
+ },
+ "8CGD_aL_3210_K": {
+  "ion": "K",
+  "true_label": "check"
+ },
+ "9B4Z_BAU_3098_MG": {
+  "ion": "MG",
+  "true_label": "check"
+ },
+ "9FXO_L1U_1964_K": {
+  "ion": "K",
+  "true_label": "validated"
+ },
+ "8B0X_aL_3115_K": {
+  "ion": "K",
+  "true_label": "check"
+ },
+ "8QOI_L5U_5187_MG": {
+  "ion": "MG",
+  "true_label": "validated"
+ },
+ "8CEU_aL_3033_MG": {
+  "ion": "MG",
+  "true_label": "validated"
+ },
+ "9RFW_aL_6201_MG": {
+  "ion": "MG",
+  "true_label": "check"
+ },
+ "8QYX_A2U_5518_MG": {
+  "ion": "MG",
+  "true_label": "validated"
+ },
+ "7QIZ_S2U_1970_MG": {
+  "ion": "MG",
+  "true_label": "validated"
+ },
+ "9J1M_AU_3430_MG": {
+  "ion": "MG",
+  "true_label": "check"
+ },
+ "8B0X_AU_1653_K": {
+  "ion": "K",
+  "true_label": "validated"
+ },
+ "8CGV_vL_101_K": {
+  "ion": "K",
+  "true_label": "check"
+ },
+ "7N2V_23U_3074_MG": {
+  "ion": "MG",
+  "true_label": "check"
+ },
+ "8CCS_BBU_205_MG": {
+  "ion": "MG",
+  "true_label": "validated"
+ }
+}

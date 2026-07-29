@@ -1,0 +1,103 @@
+data_8SYL_AU_3100_MG
+_entry.id '8SYL_AU_3100_MG'
+
+_cell.entry_id '8SYL_AU_3100_MG'
+_cell.length_a 1
+_cell.length_b 1
+_cell.length_c 1
+_cell.angle_alpha 90
+_cell.angle_beta 90
+_cell.angle_gamma 90
+
+_symmetry.entry_id '8SYL_AU_3100_MG'
+_symmetry.space_group_name_H-M 'P 1'
+
+loop_
+_entity.id
+_entity.type
+A polymer
+MG! non-polymer
+V polymer
+
+loop_
+_entity_poly.entity_id
+_entity_poly.type
+_entity_poly.pdbx_strand_id
+_entity_poly.pdbx_seq_one_letter_code
+A polyribonucleotide A ?
+V polypeptide(L) V ?
+
+
+
+loop_
+_chem_comp.id
+_chem_comp.type
+C .
+G .
+MG .
+U .
+VAL .
+
+loop_
+_struct_asym.id
+_struct_asym.entity_id
+Z A
+OF MG!
+ZI MG!
+RA V
+
+
+
+loop_
+_atom_type.symbol
+C
+O
+MG
+P
+
+
+loop_
+_atom_site.group_PDB
+_atom_site.id
+_atom_site.type_symbol
+_atom_site.label_atom_id
+_atom_site.label_alt_id
+_atom_site.label_comp_id
+_atom_site.label_asym_id
+_atom_site.label_entity_id
+_atom_site.label_seq_id
+_atom_site.pdbx_PDB_ins_code
+_atom_site.Cartn_x
+_atom_site.Cartn_y
+_atom_site.Cartn_z
+_atom_site.occupancy
+_atom_site.B_iso_or_equiv
+_atom_site.pdbx_formal_charge
+_atom_site.auth_seq_id
+_atom_site.auth_asym_id
+_atom_site.pdbx_PDB_model_num
+ATOM 1 O OP1 . U Z A . ? 200.571 253.083 259.949 1 42.05 ? 1312 A 1
+ATOM 2 O "O5'" . U Z A . ? 200.126 255.509 260.235 1 42.05 ? 1312 A 1
+ATOM 3 C "C5'" . U Z A . ? 200.869 256.118 259.188 1 42.05 ? 1312 A 1
+ATOM 4 C "C4'" . U Z A . ? 200.845 257.622 259.293 1 42.05 ? 1312 A 1
+ATOM 5 C "C3'" . U Z A . ? 200.812 258.179 260.713 1 42.05 ? 1312 A 1
+ATOM 6 O "O3'" . U Z A . ? 201.578 259.379 260.773 1 42.05 ? 1312 A 1
+ATOM 7 P P . U Z A . ? 203.179 259.304 260.803 1 40.42 ? 1313 A 1
+ATOM 8 O OP1 . U Z A . ? 203.579 257.977 261.325 1 40.42 ? 1313 A 1
+ATOM 9 O OP2 . U Z A . ? 203.698 260.53 261.45 1 40.42 ? 1313 A 1
+ATOM 10 O "O5'" . U Z A . ? 203.577 259.363 259.269 1 40.42 ? 1313 A 1
+ATOM 11 C "C5'" . U Z A . ? 204.929 259.269 258.863 1 40.42 ? 1313 A 1
+ATOM 12 C "C4'" . U Z A . ? 205.03 259.082 257.374 1 40.42 ? 1313 A 1
+ATOM 13 O "O3'" . G Z A . ? 208.525 258.046 257.5 1 38.48 ? 1332 A 1
+ATOM 14 P P . G Z A . ? 208.71 257.937 259.087 1 38.97 ? 1333 A 1
+ATOM 15 O OP1 . G Z A . ? 207.835 256.847 259.57 1 38.97 ? 1333 A 1
+ATOM 16 O OP2 . G Z A . ? 208.576 259.288 259.68 1 38.97 ? 1333 A 1
+ATOM 17 P P . G Z A . ? 209.16 255.64 263.321 1 41.66 ? 1334 A 1
+ATOM 18 O OP1 . G Z A . ? 208.296 254.481 263.64 1 41.66 ? 1334 A 1
+ATOM 19 O OP2 . G Z A . ? 208.552 256.885 262.804 1 41.66 ? 1334 A 1
+ATOM 20 O OP2 . C Z A . ? 207.226 256.471 267.182 1 44.77 ? 1335 A 1
+ATOM 21 C C5 . C Z A . ? 208.67 260.794 267.185 1 44.77 ? 1335 A 1
+HETATM 22 MG MG . MG OF MG! . ? 208.627 261.01 261.244 1 33.71 ? 3011 A 1
+HETATM 23 MG MG . MG ZI MG! . ? 204.799 256.47 262.318 1 38.23 ? 3100 A 1
+ATOM 24 C C . VAL RA V . ? 200.105 254.091 266.676 1 53.13 ? 67 V 1
+ATOM 25 O O . VAL RA V . ? 200.948 254.728 266.036 1 53.13 ? 67 V 1

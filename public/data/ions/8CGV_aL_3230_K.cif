@@ -1,0 +1,119 @@
+data_8CGV_aL_3230_K
+_entry.id '8CGV_aL_3230_K'
+
+_cell.entry_id '8CGV_aL_3230_K'
+_cell.length_a 1
+_cell.length_b 1
+_cell.length_c 1
+_cell.angle_alpha 90
+_cell.angle_beta 90
+_cell.angle_gamma 90
+
+_symmetry.entry_id '8CGV_aL_3230_K'
+_symmetry.space_group_name_H-M 'P 1'
+
+loop_
+_entity.id
+_entity.type
+a polymer
+K! non-polymer
+water water
+
+loop_
+_entity_poly.entity_id
+_entity_poly.type
+_entity_poly.pdbx_strand_id
+_entity_poly.pdbx_seq_one_letter_code
+a polyribonucleotide a ?
+
+
+
+loop_
+_chem_comp.id
+_chem_comp.type
+C .
+G .
+HOH .
+K .
+U .
+
+loop_
+_struct_asym.id
+_struct_asym.entity_id
+E a
+ZI K!
+BM water
+
+
+
+loop_
+_atom_type.symbol
+C
+N
+O
+K
+
+
+loop_
+_atom_site.group_PDB
+_atom_site.id
+_atom_site.type_symbol
+_atom_site.label_atom_id
+_atom_site.label_alt_id
+_atom_site.label_comp_id
+_atom_site.label_asym_id
+_atom_site.label_entity_id
+_atom_site.label_seq_id
+_atom_site.pdbx_PDB_ins_code
+_atom_site.Cartn_x
+_atom_site.Cartn_y
+_atom_site.Cartn_z
+_atom_site.occupancy
+_atom_site.B_iso_or_equiv
+_atom_site.pdbx_formal_charge
+_atom_site.auth_seq_id
+_atom_site.auth_asym_id
+_atom_site.pdbx_PDB_model_num
+ATOM 1 N N9 . G E a . ? 161.374 134.482 220.906 1 24.74 ? 2525 a 1
+ATOM 2 C C8 . G E a . ? 161.148 134.136 219.598 1 24.58 ? 2525 a 1
+ATOM 3 N N7 . G E a . ? 160.985 135.175 218.814 1 25.2 ? 2525 a 1
+ATOM 4 C C5 . G E a . ? 161.086 136.267 219.667 1 25.05 ? 2525 a 1
+ATOM 5 C C6 . G E a . ? 161 137.654 219.409 1 24.39 ? 2525 a 1
+ATOM 6 O O6 . G E a . ? 160.797 138.221 218.328 1 26.85 ? 2525 a 1
+ATOM 7 N N1 . G E a . ? 161.167 138.412 220.575 1 25.45 ? 2525 a 1
+ATOM 8 C C2 . G E a . ? 161.394 137.899 221.833 1 24.96 ? 2525 a 1
+ATOM 9 N N3 . G E a . ? 161.486 136.596 222.072 1 25.44 ? 2525 a 1
+ATOM 10 C C4 . G E a . ? 161.333 135.85 220.951 1 24.53 ? 2525 a 1
+ATOM 11 N N7 . G E a . ? 158.095 137.726 221.551 1 22.67 ? 2526 a 1
+ATOM 12 C C5 . G E a . ? 158.153 139.076 221.866 1 23.19 ? 2526 a 1
+ATOM 13 C C6 . G E a . ? 158.163 140.215 221.027 1 23.34 ? 2526 a 1
+ATOM 14 O O6 . G E a . ? 158.129 140.251 219.791 1 25.52 ? 2526 a 1
+ATOM 15 N N1 . G E a . ? 158.224 141.401 221.766 1 23.77 ? 2526 a 1
+ATOM 16 C C2 . C E a . ? 154.804 141.676 221.896 1 25.65 ? 2527 a 1
+ATOM 17 O O2 . C E a . ? 154.805 142.914 221.964 1 28.28 ? 2527 a 1
+ATOM 18 N N3 . C E a . ? 154.932 141.03 220.707 1 27.16 ? 2527 a 1
+ATOM 19 C C4 . C E a . ? 154.927 139.691 220.65 1 25.18 ? 2527 a 1
+ATOM 20 N N4 . C E a . ? 155.069 139.111 219.468 1 24.52 ? 2527 a 1
+ATOM 21 C C5 . C E a . ? 154.778 138.91 221.827 1 27.57 ? 2527 a 1
+ATOM 22 N N7 . G E a . ? 153.319 140.323 212.658 1 36.71 ? 2535 a 1
+ATOM 23 N N7 . G E a . ? 155.761 142.695 214.858 1 33.94 ? 2536 a 1
+ATOM 24 C C5 . G E a . ? 155.454 142.958 216.183 1 31.61 ? 2536 a 1
+ATOM 25 C C6 . G E a . ? 155.421 142.089 217.303 1 29.04 ? 2536 a 1
+ATOM 26 O O6 . G E a . ? 155.656 140.875 217.337 1 31.28 ? 2536 a 1
+ATOM 27 N N1 . G E a . ? 155.079 142.766 218.475 1 28.58 ? 2536 a 1
+ATOM 28 C C2 . U E a . ? 158.358 143.781 219.039 1 27.87 ? 2537 a 1
+ATOM 29 O O2 . U E a . ? 158.161 143.775 220.248 1 28.89 ? 2537 a 1
+ATOM 30 N N3 . U E a . ? 158.455 142.611 218.321 1 27.48 ? 2537 a 1
+ATOM 31 C C4 . U E a . ? 158.692 142.488 216.963 1 28.39 ? 2537 a 1
+ATOM 32 O O4 . U E a . ? 158.754 141.371 216.459 1 29 ? 2537 a 1
+ATOM 33 C C5 . U E a . ? 158.83 143.73 216.263 1 29.65 ? 2537 a 1
+ATOM 34 N N1 . C E a . ? 161.714 143.314 221.222 1 26.3 ? 2538 a 1
+ATOM 35 C C2 . C E a . ? 161.424 141.95 221.324 1 24.52 ? 2538 a 1
+ATOM 36 O O2 . C E a . ? 161.227 141.456 222.445 1 24.78 ? 2538 a 1
+ATOM 37 N N3 . C E a . ? 161.363 141.195 220.193 1 25 ? 2538 a 1
+ATOM 38 C C4 . C E a . ? 161.604 141.737 218.992 1 25.49 ? 2538 a 1
+ATOM 39 N N4 . C E a . ? 161.543 140.949 217.926 1 25.56 ? 2538 a 1
+ATOM 40 C C5 . C E a . ? 161.927 143.116 218.865 1 28.33 ? 2538 a 1
+HETATM 41 K K . K ZI K! . ? 158.173 138.835 217.481 1 32.24 ? 3230 a 1
+HETATM 42 O O . HOH BM water . ? 154.811 135.292 222.129 1 36.89 ? 8165 a 1
+HETATM 43 O O . HOH BM water . ? 155.023 136.094 219.535 1 37.81 ? 8422 a 1

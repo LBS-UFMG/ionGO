@@ -1,0 +1,132 @@
+data_9B24_YU_4131_MG
+_entry.id '9B24_YU_4131_MG'
+
+_cell.entry_id '9B24_YU_4131_MG'
+_cell.length_a 1
+_cell.length_b 1
+_cell.length_c 1
+_cell.angle_alpha 90
+_cell.angle_beta 90
+_cell.angle_gamma 90
+
+_symmetry.entry_id '9B24_YU_4131_MG'
+_symmetry.space_group_name_H-M 'P 1'
+
+loop_
+_entity.id
+_entity.type
+Y polymer
+MG! non-polymer
+Z polymer
+
+loop_
+_entity_poly.entity_id
+_entity_poly.type
+_entity_poly.pdbx_strand_id
+_entity_poly.pdbx_seq_one_letter_code
+Y polyribonucleotide Y ?
+Z polypeptide(L) Z ?
+
+
+
+loop_
+_chem_comp.id
+_chem_comp.type
+A .
+ARG .
+ASN .
+C .
+G .
+MET .
+MG .
+VAL .
+
+loop_
+_struct_asym.id
+_struct_asym.entity_id
+T Y
+DK MG!
+KO MG!
+V Z
+
+
+
+loop_
+_atom_type.symbol
+C
+N
+O
+MG
+P
+
+
+loop_
+_atom_site.group_PDB
+_atom_site.id
+_atom_site.type_symbol
+_atom_site.label_atom_id
+_atom_site.label_alt_id
+_atom_site.label_comp_id
+_atom_site.label_asym_id
+_atom_site.label_entity_id
+_atom_site.label_seq_id
+_atom_site.pdbx_PDB_ins_code
+_atom_site.Cartn_x
+_atom_site.Cartn_y
+_atom_site.Cartn_z
+_atom_site.occupancy
+_atom_site.B_iso_or_equiv
+_atom_site.pdbx_formal_charge
+_atom_site.auth_seq_id
+_atom_site.auth_asym_id
+_atom_site.pdbx_PDB_model_num
+ATOM 1 C "C4'" . A T Y . ? 263.264 271.649 251.969 1 103.61 ? 897 Y 1
+ATOM 2 O "O4'" . A T Y . ? 263.356 270.572 251.002 1 103.61 ? 897 Y 1
+ATOM 3 C "C3'" . A T Y . ? 264.681 272.194 252.131 1 103.61 ? 897 Y 1
+ATOM 4 O "O3'" . A T Y . ? 265.345 271.485 253.172 1 103.61 ? 897 Y 1
+ATOM 5 C "C2'" . A T Y . ? 265.329 271.825 250.807 1 103.61 ? 897 Y 1
+ATOM 6 O "O2'" . A T Y . ? 266.735 271.718 250.859 1 103.61 ? 897 Y 1
+ATOM 7 C "C1'" . A T Y . ? 264.68 270.478 250.519 1 103.61 ? 897 Y 1
+ATOM 8 N N9 . A T Y . ? 264.618 270.16 249.097 1 103.61 ? 897 Y 1
+ATOM 9 C C8 . A T Y . ? 264.425 271.023 248.055 1 103.61 ? 897 Y 1
+ATOM 10 C C2 . A T Y . ? 265.062 266.762 248.376 1 103.61 ? 897 Y 1
+ATOM 11 N N3 . A T Y . ? 264.966 267.776 249.227 1 103.61 ? 897 Y 1
+ATOM 12 C C4 . A T Y . ? 264.759 268.918 248.552 1 103.61 ? 897 Y 1
+ATOM 13 P P . A T Y . ? 265.151 271.928 254.698 1 105.01 ? 898 Y 1
+ATOM 14 O OP1 . A T Y . ? 264.91 273.39 254.717 1 105.01 ? 898 Y 1
+ATOM 15 O OP2 . A T Y . ? 266.264 271.347 255.491 1 105.01 ? 898 Y 1
+ATOM 16 O "O5'" . A T Y . ? 263.801 271.206 255.13 1 105.01 ? 898 Y 1
+ATOM 17 C "C5'" . A T Y . ? 263.339 271.279 256.466 1 105.01 ? 898 Y 1
+ATOM 18 C "C4'" . A T Y . ? 262.605 270.024 256.859 1 105.01 ? 898 Y 1
+ATOM 19 C "C3'" . A T Y . ? 263.34 268.717 256.623 1 105.01 ? 898 Y 1
+ATOM 20 O "O3'" . A T Y . ? 264.287 268.436 257.637 1 105.01 ? 898 Y 1
+ATOM 21 N N1 . A T Y . ? 263.109 266.882 251.304 1 105.01 ? 898 Y 1
+ATOM 22 C C2 . A T Y . ? 263.657 266.955 252.518 1 105.01 ? 898 Y 1
+ATOM 23 N N3 . A T Y . ? 263.125 267.378 253.66 1 105.01 ? 898 Y 1
+ATOM 24 P P . G T Y . ? 265.54 267.477 257.334 1 104.73 ? 899 Y 1
+ATOM 25 O OP2 . G T Y . ? 266.091 267.818 256 1 104.73 ? 899 Y 1
+ATOM 26 O "O2'" . A T Y . ? 265.372 275.175 257.099 1 100.67 ? 2004 Y 1
+ATOM 27 C "C5'" . C T Y . ? 266.693 276.005 253.63 1 102.92 ? 2005 Y 1
+ATOM 28 C "C4'" . C T Y . ? 265.566 275.808 252.654 1 102.92 ? 2005 Y 1
+ATOM 29 O "O4'" . C T Y . ? 264.306 276.176 253.271 1 102.92 ? 2005 Y 1
+ATOM 30 O "O3'" . C T Y . ? 266.496 276.125 250.423 1 102.92 ? 2005 Y 1
+ATOM 31 O "O2'" . C T Y . ? 263.805 275.516 250.305 1 102.92 ? 2005 Y 1
+HETATM 32 MG MG . MG DK MG! . ? 266.257 269.675 256.719 1 109.95 ? 4020 Y 1
+HETATM 33 MG MG . MG KO MG! . ? 267.309 271.228 252.777 1 111.63 ? 4131 Y 1
+ATOM 34 C C . ARG V Z . ? 271.811 273.373 248.341 1 99.44 ? 222 Z 1
+ATOM 35 O O . ARG V Z . ? 271.001 272.776 249.054 1 99.44 ? 222 Z 1
+ATOM 36 C CB . ARG V Z . ? 271.789 275.863 248.687 1 99.44 ? 222 Z 1
+ATOM 37 N N . VAL V Z . ? 272.054 272.551 252.454 1 109.93 ? 225 Z 1
+ATOM 38 C CA . VAL V Z . ? 270.834 272.201 253.166 1 109.93 ? 225 Z 1
+ATOM 39 C C . VAL V Z . ? 270.169 270.979 252.542 1 109.93 ? 225 Z 1
+ATOM 40 O O . VAL V Z . ? 269.252 270.405 253.151 1 109.93 ? 225 Z 1
+ATOM 41 C CB . VAL V Z . ? 269.863 273.403 253.211 1 109.93 ? 225 Z 1
+ATOM 42 C CG1 . VAL V Z . ? 268.562 273.049 253.89 1 109.93 ? 225 Z 1
+ATOM 43 C CG2 . VAL V Z . ? 270.514 274.587 253.922 1 109.93 ? 225 Z 1
+ATOM 44 N N . MET V Z . ? 270.638 270.535 251.38 1 103.61 ? 226 Z 1
+ATOM 45 C CA . MET V Z . ? 270.202 269.29 250.782 1 103.61 ? 226 Z 1
+ATOM 46 C C . MET V Z . ? 270.342 268.148 251.796 1 103.61 ? 226 Z 1
+ATOM 47 O O . MET V Z . ? 271.043 268.248 252.808 1 103.61 ? 226 Z 1
+ATOM 48 C CB . MET V Z . ? 271.044 268.998 249.543 1 103.61 ? 226 Z 1
+ATOM 49 C CG . MET V Z . ? 270.349 268.261 248.434 1 103.61 ? 226 Z 1
+ATOM 50 N N . ASN V Z . ? 269.654 267.058 251.527 1 106.37 ? 227 Z 1

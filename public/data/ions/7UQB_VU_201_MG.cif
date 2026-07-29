@@ -1,0 +1,127 @@
+data_7UQB_VU_201_MG
+_entry.id '7UQB_VU_201_MG'
+
+_cell.entry_id '7UQB_VU_201_MG'
+_cell.length_a 1
+_cell.length_b 1
+_cell.length_c 1
+_cell.angle_alpha 90
+_cell.angle_beta 90
+_cell.angle_gamma 90
+
+_symmetry.entry_id '7UQB_VU_201_MG'
+_symmetry.space_group_name_H-M 'P 1'
+
+loop_
+_entity.id
+_entity.type
+1 polymer
+MG! non-polymer
+water water
+B polymer
+V polymer
+
+loop_
+_entity_poly.entity_id
+_entity_poly.type
+_entity_poly.pdbx_strand_id
+_entity_poly.pdbx_seq_one_letter_code
+1 polyribonucleotide 1 ?
+B polypeptide(L) B ?
+V polypeptide(L) V ?
+
+
+
+loop_
+_chem_comp.id
+_chem_comp.type
+ASN .
+C .
+G .
+HOH .
+LEU .
+MG .
+OMC .
+PSU .
+TYR .
+U .
+
+loop_
+_struct_asym.id
+_struct_asym.entity_id
+B 1
+ND MG!
+YE water
+I B
+CA V
+ME MG!
+GF water
+
+
+
+loop_
+_atom_type.symbol
+C
+N
+O
+MG
+P
+
+
+loop_
+_atom_site.group_PDB
+_atom_site.id
+_atom_site.type_symbol
+_atom_site.label_atom_id
+_atom_site.label_alt_id
+_atom_site.label_comp_id
+_atom_site.label_asym_id
+_atom_site.label_entity_id
+_atom_site.label_seq_id
+_atom_site.pdbx_PDB_ins_code
+_atom_site.Cartn_x
+_atom_site.Cartn_y
+_atom_site.Cartn_z
+_atom_site.occupancy
+_atom_site.B_iso_or_equiv
+_atom_site.pdbx_formal_charge
+_atom_site.auth_seq_id
+_atom_site.auth_asym_id
+_atom_site.pdbx_PDB_model_num
+ATOM 1 C "C5'" . G B 1 . ? 249.986 223.86 199.354 1 2.25833 ? 1902 1 1
+ATOM 2 O OP1 . U B 1 . ? 245.268 222.655 198.204 1 3.2719 ? 1903 1 1
+HETATM 3 C "C4'" . OMC B 1 . ? 251.524 218.377 199.318 1 1.84057 ? 2337 1 1
+HETATM 4 O "O3'" . OMC B 1 . ? 251.862 218.199 196.903 1 1.84057 ? 2337 1 1
+ATOM 5 O "O3'" . C B 1 . ? 243.343 218.343 194.773 1 20.6362 ? 2879 1 1
+HETATM 6 P P . PSU B 1 . ? 243.702 218.511 193.218 1 12.6184 ? 2880 1 1
+HETATM 7 O OP1 . PSU B 1 . ? 245.157 218.883 193.112 1 12.6184 ? 2880 1 1
+HETATM 8 O OP2 . PSU B 1 . ? 242.646 219.395 192.592 1 12.6184 ? 2880 1 1
+ATOM 9 P P . G B 1 . ? 247.887 226.353 190.53 1 6.42619 ? 2917 1 1
+ATOM 10 O OP1 . G B 1 . ? 247.87 224.987 191.096 1 6.42619 ? 2917 1 1
+ATOM 11 O OP2 . G B 1 . ? 246.695 227.218 190.687 1 6.42619 ? 2917 1 1
+ATOM 12 O "O5'" . G B 1 . ? 249.12 227.13 191.172 1 6.42619 ? 2917 1 1
+ATOM 13 C "C5'" . G B 1 . ? 250.431 226.581 191.173 1 6.42619 ? 2917 1 1
+ATOM 14 C "C4'" . G B 1 . ? 251.38 227.462 191.947 1 6.42619 ? 2917 1 1
+ATOM 15 O "O3'" . G B 1 . ? 251.269 226.785 194.288 1 6.42619 ? 2917 1 1
+ATOM 16 P P . G B 1 . ? 250.436 226.606 195.647 1 6.67977 ? 2918 1 1
+ATOM 17 O OP1 . G B 1 . ? 250.974 225.419 196.355 1 6.67977 ? 2918 1 1
+ATOM 18 O OP2 . G B 1 . ? 248.993 226.667 195.331 1 6.67977 ? 2918 1 1
+HETATM 19 MG MG . MG ND MG! . ? 246.706 226.297 198.675 1 8.06822 ? 3458 1 1
+HETATM 20 O O . HOH YE water . ? 247.776 224.43 193.606 1 5.72871 ? 3592 1 1
+HETATM 21 O O . HOH YE water . ? 245.499 223.285 195.586 1 8.57571 ? 3651 1 1
+HETATM 22 O O . HOH YE water . ? 247.079 225.369 196.817 1 8.0358 ? 3677 1 1
+HETATM 23 O O . HOH YE water . ? 244.572 226.032 198.166 1 9.66203 ? 3770 1 1
+ATOM 24 C CG . TYR I B . ? 242.254 225.723 189.504 1 6.12333 ? 6 B 1
+ATOM 25 C CD1 . TYR I B . ? 242.724 227.027 189.461 1 6.12333 ? 6 B 1
+ATOM 26 C C . LEU CA V . ? 249.566 222.144 189.461 1 5.8816 ? 46 V 1
+ATOM 27 N N . ASN CA V . ? 249.536 222.716 190.671 1 6.25532 ? 47 V 1
+ATOM 28 C CA . ASN CA V . ? 250.125 222.208 191.912 1 6.25532 ? 47 V 1
+ATOM 29 C C . ASN CA V . ? 251.647 222.31 191.964 1 6.25532 ? 47 V 1
+ATOM 30 C CB . ASN CA V . ? 249.714 220.754 192.174 1 6.25532 ? 47 V 1
+ATOM 31 C CG . ASN CA V . ? 248.216 220.572 192.24 1 6.25532 ? 47 V 1
+ATOM 32 O OD1 . ASN CA V . ? 247.503 221.4 192.794 1 6.25532 ? 47 V 1
+ATOM 33 N ND2 . ASN CA V . ? 247.73 219.481 191.668 1 6.25532 ? 47 V 1
+HETATM 34 MG MG . MG ME MG! . ? 247.042 222.626 194.377 1 12.788 ? 201 V 1
+HETATM 35 O O . HOH GF water . ? 245.665 221.073 194.555 1 9.80661 ? 301 V 1
+HETATM 36 O O . HOH GF water . ? 245.64 223.212 192.941 1 6.20419 ? 302 V 1
+HETATM 37 O O . HOH GF water . ? 248.228 222.144 196.07 1 7.37572 ? 303 V 1

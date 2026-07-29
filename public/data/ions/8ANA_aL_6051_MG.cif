@@ -1,0 +1,129 @@
+data_8ANA_aL_6051_MG
+_entry.id '8ANA_aL_6051_MG'
+
+_cell.entry_id '8ANA_aL_6051_MG'
+_cell.length_a 1
+_cell.length_b 1
+_cell.length_c 1
+_cell.angle_alpha 90
+_cell.angle_beta 90
+_cell.angle_gamma 90
+
+_symmetry.entry_id '8ANA_aL_6051_MG'
+_symmetry.space_group_name_H-M 'P 1'
+
+loop_
+_entity.id
+_entity.type
+a polymer
+MG! non-polymer
+d polymer
+
+loop_
+_entity_poly.entity_id
+_entity_poly.type
+_entity_poly.pdbx_strand_id
+_entity_poly.pdbx_seq_one_letter_code
+a polyribonucleotide a ?
+d polypeptide(L) d ?
+
+
+
+loop_
+_chem_comp.id
+_chem_comp.type
+A .
+C .
+G .
+GLY .
+MG .
+PRO .
+U .
+
+loop_
+_struct_asym.id
+_struct_asym.entity_id
+G a
+HC MG!
+J d
+
+
+
+loop_
+_atom_type.symbol
+C
+N
+O
+MG
+P
+
+
+loop_
+_atom_site.group_PDB
+_atom_site.id
+_atom_site.type_symbol
+_atom_site.label_atom_id
+_atom_site.label_alt_id
+_atom_site.label_comp_id
+_atom_site.label_asym_id
+_atom_site.label_entity_id
+_atom_site.label_seq_id
+_atom_site.pdbx_PDB_ins_code
+_atom_site.Cartn_x
+_atom_site.Cartn_y
+_atom_site.Cartn_z
+_atom_site.occupancy
+_atom_site.B_iso_or_equiv
+_atom_site.pdbx_formal_charge
+_atom_site.auth_seq_id
+_atom_site.auth_asym_id
+_atom_site.pdbx_PDB_model_num
+ATOM 1 N N3 . U G a . ? 234.345 269.25 277.188 1 18.08 ? 1130 a 1
+ATOM 2 C C4 . U G a . ? 233.533 268.238 276.718 1 18.31 ? 1130 a 1
+ATOM 3 O O4 . U G a . ? 232.625 268.512 275.934 1 18.89 ? 1130 a 1
+ATOM 4 P P . G G a . ? 231.15 277.375 276.006 1 16.2 ? 2024 a 1
+ATOM 5 O OP1 . G G a . ? 231.584 276.509 274.874 1 16.7 ? 2024 a 1
+ATOM 6 O OP2 . G G a . ? 229.73 277.313 276.46 1 16.29 ? 2024 a 1
+ATOM 7 O "O5'" . G G a . ? 232.011 277.115 277.327 1 16.31 ? 2024 a 1
+ATOM 8 C "C5'" . G G a . ? 233.443 276.97 277.226 1 16.16 ? 2024 a 1
+ATOM 9 C "C4'" . G G a . ? 233.95 276.383 278.518 1 15.93 ? 2024 a 1
+ATOM 10 O "O4'" . G G a . ? 233.662 277.294 279.613 1 16.06 ? 2024 a 1
+ATOM 11 C "C3'" . G G a . ? 233.293 275.07 278.956 1 15.76 ? 2024 a 1
+ATOM 12 O "O3'" . G G a . ? 233.86 273.945 278.3 1 15.68 ? 2024 a 1
+ATOM 13 C "C2'" . G G a . ? 233.606 275.093 280.45 1 15.75 ? 2024 a 1
+ATOM 14 O "O2'" . G G a . ? 234.956 274.76 280.699 1 15.73 ? 2024 a 1
+ATOM 15 C "C1'" . G G a . ? 233.305 276.557 280.767 1 15.96 ? 2024 a 1
+ATOM 16 N N9 . G G a . ? 231.898 276.81 281.083 1 15.95 ? 2024 a 1
+ATOM 17 C C8 . G G a . ? 230.967 277.457 280.308 1 15.92 ? 2024 a 1
+ATOM 18 N N7 . G G a . ? 229.781 277.539 280.869 1 15.87 ? 2024 a 1
+ATOM 19 P P . C G a . ? 232.939 272.702 277.858 1 15.52 ? 2025 a 1
+ATOM 20 O OP1 . C G a . ? 233.708 271.769 276.986 1 15.66 ? 2025 a 1
+ATOM 21 O OP2 . C G a . ? 231.642 273.248 277.361 1 16 ? 2025 a 1
+ATOM 22 O "O5'" . C G a . ? 232.598 272.025 279.27 1 15.38 ? 2025 a 1
+ATOM 23 C "C5'" . C G a . ? 233.676 271.559 280.11 1 15.29 ? 2025 a 1
+ATOM 24 N N4 . C G a . ? 226.849 274.533 280.974 1 14.03 ? 2025 a 1
+ATOM 25 C C5 . C G a . ? 229.08 273.793 280.506 1 14.16 ? 2025 a 1
+ATOM 26 C C6 . C G a . ? 230.187 273.213 281.001 1 14.3 ? 2025 a 1
+ATOM 27 O OP2 . U G a . ? 231.43 268.251 279.5 1 16.08 ? 2026 a 1
+ATOM 28 O O4 . U G a . ? 226.08 271.649 280.412 1 15.96 ? 2026 a 1
+ATOM 29 C C5 . U G a . ? 227.813 270.145 281.026 1 15.96 ? 2026 a 1
+ATOM 30 P P . A G a . ? 225.205 268.472 272.872 1 18.57 ? 2033 a 1
+ATOM 31 O OP1 . A G a . ? 225.591 268.071 274.256 1 20.08 ? 2033 a 1
+ATOM 32 O "O5'" . A G a . ? 226.049 269.765 272.445 1 17.9 ? 2033 a 1
+ATOM 33 C "C5'" . A G a . ? 225.622 270.555 271.304 1 16.93 ? 2033 a 1
+ATOM 34 C "C4'" . A G a . ? 225.179 271.919 271.778 1 16.32 ? 2033 a 1
+ATOM 35 C "C3'" . A G a . ? 226.008 272.549 272.913 1 15.96 ? 2033 a 1
+ATOM 36 O "O3'" . A G a . ? 226.097 273.961 272.783 1 15.59 ? 2033 a 1
+ATOM 37 C "C2'" . A G a . ? 225.158 272.247 274.15 1 15.92 ? 2033 a 1
+ATOM 38 O "O2'" . A G a . ? 225.414 273.12 275.228 1 15.9 ? 2033 a 1
+ATOM 39 P P . U G a . ? 227.27 274.661 271.939 1 15.16 ? 2034 a 1
+ATOM 40 O OP2 . U G a . ? 228.566 274.031 272.331 1 15.22 ? 2034 a 1
+ATOM 41 O "O5'" . U G a . ? 227.224 276.127 272.578 1 15.02 ? 2034 a 1
+ATOM 42 C "C5'" . U G a . ? 227.762 276.334 273.907 1 14.85 ? 2034 a 1
+ATOM 43 C "C4'" . U G a . ? 227.32 277.685 274.409 1 14.84 ? 2034 a 1
+ATOM 44 C "C3'" . U G a . ? 225.808 277.876 274.569 1 14.89 ? 2034 a 1
+ATOM 45 O "O3'" . U G a . ? 225.415 277.445 275.863 1 15.03 ? 2034 a 1
+HETATM 46 MG MG . MG HC MG! . ? 230.115 273.066 276.103 1 17.97 ? 6051 a 1
+ATOM 47 C C . PRO J d . ? 234.866 269.952 273.012 1 17.64 ? 152 d 1
+ATOM 48 O O . PRO J d . ? 234.201 270.748 273.651 1 18.24 ? 152 d 1
+ATOM 49 O O . GLY J d . ? 234.549 273.561 271.16 1 17.03 ? 153 d 1

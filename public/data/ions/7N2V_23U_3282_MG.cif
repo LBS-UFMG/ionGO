@@ -1,0 +1,119 @@
+data_7N2V_23U_3282_MG
+_entry.id '7N2V_23U_3282_MG'
+
+_cell.entry_id '7N2V_23U_3282_MG'
+_cell.length_a 1
+_cell.length_b 1
+_cell.length_c 1
+_cell.angle_alpha 90
+_cell.angle_beta 90
+_cell.angle_gamma 90
+
+_symmetry.entry_id '7N2V_23U_3282_MG'
+_symmetry.space_group_name_H-M 'P 1'
+
+loop_
+_entity.id
+_entity.type
+23 polymer
+MG! non-polymer
+LQ polymer
+
+loop_
+_entity_poly.entity_id
+_entity_poly.type
+_entity_poly.pdbx_strand_id
+_entity_poly.pdbx_seq_one_letter_code
+23 polyribonucleotide 23 ?
+LQ polypeptide(L) LQ ?
+
+
+
+loop_
+_chem_comp.id
+_chem_comp.type
+A .
+C .
+G .
+MG .
+SER .
+U .
+
+loop_
+_struct_asym.id
+_struct_asym.entity_id
+W 23
+WO MG!
+KA LQ
+
+
+
+loop_
+_atom_type.symbol
+C
+N
+O
+MG
+P
+
+
+loop_
+_atom_site.group_PDB
+_atom_site.id
+_atom_site.type_symbol
+_atom_site.label_atom_id
+_atom_site.label_alt_id
+_atom_site.label_comp_id
+_atom_site.label_asym_id
+_atom_site.label_entity_id
+_atom_site.label_seq_id
+_atom_site.pdbx_PDB_ins_code
+_atom_site.Cartn_x
+_atom_site.Cartn_y
+_atom_site.Cartn_z
+_atom_site.occupancy
+_atom_site.B_iso_or_equiv
+_atom_site.pdbx_formal_charge
+_atom_site.auth_seq_id
+_atom_site.auth_asym_id
+_atom_site.pdbx_PDB_model_num
+ATOM 1 O "O3'" . G W 23 . ? 349.937 298.685 258.2 1 62.05 ? 2709 23 1
+ATOM 2 P P . C W 23 . ? 348.85 298.199 259.271 1 60.63 ? 2710 23 1
+ATOM 3 O OP1 . C W 23 . ? 349.546 297.965 260.55 1 60.63 ? 2710 23 1
+ATOM 4 O OP2 . C W 23 . ? 348.074 297.108 258.65 1 60.63 ? 2710 23 1
+ATOM 5 O "O5'" . C W 23 . ? 347.879 299.439 259.467 1 60.63 ? 2710 23 1
+ATOM 6 C "C5'" . C W 23 . ? 348.347 300.663 259.998 1 60.63 ? 2710 23 1
+ATOM 7 C "C4'" . C W 23 . ? 347.338 301.763 259.809 1 60.63 ? 2710 23 1
+ATOM 8 O "O4'" . C W 23 . ? 347.124 302.013 258.403 1 60.63 ? 2710 23 1
+ATOM 9 C "C3'" . C W 23 . ? 345.946 301.484 260.343 1 60.63 ? 2710 23 1
+ATOM 10 O "O3'" . C W 23 . ? 345.841 301.667 261.743 1 60.63 ? 2710 23 1
+ATOM 11 C "C2'" . C W 23 . ? 345.092 302.454 259.544 1 60.63 ? 2710 23 1
+ATOM 12 C "C1'" . C W 23 . ? 345.795 302.433 258.19 1 60.63 ? 2710 23 1
+ATOM 13 P P . A W 23 . ? 344.976 300.66 262.644 1 60.1 ? 2711 23 1
+ATOM 14 O OP1 . A W 23 . ? 345.367 300.864 264.054 1 60.1 ? 2711 23 1
+ATOM 15 O OP2 . A W 23 . ? 345.068 299.309 262.057 1 60.1 ? 2711 23 1
+ATOM 16 O "O5'" . A W 23 . ? 343.49 301.188 262.461 1 60.1 ? 2711 23 1
+ATOM 17 C "C5'" . A W 23 . ? 343.134 302.498 262.871 1 60.1 ? 2711 23 1
+ATOM 18 C "C3'" . A W 23 . ? 340.634 302.08 262.403 1 60.1 ? 2711 23 1
+ATOM 19 N N9 . A W 23 . ? 341.05 301.55 259.222 1 60.1 ? 2711 23 1
+ATOM 20 C C8 . A W 23 . ? 342.052 300.629 259.252 1 60.1 ? 2711 23 1
+ATOM 21 N N7 . A W 23 . ? 341.958 299.72 258.321 1 60.1 ? 2711 23 1
+ATOM 22 C "C5'" . C W 23 . ? 341.11 300.321 265.9 1 62.25 ? 2712 23 1
+ATOM 23 C "C4'" . C W 23 . ? 340.976 299.209 266.907 1 62.25 ? 2712 23 1
+ATOM 24 C "C3'" . C W 23 . ? 341.244 297.807 266.37 1 62.25 ? 2712 23 1
+ATOM 25 O "O3'" . C W 23 . ? 341.906 297.04 267.365 1 62.25 ? 2712 23 1
+ATOM 26 P P . U W 23 . ? 343.443 296.65 267.17 1 60.81 ? 2713 23 1
+ATOM 27 O OP2 . U W 23 . ? 344.202 297.895 266.936 1 60.81 ? 2713 23 1
+ATOM 28 O "O5'" . U W 23 . ? 343.451 295.807 265.825 1 60.81 ? 2713 23 1
+ATOM 29 C "C5'" . U W 23 . ? 343.129 294.424 265.831 1 60.81 ? 2713 23 1
+ATOM 30 C "C4'" . U W 23 . ? 343.23 293.825 264.452 1 60.81 ? 2713 23 1
+ATOM 31 C "C3'" . U W 23 . ? 342.172 294.289 263.458 1 60.81 ? 2713 23 1
+ATOM 32 O "O3'" . U W 23 . ? 342.76 294.403 262.165 1 60.81 ? 2713 23 1
+ATOM 33 C "C2'" . U W 23 . ? 341.173 293.14 263.466 1 60.81 ? 2713 23 1
+ATOM 34 P P . G W 23 . ? 342.966 295.845 261.503 1 60.39 ? 2714 23 1
+ATOM 35 O OP1 . G W 23 . ? 343.367 295.635 260.099 1 60.39 ? 2714 23 1
+ATOM 36 O OP2 . G W 23 . ? 343.82 296.674 262.377 1 60.39 ? 2714 23 1
+ATOM 37 O "O5'" . G W 23 . ? 341.505 296.456 261.496 1 60.39 ? 2714 23 1
+ATOM 38 C "C5'" . G W 23 . ? 341.199 297.613 262.25 1 60.39 ? 2714 23 1
+HETATM 39 MG MG . MG WO MG! . ? 345.576 297.541 262.68 1 60.38 ? 3282 23 1
+ATOM 40 C CB . SER KA LQ . ? 350.065 295.308 262.627 1 60.41 ? 15 LQ 1

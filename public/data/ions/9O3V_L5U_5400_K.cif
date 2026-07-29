@@ -1,0 +1,140 @@
+data_9O3V_L5U_5400_K
+_entry.id '9O3V_L5U_5400_K'
+
+_cell.entry_id '9O3V_L5U_5400_K'
+_cell.length_a 1
+_cell.length_b 1
+_cell.length_c 1
+_cell.angle_alpha 90
+_cell.angle_beta 90
+_cell.angle_gamma 90
+
+_symmetry.entry_id '9O3V_L5U_5400_K'
+_symmetry.space_group_name_H-M 'P 1'
+
+loop_
+_entity.id
+_entity.type
+L5 polymer
+MG! non-polymer
+K! non-polymer
+water water
+
+loop_
+_entity_poly.entity_id
+_entity_poly.type
+_entity_poly.pdbx_strand_id
+_entity_poly.pdbx_seq_one_letter_code
+L5 polyribonucleotide L5 ?
+
+
+
+loop_
+_chem_comp.id
+_chem_comp.type
+C .
+G .
+HOH .
+K .
+MG .
+PSU .
+U .
+
+loop_
+_struct_asym.id
+_struct_asym.entity_id
+A L5
+HI MG!
+RN K!
+GX water
+
+
+
+loop_
+_atom_type.symbol
+C
+N
+O
+MG
+P
+K
+
+
+loop_
+_atom_site.group_PDB
+_atom_site.id
+_atom_site.type_symbol
+_atom_site.label_atom_id
+_atom_site.label_alt_id
+_atom_site.label_comp_id
+_atom_site.label_asym_id
+_atom_site.label_entity_id
+_atom_site.label_seq_id
+_atom_site.pdbx_PDB_ins_code
+_atom_site.Cartn_x
+_atom_site.Cartn_y
+_atom_site.Cartn_z
+_atom_site.occupancy
+_atom_site.B_iso_or_equiv
+_atom_site.pdbx_formal_charge
+_atom_site.auth_seq_id
+_atom_site.auth_asym_id
+_atom_site.pdbx_PDB_model_num
+ATOM 1 C "C3'" . G A L5 . ? 223.242 244.83 186.781 1 16.42 ? 1577 L5 1
+ATOM 2 O "O3'" . G A L5 . ? 222.259 244.834 185.767 1 20.36 ? 1577 L5 1
+ATOM 3 C "C2'" . G A L5 . ? 224.392 243.874 186.476 1 15.34 ? 1577 L5 1
+ATOM 4 O "O2'" . G A L5 . ? 224.486 243.604 185.09 1 20.63 ? 1577 L5 1
+ATOM 5 P P . U A L5 . ? 220.753 244.374 186.049 1 19.66 ? 1578 L5 1
+ATOM 6 O OP1 . U A L5 . ? 220.738 243.112 186.782 1 21.73 ? 1578 L5 1
+ATOM 7 O OP2 . U A L5 . ? 220.061 244.409 184.771 1 22.27 ? 1578 L5 1
+ATOM 8 O "O5'" . U A L5 . ? 220.173 245.451 187.063 1 25.27 ? 1578 L5 1
+ATOM 9 O "O3'" . U A L5 . ? 217.06 245.181 186.225 1 22.04 ? 1578 L5 1
+ATOM 10 P P . C A L5 . ? 216.729 244.112 185.084 1 21.67 ? 1579 L5 1
+ATOM 11 O OP1 . C A L5 . ? 216.84 242.791 185.676 1 26 ? 1579 L5 1
+ATOM 12 O OP2 . C A L5 . ? 217.498 244.369 183.863 1 20.77 ? 1579 L5 1
+ATOM 13 O "O5'" . U A L5 . ? 216.445 237.32 181.945 1 21.12 ? 1609 L5 1
+ATOM 14 C "C5'" . U A L5 . ? 217.674 237.402 182.633 1 18.57 ? 1609 L5 1
+ATOM 15 C "C4'" . U A L5 . ? 218.8 237.69 181.682 1 19.51 ? 1609 L5 1
+ATOM 16 O "O4'" . U A L5 . ? 218.86 236.667 180.652 1 21.46 ? 1609 L5 1
+ATOM 17 C "C3'" . U A L5 . ? 218.692 238.986 180.901 1 16.72 ? 1609 L5 1
+ATOM 18 O "O3'" . U A L5 . ? 219.085 240.113 181.666 1 21.69 ? 1609 L5 1
+ATOM 19 C "C2'" . U A L5 . ? 219.589 238.707 179.703 1 15.56 ? 1609 L5 1
+ATOM 20 O "O2'" . U A L5 . ? 220.949 238.819 180.064 1 19.37 ? 1609 L5 1
+ATOM 21 C "C1'" . U A L5 . ? 219.294 237.235 179.437 1 14.02 ? 1609 L5 1
+ATOM 22 P P . C A L5 . ? 218.559 241.592 181.336 1 19.73 ? 1610 L5 1
+ATOM 23 O OP1 . C A L5 . ? 219.175 242.502 182.314 1 21.34 ? 1610 L5 1
+ATOM 24 O OP2 . C A L5 . ? 217.107 241.57 181.228 1 21.25 ? 1610 L5 1
+ATOM 25 O "O5'" . C A L5 . ? 219.107 241.912 179.884 1 17.17 ? 1610 L5 1
+ATOM 26 C "C5'" . C A L5 . ? 220.482 242.116 179.615 1 17.41 ? 1610 L5 1
+ATOM 27 C "C5'" . C A L5 . ? 222.695 245.735 179.334 1 19.94 ? 1611 L5 1
+HETATM 28 O O4 . PSU A L5 . ? 225.201 240.969 188.505 1 15.79 ? 3637 L5 1
+HETATM 29 C "C1'" . PSU A L5 . ? 222.386 240.722 188.737 1 15.96 ? 3637 L5 1
+HETATM 30 C "C2'" . PSU A L5 . ? 222.484 239.963 187.409 1 16.55 ? 3637 L5 1
+HETATM 31 O "O2'" . PSU A L5 . ? 222.406 240.886 186.339 1 18.72 ? 3637 L5 1
+HETATM 32 C "C3'" . PSU A L5 . ? 221.261 239.058 187.479 1 13.62 ? 3637 L5 1
+HETATM 33 C "C4'" . PSU A L5 . ? 220.257 239.936 188.187 1 16.04 ? 3637 L5 1
+HETATM 34 O "O3'" . PSU A L5 . ? 220.815 238.59 186.222 1 20.3 ? 3637 L5 1
+HETATM 35 O "O4'" . PSU A L5 . ? 221.055 240.601 189.195 1 19.59 ? 3637 L5 1
+HETATM 36 C "C5'" . PSU A L5 . ? 219.108 239.205 188.821 1 15.12 ? 3637 L5 1
+ATOM 37 P P . G A L5 . ? 221.168 237.112 185.706 1 20.9 ? 3638 L5 1
+ATOM 38 O OP1 . G A L5 . ? 220.937 237.132 184.265 1 21.53 ? 3638 L5 1
+ATOM 39 O OP2 . G A L5 . ? 220.518 236.089 186.53 1 21.33 ? 3638 L5 1
+ATOM 40 O "O5'" . G A L5 . ? 222.736 236.992 185.898 1 20.1 ? 3638 L5 1
+ATOM 41 C "C5'" . G A L5 . ? 223.636 237.752 185.114 1 14.45 ? 3638 L5 1
+ATOM 42 C "C4'" . G A L5 . ? 225.065 237.528 185.531 1 13.92 ? 3638 L5 1
+ATOM 43 O "O4'" . G A L5 . ? 225.257 237.813 186.95 1 18.28 ? 3638 L5 1
+ATOM 44 N N9 . G A L5 . ? 225.261 235.958 188.397 1 10.09 ? 3638 L5 1
+ATOM 45 C C8 . G A L5 . ? 223.935 236.088 188.636 1 10.06 ? 3638 L5 1
+HETATM 46 MG MG . MG HI MG! . ? 219.332 244.362 182.901 1 22.44 ? 5260 L5 1
+HETATM 47 K K . K RN K! . ? 220.375 240.918 184.286 1 25.53 ? 5400 L5 1
+HETATM 48 O O . HOH GX water . ? 218.431 245.028 181.174 1 23.07 ? 5504 L5 1
+HETATM 49 O O . HOH GX water . ? 216.244 245.307 179.505 1 18.88 ? 5783 L5 1
+HETATM 50 O O . HOH GX water . ? 216.582 237.966 186.06 1 23.75 ? 5795 L5 1
+HETATM 51 O O . HOH GX water . ? 216.76 242.291 188.309 1 22.74 ? 5932 L5 1
+HETATM 52 O O . HOH GX water . ? 221.849 239.302 182.646 1 21.07 ? 6911 L5 1
+HETATM 53 O O . HOH GX water . ? 217.786 240.226 185.082 1 24.37 ? 7142 L5 1
+HETATM 54 O O . HOH GX water . ? 222.679 242.515 183.25 1 25.09 ? 7160 L5 1
+HETATM 55 O O . HOH GX water . ? 221.53 244.726 182.209 1 22.9 ? 7610 L5 1
+HETATM 56 O O . HOH GX water . ? 215.426 241.025 183.48 1 19.59 ? 7742 L5 1
+HETATM 57 O O . HOH GX water . ? 224.346 242.592 179.335 1 23.71 ? 8381 L5 1
+HETATM 58 O O . HOH GX water . ? 215.398 244.699 189.137 1 28.45 ? 8712 L5 1

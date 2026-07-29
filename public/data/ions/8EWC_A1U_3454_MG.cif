@@ -1,0 +1,132 @@
+data_8EWC_A1U_3454_MG
+_entry.id '8EWC_A1U_3454_MG'
+
+_cell.entry_id '8EWC_A1U_3454_MG'
+_cell.length_a 1
+_cell.length_b 1
+_cell.length_c 1
+_cell.angle_alpha 90
+_cell.angle_beta 90
+_cell.angle_gamma 90
+
+_symmetry.entry_id '8EWC_A1U_3454_MG'
+_symmetry.space_group_name_H-M 'P 1'
+
+loop_
+_entity.id
+_entity.type
+AC polymer
+A1 polymer
+MG! non-polymer
+Aa polymer
+
+loop_
+_entity_poly.entity_id
+_entity_poly.type
+_entity_poly.pdbx_strand_id
+_entity_poly.pdbx_seq_one_letter_code
+AC polypeptide(L) AC ?
+A1 polyribonucleotide A1 ?
+Aa polypeptide(L) Aa ?
+
+
+
+loop_
+_chem_comp.id
+_chem_comp.type
+A .
+ARG .
+C .
+G .
+LYS .
+MG .
+OMG .
+
+loop_
+_struct_asym.id
+_struct_asym.entity_id
+KA AC
+LA A1
+KG MG!
+KB Aa
+
+
+
+loop_
+_atom_type.symbol
+C
+N
+O
+MG
+P
+
+
+loop_
+_atom_site.group_PDB
+_atom_site.id
+_atom_site.type_symbol
+_atom_site.label_atom_id
+_atom_site.label_alt_id
+_atom_site.label_comp_id
+_atom_site.label_asym_id
+_atom_site.label_entity_id
+_atom_site.label_seq_id
+_atom_site.pdbx_PDB_ins_code
+_atom_site.Cartn_x
+_atom_site.Cartn_y
+_atom_site.Cartn_z
+_atom_site.occupancy
+_atom_site.B_iso_or_equiv
+_atom_site.pdbx_formal_charge
+_atom_site.auth_seq_id
+_atom_site.auth_asym_id
+_atom_site.pdbx_PDB_model_num
+ATOM 1 N NH2 . ARG KA AC . ? 227.12481 262.46351 199.88481 1 46.74 ? 98 AC 1
+ATOM 2 C "C3'" . G LA A1 . ? 220.92896 264.62612 205.41103 1 13.38 ? 800 A1 1
+ATOM 3 O "O3'" . G LA A1 . ? 221.87493 263.68076 205.89863 1 16.2 ? 800 A1 1
+ATOM 4 C "C2'" . G LA A1 . ? 221.61889 265.62407 204.48799 1 13.71 ? 800 A1 1
+ATOM 5 O "O2'" . G LA A1 . ? 222.95997 265.90611 204.82543 1 21.67 ? 800 A1 1
+ATOM 6 C "C1'" . G LA A1 . ? 221.51753 264.95892 203.11694 1 10.42 ? 800 A1 1
+ATOM 7 N N9 . G LA A1 . ? 221.27887 265.92367 202.04382 1 13.14 ? 800 A1 1
+ATOM 8 P P . A LA A1 . ? 222.08928 263.52099 207.47786 1 11.2 ? 801 A1 1
+ATOM 9 O OP1 . A LA A1 . ? 223.13532 262.48986 207.67209 1 21.68 ? 801 A1 1
+ATOM 10 O OP2 . A LA A1 . ? 220.75547 263.36262 208.10515 1 16.17 ? 801 A1 1
+ATOM 11 O "O5'" . A LA A1 . ? 222.6821 264.92914 207.92772 1 9.17 ? 801 A1 1
+ATOM 12 C "C5'" . A LA A1 . ? 224.08408 265.17413 207.90216 1 14.95 ? 801 A1 1
+ATOM 13 C "C2'" . C LA A1 . ? 230.2778 266.1391 208.50102 1 7.26 ? 802 A1 1
+ATOM 14 P P . C LA A1 . ? 227.68032 265.12669 206.57638 1 11.76 ? 803 A1 1
+ATOM 15 O OP1 . C LA A1 . ? 226.91086 265.45879 205.35534 1 15.12 ? 803 A1 1
+ATOM 16 O OP2 . C LA A1 . ? 227.08678 264.28624 207.63996 1 21.19 ? 803 A1 1
+ATOM 17 O "O5'" . C LA A1 . ? 229.01355 264.37955 206.14338 1 16.31 ? 803 A1 1
+ATOM 18 C "C5'" . C LA A1 . ? 229.87502 264.908 205.15207 1 1.57 ? 803 A1 1
+ATOM 19 C "C3'" . C LA A1 . ? 230.43665 262.50155 204.57901 1 13.06 ? 803 A1 1
+ATOM 20 O "O3'" . C LA A1 . ? 229.88302 262.31704 203.29385 1 17.23 ? 803 A1 1
+ATOM 21 C C5 . C LA A1 . ? 230.43332 262.18803 209.25382 1 0 ? 803 A1 1
+ATOM 22 P P . C LA A1 . ? 228.55272 261.44299 203.13153 1 8.05 ? 804 A1 1
+ATOM 23 O OP1 . C LA A1 . ? 228.01791 261.67216 201.77605 1 18.94 ? 804 A1 1
+ATOM 24 O OP2 . C LA A1 . ? 227.6873 261.68453 204.31006 1 21.19 ? 804 A1 1
+ATOM 25 O "O5'" . C LA A1 . ? 229.08927 259.94846 203.18345 1 16.76 ? 804 A1 1
+ATOM 26 C "C5'" . C LA A1 . ? 230.15109 259.54534 202.33531 1 6.25 ? 804 A1 1
+ATOM 27 C "C3'" . C LA A1 . ? 229.74144 257.14114 203.12295 1 10.96 ? 804 A1 1
+ATOM 28 O "O3'" . C LA A1 . ? 229.04107 256.58611 202.02933 1 21.36 ? 804 A1 1
+ATOM 29 N N3 . C LA A1 . ? 230.68688 256.49383 208.24071 1 2.4 ? 804 A1 1
+ATOM 30 C C4 . C LA A1 . ? 230.00545 257.58848 208.5567 1 5.97 ? 804 A1 1
+ATOM 31 C C5 . C LA A1 . ? 229.75563 258.61567 207.60249 1 6.43 ? 804 A1 1
+ATOM 32 C C6 . C LA A1 . ? 230.24745 258.45551 206.36952 1 0.32 ? 804 A1 1
+HETATM 33 O OP2 . OMG LA A1 . ? 226.82797 257.21736 203.05871 1 7.96 ? 805 A1 1
+ATOM 34 C "C3'" . A LA A1 . ? 221.29662 259.32969 199.92463 1 17.47 ? 933 A1 1
+ATOM 35 O "O3'" . A LA A1 . ? 221.63198 258.5502 201.07043 1 17.17 ? 933 A1 1
+ATOM 36 C "C2'" . A LA A1 . ? 221.30429 260.81119 200.29494 1 10.61 ? 933 A1 1
+ATOM 37 O "O2'" . A LA A1 . ? 220.78962 261.09939 201.57707 1 14.54 ? 933 A1 1
+ATOM 38 C "C1'" . A LA A1 . ? 222.78703 261.14764 200.19288 1 15.04 ? 933 A1 1
+ATOM 39 N N9 . A LA A1 . ? 223.06456 262.54648 199.8664 1 13.64 ? 933 A1 1
+ATOM 40 C C5 . A LA A1 . ? 223.88021 264.57727 199.77531 1 18.43 ? 933 A1 1
+ATOM 41 C C6 . A LA A1 . ? 224.71241 265.62181 200.19714 1 12.15 ? 933 A1 1
+ATOM 42 N N1 . A LA A1 . ? 225.54192 265.39284 201.23567 1 14.42 ? 933 A1 1
+ATOM 43 C C2 . A LA A1 . ? 225.52176 264.18915 201.81448 1 9.26 ? 933 A1 1
+ATOM 44 N N3 . A LA A1 . ? 224.79165 263.12111 201.49714 1 14.8 ? 933 A1 1
+ATOM 45 C C4 . A LA A1 . ? 223.9789 263.38314 200.45967 1 13.65 ? 933 A1 1
+ATOM 46 P P . G LA A1 . ? 220.82166 257.20506 201.39952 1 13.44 ? 934 A1 1
+ATOM 47 O OP1 . G LA A1 . ? 221.13373 256.81355 202.79463 1 11.1 ? 934 A1 1
+HETATM 48 MG MG . MG KG MG! . ? 225.71636 261.25601 204.64077 1 27.39 ? 3454 A1 1
+ATOM 49 N NZ . LYS KB Aa . ? 223.65998 260.69927 209.39296 1 21.14 ? 27 Aa 1

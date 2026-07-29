@@ -1,0 +1,112 @@
+data_9FXO_S1U_2438_K
+_entry.id '9FXO_S1U_2438_K'
+
+_cell.entry_id '9FXO_S1U_2438_K'
+_cell.length_a 1
+_cell.length_b 1
+_cell.length_c 1
+_cell.angle_alpha 90
+_cell.angle_beta 90
+_cell.angle_gamma 90
+
+_symmetry.entry_id '9FXO_S1U_2438_K'
+_symmetry.space_group_name_H-M 'P 1'
+
+loop_
+_entity.id
+_entity.type
+S1 polymer
+K! non-polymer
+SG polymer
+
+loop_
+_entity_poly.entity_id
+_entity_poly.type
+_entity_poly.pdbx_strand_id
+_entity_poly.pdbx_seq_one_letter_code
+S1 polyribonucleotide S1 ?
+SG polypeptide(L) SG ?
+
+
+
+loop_
+_chem_comp.id
+_chem_comp.type
+ARG .
+C .
+G .
+K .
+U .
+
+loop_
+_struct_asym.id
+_struct_asym.entity_id
+YA S1
+HW K!
+IB SG
+
+
+
+loop_
+_atom_type.symbol
+C
+N
+O
+P
+K
+
+
+loop_
+_atom_site.group_PDB
+_atom_site.id
+_atom_site.type_symbol
+_atom_site.label_atom_id
+_atom_site.label_alt_id
+_atom_site.label_comp_id
+_atom_site.label_asym_id
+_atom_site.label_entity_id
+_atom_site.label_seq_id
+_atom_site.pdbx_PDB_ins_code
+_atom_site.Cartn_x
+_atom_site.Cartn_y
+_atom_site.Cartn_z
+_atom_site.occupancy
+_atom_site.B_iso_or_equiv
+_atom_site.pdbx_formal_charge
+_atom_site.auth_seq_id
+_atom_site.auth_asym_id
+_atom_site.pdbx_PDB_model_num
+ATOM 1 C "C5'" . C YA S1 . ? 167.10815 105.35454 169.49514 1 14.3737 ? 85 S1 1
+ATOM 2 O "O3'" . C YA S1 . ? 168.3195 105.30649 166.52599 1 14.8182 ? 85 S1 1
+ATOM 3 P P . U YA S1 . ? 168.20387 106.7355 165.80404 1 18.7178 ? 86 S1 1
+ATOM 4 O OP1 . U YA S1 . ? 169.57442 107.18148 165.45187 1 17.6135 ? 86 S1 1
+ATOM 5 O OP2 . U YA S1 . ? 167.34569 107.6088 166.63993 1 13.4018 ? 86 S1 1
+ATOM 6 O "O5'" . U YA S1 . ? 167.42301 106.41358 164.45484 1 14.335 ? 86 S1 1
+ATOM 7 C "C5'" . U YA S1 . ? 167.90401 105.41932 163.56491 1 6.38257 ? 86 S1 1
+ATOM 8 C "C4'" . U YA S1 . ? 166.88172 105.06454 162.51679 1 10.4425 ? 86 S1 1
+ATOM 9 C "C3'" . U YA S1 . ? 166.23291 106.22814 161.79024 1 8.12744 ? 86 S1 1
+ATOM 10 O "O3'" . U YA S1 . ? 167.06117 106.77925 160.78289 1 19.6124 ? 86 S1 1
+ATOM 11 C "C2'" . U YA S1 . ? 164.94957 105.60507 161.25824 1 9.65782 ? 86 S1 1
+ATOM 12 N N1 . U YA S1 . ? 163.59126 105.25113 163.32661 1 9.16509 ? 86 S1 1
+ATOM 13 C C2 . U YA S1 . ? 162.26613 105.20315 162.9419 1 8.00985 ? 86 S1 1
+ATOM 14 N N3 . U YA S1 . ? 161.38374 105.76757 163.8267 1 4.69849 ? 86 S1 1
+ATOM 15 C C4 . U YA S1 . ? 161.68581 106.36288 165.03233 1 5.04545 ? 86 S1 1
+ATOM 16 O O4 . U YA S1 . ? 160.7777 106.8278 165.72087 1 8.51334 ? 86 S1 1
+ATOM 17 C C5 . U YA S1 . ? 163.07819 106.3725 165.36068 1 5.18218 ? 86 S1 1
+ATOM 18 C C6 . U YA S1 . ? 163.9622 105.83022 164.51731 1 8.82353 ? 86 S1 1
+ATOM 19 P P . G YA S1 . ? 167.15261 108.37162 160.60091 1 18.2388 ? 87 S1 1
+ATOM 20 O OP2 . G YA S1 . ? 167.05173 108.99182 161.94434 1 12.8167 ? 87 S1 1
+ATOM 21 N N9 . G YA S1 . ? 161.8996 108.67625 160.43728 1 6.26962 ? 87 S1 1
+ATOM 22 C C8 . G YA S1 . ? 162.85215 108.53247 161.41482 1 3.38542 ? 87 S1 1
+ATOM 23 N N7 . G YA S1 . ? 162.41363 108.82953 162.60555 1 5.63174 ? 87 S1 1
+ATOM 24 C C5 . G YA S1 . ? 161.0912 109.19374 162.40442 1 4.22666 ? 87 S1 1
+ATOM 25 C C6 . G YA S1 . ? 160.10295 109.61703 163.32903 1 2.34196 ? 87 S1 1
+ATOM 26 O O6 . G YA S1 . ? 160.19815 109.75931 164.5525 1 11.0724 ? 87 S1 1
+ATOM 27 C C4 . G YA S1 . ? 160.75826 109.10692 161.07013 1 5.3459 ? 87 S1 1
+ATOM 28 N N1 . C YA S1 . ? 159.99207 113.15503 160.20399 1 9.96065 ? 88 S1 1
+ATOM 29 C C4 . C YA S1 . ? 160.85279 112.76208 162.73721 1 5.86778 ? 88 S1 1
+ATOM 30 N N4 . C YA S1 . ? 161.25875 112.57087 163.99279 1 12.2541 ? 88 S1 1
+ATOM 31 C C5 . C YA S1 . ? 161.73322 112.49838 161.64944 1 6.4275 ? 88 S1 1
+ATOM 32 C C6 . C YA S1 . ? 161.26766 112.70852 160.41215 1 9.66324 ? 88 S1 1
+HETATM 33 K K . K HW K! . ? 164.89991 109.91666 164.89977 1 55.1374 ? 2438 S1 1
+ATOM 34 N NH1 . ARG IB SG . ? 169.52396 113.38094 169.27011 1 12.955 ? 80 SG 1

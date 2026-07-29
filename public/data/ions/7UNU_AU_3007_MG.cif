@@ -1,0 +1,87 @@
+data_7UNU_AU_3007_MG
+_entry.id '7UNU_AU_3007_MG'
+
+_cell.entry_id '7UNU_AU_3007_MG'
+_cell.length_a 1
+_cell.length_b 1
+_cell.length_c 1
+_cell.angle_alpha 90
+_cell.angle_beta 90
+_cell.angle_gamma 90
+
+_symmetry.entry_id '7UNU_AU_3007_MG'
+_symmetry.space_group_name_H-M 'P 1'
+
+loop_
+_entity.id
+_entity.type
+A polymer
+MG! non-polymer
+
+loop_
+_entity_poly.entity_id
+_entity_poly.type
+_entity_poly.pdbx_strand_id
+_entity_poly.pdbx_seq_one_letter_code
+A polyribonucleotide A ?
+
+
+
+loop_
+_chem_comp.id
+_chem_comp.type
+A .
+G .
+MG .
+U .
+
+loop_
+_struct_asym.id
+_struct_asym.entity_id
+Y A
+IG MG!
+
+
+
+loop_
+_atom_type.symbol
+C
+N
+O
+MG
+P
+
+
+loop_
+_atom_site.group_PDB
+_atom_site.id
+_atom_site.type_symbol
+_atom_site.label_atom_id
+_atom_site.label_alt_id
+_atom_site.label_comp_id
+_atom_site.label_asym_id
+_atom_site.label_entity_id
+_atom_site.label_seq_id
+_atom_site.pdbx_PDB_ins_code
+_atom_site.Cartn_x
+_atom_site.Cartn_y
+_atom_site.Cartn_z
+_atom_site.occupancy
+_atom_site.B_iso_or_equiv
+_atom_site.pdbx_formal_charge
+_atom_site.auth_seq_id
+_atom_site.auth_asym_id
+_atom_site.pdbx_PDB_model_num
+ATOM 1 P P . U Y A . ? 218.754 203.646 317.155 1 28.73 ? 325 A 1
+ATOM 2 O OP1 . U Y A . ? 218.028 204.527 316.217 1 28.73 ? 325 A 1
+ATOM 3 O OP2 . U Y A . ? 219.784 202.723 316.636 1 28.73 ? 325 A 1
+ATOM 4 C "C3'" . A Y A . ? 215.863 203.358 311.601 1 16.87 ? 1224 A 1
+ATOM 5 O "O3'" . A Y A . ? 216.37 204.687 311.61 1 16.87 ? 1224 A 1
+ATOM 6 P P . G Y A . ? 217.639 205.124 310.736 1 18.15 ? 1225 A 1
+ATOM 7 O OP1 . G Y A . ? 217.617 204.411 309.441 1 18.15 ? 1225 A 1
+ATOM 8 O OP2 . G Y A . ? 218.843 205.033 311.595 1 18.15 ? 1225 A 1
+ATOM 9 O "O5'" . G Y A . ? 217.358 206.667 310.475 1 18.15 ? 1225 A 1
+ATOM 10 C "C5'" . G Y A . ? 216.536 207.079 309.4 1 18.15 ? 1225 A 1
+ATOM 11 C C8 . G Y A . ? 215.761 208.349 313.614 1 18.15 ? 1225 A 1
+ATOM 12 N N7 . G Y A . ? 215.918 208.911 314.777 1 18.15 ? 1225 A 1
+HETATM 13 MG MG . MG IG MG! . ? 220.539 204.85 312.709 1 19.14 ? 3007 A 1

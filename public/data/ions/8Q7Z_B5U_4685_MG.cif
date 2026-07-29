@@ -1,0 +1,127 @@
+data_8Q7Z_B5U_4685_MG
+_entry.id '8Q7Z_B5U_4685_MG'
+
+_cell.entry_id '8Q7Z_B5U_4685_MG'
+_cell.length_a 1
+_cell.length_b 1
+_cell.length_c 1
+_cell.angle_alpha 90
+_cell.angle_beta 90
+_cell.angle_gamma 90
+
+_symmetry.entry_id '8Q7Z_B5U_4685_MG'
+_symmetry.space_group_name_H-M 'P 1'
+
+loop_
+_entity.id
+_entity.type
+B5 polymer
+MG! non-polymer
+water water
+BL polymer
+
+loop_
+_entity_poly.entity_id
+_entity_poly.type
+_entity_poly.pdbx_strand_id
+_entity_poly.pdbx_seq_one_letter_code
+B5 polyribonucleotide B5 ?
+BL polypeptide(L) BL ?
+
+
+
+loop_
+_chem_comp.id
+_chem_comp.type
+A .
+ALA .
+G .
+HOH .
+MG .
+
+loop_
+_struct_asym.id
+_struct_asym.entity_id
+A B5
+EJ MG!
+JV water
+O BL
+
+
+
+loop_
+_atom_type.symbol
+C
+N
+O
+MG
+P
+
+
+loop_
+_atom_site.group_PDB
+_atom_site.id
+_atom_site.type_symbol
+_atom_site.label_atom_id
+_atom_site.label_alt_id
+_atom_site.label_comp_id
+_atom_site.label_asym_id
+_atom_site.label_entity_id
+_atom_site.label_seq_id
+_atom_site.pdbx_PDB_ins_code
+_atom_site.Cartn_x
+_atom_site.Cartn_y
+_atom_site.Cartn_z
+_atom_site.occupancy
+_atom_site.B_iso_or_equiv
+_atom_site.pdbx_formal_charge
+_atom_site.auth_seq_id
+_atom_site.auth_asym_id
+_atom_site.pdbx_PDB_model_num
+ATOM 1 C "C5'" . G A B5 . ? 178.191 254.109 298.06 1 8.52 ? 104 B5 1
+ATOM 2 C "C4'" . G A B5 . ? 179.512 254.511 297.46 1 8.52 ? 104 B5 1
+ATOM 3 C "C3'" . G A B5 . ? 179.503 255.78 296.625 1 8.52 ? 104 B5 1
+ATOM 4 O "O3'" . G A B5 . ? 179.59 256.951 297.414 1 8.52 ? 104 B5 1
+ATOM 5 N N9 . G A B5 . ? 179.883 253.742 294.216 1 8.52 ? 104 B5 1
+ATOM 6 C C5 . G A B5 . ? 179.212 253.585 292.142 1 8.52 ? 104 B5 1
+ATOM 7 C C6 . G A B5 . ? 179.25 253.833 290.748 1 8.52 ? 104 B5 1
+ATOM 8 P P . A A B5 . ? 178.575 258.167 297.168 1 9.47 ? 105 B5 1
+ATOM 9 O OP1 . A A B5 . ? 178.685 259.101 298.315 1 9.47 ? 105 B5 1
+ATOM 10 O OP2 . A A B5 . ? 177.255 257.598 296.805 1 9.47 ? 105 B5 1
+ATOM 11 O "O5'" . A A B5 . ? 179.159 258.897 295.883 1 9.47 ? 105 B5 1
+ATOM 12 C "C3'" . A A B5 . ? 179.614 260.92 293.948 1 9.47 ? 105 B5 1
+ATOM 13 O "O3'" . A A B5 . ? 179.504 262.234 294.463 1 9.47 ? 105 B5 1
+ATOM 14 C "C2'" . A A B5 . ? 179.949 260.876 292.464 1 9.47 ? 105 B5 1
+ATOM 15 N N9 . A A B5 . ? 179.656 258.467 291.849 1 9.47 ? 105 B5 1
+ATOM 16 C C8 . A A B5 . ? 179.066 257.458 292.565 1 9.47 ? 105 B5 1
+ATOM 17 N N7 . A A B5 . ? 178.288 256.688 291.846 1 9.47 ? 105 B5 1
+ATOM 18 C C5 . A A B5 . ? 178.378 257.218 290.568 1 9.47 ? 105 B5 1
+ATOM 19 C C4 . A A B5 . ? 179.221 258.311 290.557 1 9.47 ? 105 B5 1
+ATOM 20 P P . A A B5 . ? 178.064 262.846 294.817 1 10.36 ? 106 B5 1
+ATOM 21 O OP2 . A A B5 . ? 177.339 261.878 295.675 1 10.36 ? 106 B5 1
+ATOM 22 O "O5'" . A A B5 . ? 177.32 262.919 293.415 1 10.36 ? 106 B5 1
+ATOM 23 C "C4'" . A A B5 . ? 177.148 263.443 291.068 1 10.36 ? 106 B5 1
+ATOM 24 O "O4'" . A A B5 . ? 177.497 262.083 290.702 1 10.36 ? 106 B5 1
+ATOM 25 C "C3'" . A A B5 . ? 175.63 263.45 291.043 1 10.36 ? 106 B5 1
+ATOM 26 N N9 . A A B5 . ? 175.963 260.318 290.855 1 10.36 ? 106 B5 1
+ATOM 27 C C8 . A A B5 . ? 176.199 260.083 292.185 1 10.36 ? 106 B5 1
+ATOM 28 N N7 . A A B5 . ? 175.676 258.967 292.624 1 10.36 ? 106 B5 1
+ATOM 29 C C5 . A A B5 . ? 175.054 258.43 291.507 1 10.36 ? 106 B5 1
+ATOM 30 C C6 . A A B5 . ? 174.316 257.251 291.31 1 10.36 ? 106 B5 1
+ATOM 31 N N6 . A A B5 . ? 174.07 256.36 292.27 1 10.36 ? 106 B5 1
+ATOM 32 N N9 . G A B5 . ? 171.601 260.409 290.797 1 11.83 ? 107 B5 1
+ATOM 33 C C8 . G A B5 . ? 172.199 260.985 291.889 1 11.83 ? 107 B5 1
+ATOM 34 N N7 . G A B5 . ? 172.167 260.228 292.95 1 11.83 ? 107 B5 1
+ATOM 35 C C5 . G A B5 . ? 171.508 259.081 292.532 1 11.83 ? 107 B5 1
+ATOM 36 C C6 . G A B5 . ? 171.175 257.901 293.244 1 11.83 ? 107 B5 1
+ATOM 37 O O6 . G A B5 . ? 171.404 257.627 294.426 1 11.83 ? 107 B5 1
+ATOM 38 N N1 . G A B5 . ? 170.508 256.989 292.436 1 11.83 ? 107 B5 1
+ATOM 39 C C2 . G A B5 . ? 170.201 257.183 291.114 1 11.83 ? 107 B5 1
+ATOM 40 C C4 . G A B5 . ? 171.152 259.178 291.206 1 11.83 ? 107 B5 1
+HETATM 41 MG MG . MG EJ MG! . ? 175.056 258.564 295.504 1 16.94 ? 4685 B5 1
+HETATM 42 O O . HOH JV water . ? 178.331 261.778 298.645 1 11.29 ? 6603 B5 1
+HETATM 43 O O . HOH JV water . ? 175.069 256.157 297.913 1 7.78 ? 7277 B5 1
+HETATM 44 O O . HOH JV water . ? 176.66 255.411 293.898 1 9.59 ? 7701 B5 1
+HETATM 45 O O . HOH JV water . ? 172.644 253.748 292.292 1 19.33 ? 8028 B5 1
+ATOM 46 C CA . ALA O BL . ? 170.956 262.989 299.569 1 21.59 ? 52 BL 1
+ATOM 47 O O . ALA O BL . ? 170.125 261.667 297.771 1 21.59 ? 52 BL 1

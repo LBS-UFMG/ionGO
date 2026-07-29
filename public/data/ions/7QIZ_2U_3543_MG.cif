@@ -1,0 +1,145 @@
+data_7QIZ_2U_3543_MG
+_entry.id '7QIZ_2U_3543_MG'
+
+_cell.entry_id '7QIZ_2U_3543_MG'
+_cell.length_a 1
+_cell.length_b 1
+_cell.length_c 1
+_cell.angle_alpha 90
+_cell.angle_beta 90
+_cell.angle_gamma 90
+
+_symmetry.entry_id '7QIZ_2U_3543_MG'
+_symmetry.space_group_name_H-M 'P 1'
+
+loop_
+_entity.id
+_entity.type
+F polymer
+2 polymer
+MG! non-polymer
+water water
+
+loop_
+_entity_poly.entity_id
+_entity_poly.type
+_entity_poly.pdbx_strand_id
+_entity_poly.pdbx_seq_one_letter_code
+F polypeptide(L) F ?
+2 polyribonucleotide 2 ?
+
+
+
+loop_
+_chem_comp.id
+_chem_comp.type
+A .
+C .
+G .
+HOH .
+MG .
+THR .
+
+loop_
+_struct_asym.id
+_struct_asym.entity_id
+B F
+QA 2
+HI MG!
+QW water
+
+
+
+loop_
+_atom_type.symbol
+H
+C
+N
+O
+MG
+P
+
+
+loop_
+_atom_site.group_PDB
+_atom_site.id
+_atom_site.type_symbol
+_atom_site.label_atom_id
+_atom_site.label_alt_id
+_atom_site.label_comp_id
+_atom_site.label_asym_id
+_atom_site.label_entity_id
+_atom_site.label_seq_id
+_atom_site.pdbx_PDB_ins_code
+_atom_site.Cartn_x
+_atom_site.Cartn_y
+_atom_site.Cartn_z
+_atom_site.occupancy
+_atom_site.B_iso_or_equiv
+_atom_site.pdbx_formal_charge
+_atom_site.auth_seq_id
+_atom_site.auth_asym_id
+_atom_site.pdbx_PDB_model_num
+ATOM 1 H HG22 . THR B F . ? 186.153 234.56 206.174 1 9 ? 73 F 1
+ATOM 2 H HG23 . THR B F . ? 186.027 233.058 206.644 1 9 ? 73 F 1
+ATOM 3 C "C4'" . A QA 2 . ? 186.7 230.988 202.763 1 9.92 ? 2405 2 1
+ATOM 4 O "O4'" . A QA 2 . ? 186.025 231.752 201.722 1 9.92 ? 2405 2 1
+ATOM 5 C "C3'" . A QA 2 . ? 187.661 231.966 203.441 1 9.92 ? 2405 2 1
+ATOM 6 O "O3'" . A QA 2 . ? 188.926 231.888 202.788 1 9.92 ? 2405 2 1
+ATOM 7 C "C2'" . A QA 2 . ? 187.025 233.317 203.139 1 9.92 ? 2405 2 1
+ATOM 8 O "O2'" . A QA 2 . ? 187.909 234.415 203.205 1 9.92 ? 2405 2 1
+ATOM 9 C "C1'" . A QA 2 . ? 186.517 233.078 201.724 1 9.92 ? 2405 2 1
+ATOM 10 H "H5'" . A QA 2 . ? 186.104 230.06 204.483 1 9.92 ? 2405 2 1
+ATOM 11 H "H4'" . A QA 2 . ? 187.221 230.287 202.342 1 9.92 ? 2405 2 1
+ATOM 12 H "H3'" . A QA 2 . ? 187.728 231.801 204.394 1 9.92 ? 2405 2 1
+ATOM 13 H "H2'" . A QA 2 . ? 186.277 233.466 203.736 1 9.92 ? 2405 2 1
+ATOM 14 H "HO2'" . A QA 2 . ? 187.99 234.747 202.437 0 9.92 ? 2405 2 1
+ATOM 15 P P . G QA 2 . ? 190.288 232.135 203.597 1 9.92 ? 2406 2 1
+ATOM 16 O OP1 . G QA 2 . ? 189.947 232.61 204.958 1 9.92 ? 2406 2 1
+ATOM 17 O OP2 . G QA 2 . ? 191.167 232.968 202.742 1 9.92 ? 2406 2 1
+ATOM 18 O "O5'" . G QA 2 . ? 190.91 230.675 203.737 1 9.92 ? 2406 2 1
+ATOM 19 C "C5'" . G QA 2 . ? 192.108 230.304 203.061 1 9.92 ? 2406 2 1
+ATOM 20 C "C4'" . G QA 2 . ? 193.268 230.195 204.018 1 9.92 ? 2406 2 1
+ATOM 21 O "O4'" . G QA 2 . ? 194.271 229.296 203.465 1 9.92 ? 2406 2 1
+ATOM 22 C "C3'" . G QA 2 . ? 193.993 231.509 204.303 1 9.92 ? 2406 2 1
+ATOM 23 O "O3'" . G QA 2 . ? 194.506 231.492 205.633 1 9.92 ? 2406 2 1
+ATOM 24 C "C2'" . G QA 2 . ? 195.153 231.458 203.32 1 9.92 ? 2406 2 1
+ATOM 25 C "C1'" . G QA 2 . ? 195.508 229.975 203.377 1 9.92 ? 2406 2 1
+ATOM 26 H "H5'" . G QA 2 . ? 192.317 230.965 202.384 1 9.92 ? 2406 2 1
+ATOM 27 H "H5''" . G QA 2 . ? 191.974 229.446 202.629 1 9.92 ? 2406 2 1
+ATOM 28 H "H4'" . G QA 2 . ? 192.947 229.828 204.857 1 9.92 ? 2406 2 1
+ATOM 29 H "H3'" . G QA 2 . ? 193.421 232.277 204.145 1 9.92 ? 2406 2 1
+ATOM 30 H "H2'" . G QA 2 . ? 194.833 231.679 202.432 1 9.92 ? 2406 2 1
+ATOM 31 P P . A QA 2 . ? 193.918 232.466 206.765 1 11.94 ? 2407 2 1
+ATOM 32 O OP1 . A QA 2 . ? 192.44 232.337 206.781 1 11.94 ? 2407 2 1
+ATOM 33 O OP2 . A QA 2 . ? 194.527 233.805 206.589 1 11.94 ? 2407 2 1
+ATOM 34 O "O5'" . A QA 2 . ? 194.474 231.83 208.115 1 11.94 ? 2407 2 1
+ATOM 35 C "C5'" . A QA 2 . ? 194.8 232.638 209.241 1 11.94 ? 2407 2 1
+ATOM 36 O "O4'" . A QA 2 . ? 195.671 230.679 210.343 1 11.94 ? 2407 2 1
+ATOM 37 H "H5'" . A QA 2 . ? 194.029 232.689 209.828 1 11.94 ? 2407 2 1
+ATOM 38 H "H5''" . A QA 2 . ? 195.029 233.531 208.94 1 11.94 ? 2407 2 1
+ATOM 39 H H8 . A QA 2 . ? 194.252 229.275 208.412 1 11.94 ? 2407 2 1
+ATOM 40 P P . C QA 2 . ? 190.36 235.215 211.453 1 9.92 ? 2816 2 1
+ATOM 41 O OP1 . C QA 2 . ? 189.24 234.251 211.333 1 9.92 ? 2816 2 1
+ATOM 42 O OP2 . C QA 2 . ? 191.688 234.871 210.889 1 9.92 ? 2816 2 1
+ATOM 43 O "O5'" . C QA 2 . ? 189.906 236.59 210.792 1 9.92 ? 2816 2 1
+ATOM 44 C "C5'" . C QA 2 . ? 188.723 237.248 211.214 1 9.92 ? 2816 2 1
+ATOM 45 O "O3'" . C QA 2 . ? 187.559 238.468 208.453 1 9.92 ? 2816 2 1
+ATOM 46 H "H5''" . C QA 2 . ? 187.953 236.739 210.917 1 9.92 ? 2816 2 1
+ATOM 47 H "H3'" . C QA 2 . ? 189.46 238.152 208.827 1 9.92 ? 2816 2 1
+ATOM 48 H H6 . C QA 2 . ? 191.814 238.356 210.685 1 9.92 ? 2816 2 1
+ATOM 49 P P . A QA 2 . ? 187.58 237.971 206.923 1 9.92 ? 2817 2 1
+ATOM 50 O OP1 . A QA 2 . ? 186.204 237.547 206.574 1 9.92 ? 2817 2 1
+ATOM 51 O OP2 . A QA 2 . ? 188.705 237.026 206.739 1 9.92 ? 2817 2 1
+ATOM 52 N N7 . G QA 2 . ? 193.374 238.211 202.984 1 9.92 ? 2818 2 1
+HETATM 53 MG MG . MG HI MG! . ? 190.849 233.633 206.539 1 9.76 ? 3543 2 1
+HETATM 54 O O . HOH QW water . ? 188.881 234.622 206.018 1 6.81 ? 4326 2 1
+HETATM 55 O O . HOH QW water . ? 191.437 234.89 208.227 1 11.28 ? 5009 2 1
+HETATM 56 O O . HOH QW water . ? 189.603 237.382 203.573 1 5.97 ? 5072 2 1
+HETATM 57 O O . HOH QW water . ? 193.39 234.37 201.86 1 6.33 ? 5505 2 1
+HETATM 58 O O . HOH QW water . ? 186.146 236.503 204.001 1 9.02 ? 5537 2 1
+HETATM 59 O O . HOH QW water . ? 195.052 234.933 204.052 1 3.3 ? 5800 2 1
+HETATM 60 O O . HOH QW water . ? 189.813 232.298 207.886 1 9.04 ? 5901 2 1
+HETATM 61 O O . HOH QW water . ? 191.732 235.82 202.853 1 6.02 ? 6120 2 1
+HETATM 62 O O . HOH QW water . ? 191.822 234.89 205.01 1 5.04 ? 6291 2 1
+HETATM 63 O O . HOH QW water . ? 195.522 237.103 206.694 1 8 ? 6658 2 1

@@ -1,0 +1,128 @@
+data_8B0X_AU_1676_MG
+_entry.id '8B0X_AU_1676_MG'
+
+_cell.entry_id '8B0X_AU_1676_MG'
+_cell.length_a 1
+_cell.length_b 1
+_cell.length_c 1
+_cell.angle_alpha 90
+_cell.angle_beta 90
+_cell.angle_gamma 90
+
+_symmetry.entry_id '8B0X_AU_1676_MG'
+_symmetry.space_group_name_H-M 'P 1'
+
+loop_
+_entity.id
+_entity.type
+A polymer
+MG! non-polymer
+water water
+
+loop_
+_entity_poly.entity_id
+_entity_poly.type
+_entity_poly.pdbx_strand_id
+_entity_poly.pdbx_seq_one_letter_code
+A polyribonucleotide A ?
+
+
+
+loop_
+_chem_comp.id
+_chem_comp.type
+A .
+C .
+G .
+HOH .
+MG .
+U .
+
+loop_
+_struct_asym.id
+_struct_asym.entity_id
+E A
+ZD MG!
+PV water
+
+
+
+loop_
+_atom_type.symbol
+C
+N
+O
+MG
+P
+
+
+loop_
+_atom_site.group_PDB
+_atom_site.id
+_atom_site.type_symbol
+_atom_site.label_atom_id
+_atom_site.label_alt_id
+_atom_site.label_comp_id
+_atom_site.label_asym_id
+_atom_site.label_entity_id
+_atom_site.label_seq_id
+_atom_site.pdbx_PDB_ins_code
+_atom_site.Cartn_x
+_atom_site.Cartn_y
+_atom_site.Cartn_z
+_atom_site.occupancy
+_atom_site.B_iso_or_equiv
+_atom_site.pdbx_formal_charge
+_atom_site.auth_seq_id
+_atom_site.auth_asym_id
+_atom_site.pdbx_PDB_model_num
+ATOM 1 C "C2'" . C E A . ? 172.676 157.379 149.951 1 47.66 ? 352 A 1
+ATOM 2 O "O2'" . C E A . ? 173.427 156.828 148.883 1 52.03 ? 352 A 1
+ATOM 3 C "C1'" . C E A . ? 171.644 156.345 150.389 1 47.14 ? 352 A 1
+ATOM 4 C C2 . C E A . ? 169.493 157.545 150.051 1 49.81 ? 352 A 1
+ATOM 5 O O2 . C E A . ? 169.727 157.573 148.843 1 53.42 ? 352 A 1
+ATOM 6 N N3 . C E A . ? 168.367 158.078 150.557 1 47.9 ? 352 A 1
+ATOM 7 C "C5'" . A E A . ? 176.897 159.29 149.272 1 44.98 ? 353 A 1
+ATOM 8 O "O3'" . A E A . ? 177.093 156.129 148.575 1 54.14 ? 353 A 1
+ATOM 9 P P . G E A . ? 176.572 154.648 148.912 1 51.4 ? 354 A 1
+ATOM 10 O OP1 . G E A . ? 175.157 154.787 149.294 1 48.07 ? 354 A 1
+ATOM 11 O "O3'" . G E A . ? 175.402 154.961 143.208 1 47.97 ? 354 A 1
+ATOM 12 P P . C E A . ? 174.983 156.475 142.914 1 54.49 ? 355 A 1
+ATOM 13 O OP1 . C E A . ? 175.974 157.039 141.978 1 51.06 ? 355 A 1
+ATOM 14 O OP2 . C E A . ? 174.697 157.165 144.182 1 53.42 ? 355 A 1
+ATOM 15 O "O5'" . C E A . ? 173.62 156.339 142.121 1 52.55 ? 355 A 1
+ATOM 16 C "C5'" . C E A . ? 173.537 155.518 140.972 1 47.98 ? 355 A 1
+ATOM 17 C "C1'" . C E A . ? 170.054 154.861 141.422 1 48.37 ? 355 A 1
+ATOM 18 N N1 . C E A . ? 169.778 155.093 142.856 1 48.88 ? 355 A 1
+ATOM 19 C C2 . C E A . ? 168.448 155.133 143.277 1 49.68 ? 355 A 1
+ATOM 20 O O2 . C E A . ? 167.554 154.972 142.447 1 50.8 ? 355 A 1
+ATOM 21 N N3 . C E A . ? 168.161 155.35 144.575 1 49.67 ? 355 A 1
+ATOM 22 C C4 . C E A . ? 169.147 155.52 145.447 1 49.11 ? 355 A 1
+ATOM 23 N N4 . C E A . ? 168.822 155.723 146.718 1 46.78 ? 355 A 1
+ATOM 24 C C5 . C E A . ? 170.512 155.49 145.05 1 48.41 ? 355 A 1
+ATOM 25 C C6 . C E A . ? 170.782 155.273 143.761 1 48.65 ? 355 A 1
+ATOM 26 O OP2 . A E A . ? 172.352 159.378 141.26 1 57.85 ? 356 A 1
+ATOM 27 O "O4'" . A E A . ? 167.383 158.324 140.887 1 56.97 ? 356 A 1
+ATOM 28 C C8 . A E A . ? 168.133 158.54 143.662 1 51.06 ? 356 A 1
+ATOM 29 N N7 . A E A . ? 168.203 158.422 144.96 1 50.81 ? 356 A 1
+ATOM 30 P P . G E A . ? 167.375 163.219 140.985 1 58.62 ? 357 A 1
+ATOM 31 O OP2 . G E A . ? 168.78 163.108 141.415 1 56.65 ? 357 A 1
+ATOM 32 C C8 . G E A . ? 167.4 161.747 145.177 1 51.91 ? 357 A 1
+ATOM 33 N N7 . G E A . ? 168.499 161.608 145.85 1 52.34 ? 357 A 1
+ATOM 34 C C5 . G E A . ? 168.091 161.579 147.17 1 51.64 ? 357 A 1
+ATOM 35 C C6 . G E A . ? 168.85 161.448 148.355 1 51.62 ? 357 A 1
+ATOM 36 O O6 . G E A . ? 170.068 161.326 148.471 1 55.03 ? 357 A 1
+ATOM 37 N N1 . G E A . ? 168.044 161.462 149.48 1 51.3 ? 357 A 1
+ATOM 38 O O4 . U E A . ? 169.733 164.437 149.856 1 55.74 ? 358 A 1
+HETATM 39 MG MG . MG ZD MG! . ? 172.288 159.614 145.632 1 50.65 ? 1676 A 1
+HETATM 40 O O . HOH PV water . ? 174.549 161.622 148.775 1 58.39 ? 1869 A 1
+HETATM 41 O O . HOH PV water . ? 172.516 158.578 144.007 1 49.09 ? 2328 A 1
+HETATM 42 O O . HOH PV water . ? 173.316 158.14 146.2 1 48.61 ? 2450 A 1
+HETATM 43 O O . HOH PV water . ? 170.512 158.685 146.391 1 51.15 ? 2918 A 1
+HETATM 44 O O . HOH PV water . ? 172.471 160.424 147.541 1 49.86 ? 2922 A 1
+HETATM 45 O O . HOH PV water . ? 174.647 160.622 142.249 1 53.36 ? 3254 A 1
+HETATM 46 O O . HOH PV water . ? 171.068 161.667 142.239 1 50.85 ? 3298 A 1
+HETATM 47 O O . HOH PV water . ? 176.929 158.627 145.166 1 48.11 ? 3514 A 1
+HETATM 48 O O . HOH PV water . ? 171.701 163.769 147.896 1 59.64 ? 3573 A 1
+HETATM 49 O O . HOH PV water . ? 171.274 160.969 144.964 1 49.25 ? 4047 A 1
+HETATM 50 O O . HOH PV water . ? 173.978 160.582 145.176 1 53.09 ? 4621 A 1

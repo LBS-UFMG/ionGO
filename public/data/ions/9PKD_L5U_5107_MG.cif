@@ -1,0 +1,109 @@
+data_9PKD_L5U_5107_MG
+_entry.id '9PKD_L5U_5107_MG'
+
+_cell.entry_id '9PKD_L5U_5107_MG'
+_cell.length_a 1
+_cell.length_b 1
+_cell.length_c 1
+_cell.angle_alpha 90
+_cell.angle_beta 90
+_cell.angle_gamma 90
+
+_symmetry.entry_id '9PKD_L5U_5107_MG'
+_symmetry.space_group_name_H-M 'P 1'
+
+loop_
+_entity.id
+_entity.type
+L5 polymer
+MG! non-polymer
+LB polymer
+
+loop_
+_entity_poly.entity_id
+_entity_poly.type
+_entity_poly.pdbx_strand_id
+_entity_poly.pdbx_seq_one_letter_code
+L5 polyribonucleotide L5 ?
+LB polypeptide(L) LB ?
+
+
+
+loop_
+_chem_comp.id
+_chem_comp.type
+A2M .
+G .
+MG .
+OMG .
+PSU .
+TRP .
+
+loop_
+_struct_asym.id
+_struct_asym.entity_id
+B L5
+KC MG!
+F LB
+
+
+
+loop_
+_atom_type.symbol
+C
+O
+MG
+P
+
+
+loop_
+_atom_site.group_PDB
+_atom_site.id
+_atom_site.type_symbol
+_atom_site.label_atom_id
+_atom_site.label_alt_id
+_atom_site.label_comp_id
+_atom_site.label_asym_id
+_atom_site.label_entity_id
+_atom_site.label_seq_id
+_atom_site.pdbx_PDB_ins_code
+_atom_site.Cartn_x
+_atom_site.Cartn_y
+_atom_site.Cartn_z
+_atom_site.occupancy
+_atom_site.B_iso_or_equiv
+_atom_site.pdbx_formal_charge
+_atom_site.auth_seq_id
+_atom_site.auth_asym_id
+_atom_site.pdbx_PDB_model_num
+ATOM 1 C "C2'" . G B L5 . ? 280.774 278.846 249.305 1 53.37 ? 3897 L5 1
+ATOM 2 O "O2'" . G B L5 . ? 280.028 277.663 249.463 1 57.08 ? 3897 L5 1
+ATOM 3 P P . G B L5 . ? 280.342 277.416 246.086 1 65.49 ? 3898 L5 1
+ATOM 4 O OP1 . G B L5 . ? 280.209 278.346 244.945 1 66.1 ? 3898 L5 1
+ATOM 5 O OP2 . G B L5 . ? 279.147 276.949 246.813 1 60.14 ? 3898 L5 1
+ATOM 6 O "O3'" . G B L5 . ? 279.965 273.21 244.062 1 53.56 ? 3898 L5 1
+HETATM 7 P P . OMG B L5 . ? 278.855 272.352 244.826 1 54.14 ? 3899 L5 1
+HETATM 8 O OP1 . OMG B L5 . ? 277.569 272.414 244.037 1 59.42 ? 3899 L5 1
+HETATM 9 O OP2 . OMG B L5 . ? 278.855 272.788 246.283 1 50.49 ? 3899 L5 1
+HETATM 10 O "O2'" . PSU B L5 . ? 277.934 278.635 241.493 1 58.55 ? 4521 L5 1
+HETATM 11 C "C3'" . PSU B L5 . ? 275.933 277.422 240.913 1 54.14 ? 4521 L5 1
+HETATM 12 O "O3'" . PSU B L5 . ? 275.595 277.479 242.285 1 57.16 ? 4521 L5 1
+ATOM 13 P P . G B L5 . ? 274.097 277.195 242.776 1 57.47 ? 4522 L5 1
+ATOM 14 O OP1 . G B L5 . ? 274.181 276.571 244.11 1 63.64 ? 4522 L5 1
+ATOM 15 O OP2 . G B L5 . ? 273.349 276.514 241.703 1 57.59 ? 4522 L5 1
+ATOM 16 O "O5'" . G B L5 . ? 273.463 278.64 242.938 1 59.52 ? 4522 L5 1
+ATOM 17 C "C5'" . G B L5 . ? 274.133 279.65 243.668 1 54.88 ? 4522 L5 1
+ATOM 18 C "C4'" . G B L5 . ? 273.208 280.335 244.633 1 54.15 ? 4522 L5 1
+ATOM 19 O "O4'" . G B L5 . ? 272.029 280.787 243.938 1 58.72 ? 4522 L5 1
+ATOM 20 C "C3'" . G B L5 . ? 272.675 279.47 245.757 1 54.38 ? 4522 L5 1
+ATOM 21 O "O3'" . G B L5 . ? 273.586 279.42 246.838 1 60.27 ? 4522 L5 1
+ATOM 22 C "C2'" . G B L5 . ? 271.352 280.137 246.128 1 56.06 ? 4522 L5 1
+ATOM 23 C "C1'" . G B L5 . ? 270.939 280.822 244.821 1 55.82 ? 4522 L5 1
+HETATM 24 P P . A2M B L5 . ? 273.962 278.039 247.556 1 63.11 ? 4523 L5 1
+HETATM 25 O OP1 . A2M B L5 . ? 274.974 277.263 246.783 1 68.48 ? 4523 L5 1
+HETATM 26 O "O5'" . A2M B L5 . ? 274.466 278.548 249.21 1 60.43 ? 4523 L5 1
+HETATM 27 C "C5'" . A2M B L5 . ? 273.895 279.667 249.679 1 54.4 ? 4523 L5 1
+HETATM 28 O OP2 . A2M B L5 . ? 272.744 277.338 248.072 1 63.95 ? 4523 L5 1
+ATOM 29 O "O5'" . G B L5 . ? 277.906 280.624 249.264 1 66.08 ? 4524 L5 1
+HETATM 30 MG MG . MG KC MG! . ? 275.9 275.894 245.591 1 60.37 ? 5107 L5 1
+ATOM 31 C CA . TRP F LB . ? 279.408 271.096 240.841 1 50.37 ? 257 LB 1

@@ -1,0 +1,138 @@
+data_9DTR_CU_2502_MG
+_entry.id '9DTR_CU_2502_MG'
+
+_cell.entry_id '9DTR_CU_2502_MG'
+_cell.length_a 1
+_cell.length_b 1
+_cell.length_c 1
+_cell.angle_alpha 90
+_cell.angle_beta 90
+_cell.angle_gamma 90
+
+_symmetry.entry_id '9DTR_CU_2502_MG'
+_symmetry.space_group_name_H-M 'P 1'
+
+loop_
+_entity.id
+_entity.type
+C polymer
+GTP! non-polymer
+MG! non-polymer
+
+loop_
+_entity_poly.entity_id
+_entity_poly.type
+_entity_poly.pdbx_strand_id
+_entity_poly.pdbx_seq_one_letter_code
+C polypeptide(L) C ?
+
+
+
+loop_
+_chem_comp.id
+_chem_comp.type
+ALA .
+ARG .
+ASP .
+GLY .
+GTP .
+HIS .
+LEU .
+LYS .
+MG .
+PRO .
+SER .
+THR .
+
+loop_
+_struct_asym.id
+_struct_asym.entity_id
+E C
+AB GTP!
+BB MG!
+
+
+
+loop_
+_atom_type.symbol
+C
+N
+O
+MG
+P
+
+
+loop_
+_atom_site.group_PDB
+_atom_site.id
+_atom_site.type_symbol
+_atom_site.label_atom_id
+_atom_site.label_alt_id
+_atom_site.label_comp_id
+_atom_site.label_asym_id
+_atom_site.label_entity_id
+_atom_site.label_seq_id
+_atom_site.pdbx_PDB_ins_code
+_atom_site.Cartn_x
+_atom_site.Cartn_y
+_atom_site.Cartn_z
+_atom_site.occupancy
+_atom_site.B_iso_or_equiv
+_atom_site.pdbx_formal_charge
+_atom_site.auth_seq_id
+_atom_site.auth_asym_id
+_atom_site.pdbx_PDB_model_num
+ATOM 1 C CA . HIS E C . ? 246.202 296.178 265.584 1 32.53 ? 143 C 1
+ATOM 2 C CA . LYS E C . ? 253.025 297.451 267.935 1 30.23 ? 146 C 1
+ATOM 3 C C . LYS E C . ? 254.049 296.466 267.375 1 31.48 ? 146 C 1
+ATOM 4 O O . LYS E C . ? 255.258 296.729 267.382 1 36.3 ? 146 C 1
+ATOM 5 C CB . LYS E C . ? 252.425 296.927 269.237 1 29.77 ? 146 C 1
+ATOM 6 C CD . LYS E C . ? 250.74 297.34 271.094 1 33.35 ? 146 C 1
+ATOM 7 C CE . LYS E C . ? 249.89 296.122 270.866 1 32.78 ? 146 C 1
+ATOM 8 N NZ . LYS E C . ? 248.747 296.338 269.978 1 32.02 ? 146 C 1
+ATOM 9 N N . THR E C . ? 253.579 295.318 266.895 1 30.93 ? 147 C 1
+ATOM 10 C CA . THR E C . ? 254.473 294.304 266.356 1 31.62 ? 147 C 1
+ATOM 11 C C . THR E C . ? 255.22 294.814 265.13 1 33.04 ? 147 C 1
+ATOM 12 C CB . THR E C . ? 253.672 293.04 266.042 1 46.07 ? 147 C 1
+ATOM 13 O OG1 . THR E C . ? 253.003 292.593 267.225 1 55.78 ? 147 C 1
+ATOM 14 C CG2 . THR E C . ? 254.584 291.928 265.573 1 64.71 ? 147 C 1
+ATOM 15 N N . SER E C . ? 254.569 295.625 264.296 1 39.8 ? 148 C 1
+ATOM 16 C CA . SER E C . ? 255.253 296.235 263.158 1 37.5 ? 148 C 1
+ATOM 17 N NH2 . ARG E C . ? 250.232 288.107 263.933 1 55.69 ? 176 C 1
+ATOM 18 N N . ASP E C . ? 255.543 287.945 266.447 1 47.09 ? 179 C 1
+ATOM 19 C CB . ASP E C . ? 253.223 287.731 265.651 1 46.21 ? 179 C 1
+ATOM 20 C CG . ASP E C . ? 252.519 288.762 266.471 1 52.65 ? 179 C 1
+ATOM 21 O OD1 . ASP E C . ? 252.831 288.887 267.662 1 86.7 ? 179 C 1
+ATOM 22 O OD2 . ASP E C . ? 251.654 289.462 265.924 1 69.58 ? 179 C 1
+ATOM 23 C C . GLY E C . ? 246.918 288.579 263.788 1 26.32 ? 188 C 1
+ATOM 24 O O . GLY E C . ? 246.873 289.767 263.477 1 32.4 ? 188 C 1
+ATOM 25 N N . LEU E C . ? 247.002 288.177 265.05 1 26.41 ? 189 C 1
+ATOM 26 C CA . LEU E C . ? 247.147 289.098 266.166 1 26.23 ? 189 C 1
+ATOM 27 C C . LEU E C . ? 248.137 288.516 267.166 1 29 ? 189 C 1
+ATOM 28 N N . SER E C . ? 248.657 289.373 268.033 1 33.03 ? 190 C 1
+ATOM 29 C CA . SER E C . ? 249.505 288.891 269.105 1 32.62 ? 190 C 1
+ATOM 30 C C . SER E C . ? 248.634 288.258 270.181 1 39.15 ? 190 C 1
+ATOM 31 O O . SER E C . ? 247.51 288.692 270.431 1 62.15 ? 190 C 1
+ATOM 32 C CB . SER E C . ? 250.332 290.025 269.703 1 36.88 ? 190 C 1
+ATOM 33 O OG . SER E C . ? 251.06 290.711 268.712 1 51.38 ? 190 C 1
+ATOM 34 C CA . ASP E C . ? 255.665 293.621 272.658 1 51.29 ? 214 C 1
+ATOM 35 C CG . ASP E C . ? 254.925 293.33 270.264 1 108.63 ? 214 C 1
+ATOM 36 O OD1 . ASP E C . ? 254.133 294.272 270.431 1 105.73 ? 214 C 1
+ATOM 37 O OD2 . ASP E C . ? 254.832 292.518 269.324 1 124.42 ? 214 C 1
+ATOM 38 O O . ALA E C . ? 251.055 293.851 272.501 1 65.01 ? 215 C 1
+ATOM 39 C CA . PRO E C . ? 249.055 291.95 272.712 1 35.6 ? 216 C 1
+ATOM 40 N N . GLY E C . ? 247.461 293.558 271.865 1 37.44 ? 217 C 1
+ATOM 41 C CA . GLY E C . ? 246.53 294.66 271.995 1 34.31 ? 217 C 1
+HETATM 42 P PG . GTP AB GTP! . ? 248.203 293.304 268.137 1 30.59 ? 2501 C 1
+HETATM 43 O O1G . GTP AB GTP! . ? 247.207 294.061 268.955 1 36.99 ? 2501 C 1
+HETATM 44 O O2G . GTP AB GTP! . ? 249.473 293.1 268.906 1 39.57 ? 2501 C 1
+HETATM 45 O O3G . GTP AB GTP! . ? 247.663 291.975 267.763 1 35.7 ? 2501 C 1
+HETATM 46 O O3B . GTP AB GTP! . ? 248.476 294.11 266.79 1 27.65 ? 2501 C 1
+HETATM 47 P PB . GTP AB GTP! . ? 249.744 295.038 266.613 1 18.98 ? 2501 C 1
+HETATM 48 O O1B . GTP AB GTP! . ? 249.596 296.307 267.371 1 24.91 ? 2501 C 1
+HETATM 49 O O2B . GTP AB GTP! . ? 250.972 294.272 267 1 25.79 ? 2501 C 1
+HETATM 50 O O3A . GTP AB GTP! . ? 249.648 295.411 265.077 1 23.93 ? 2501 C 1
+HETATM 51 P PA . GTP AB GTP! . ? 250.406 294.662 263.906 1 24.67 ? 2501 C 1
+HETATM 52 O O1A . GTP AB GTP! . ? 250.351 293.172 264.034 1 37 ? 2501 C 1
+HETATM 53 O O2A . GTP AB GTP! . ? 251.795 295.187 263.76 1 28.7 ? 2501 C 1
+HETATM 54 MG MG . MG BB MG! . ? 250.846 292.524 267.805 1 55.64 ? 2502 C 1

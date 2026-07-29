@@ -1,0 +1,28 @@
+/* Complements Bootstrap 5 (layout/cards/buttons come from Bootstrap). */
+
+/* 3D viewer: fills the width, sized in vh so the buttons stay above the fold */
+#viewer {
+  position: relative; width: 100%;
+  height: 62vh; min-height: 380px;
+  background: #000; border-radius: .5rem; overflow: hidden;
+}
+
+/* big decision buttons (bigger than btn-lg, but compact enough to sit high) */
+.btn.big { padding: 1.05rem .5rem; font-size: 1.25rem; font-weight: 800; line-height: 1.2; }
+.btn.big small { font-weight: 600; opacity: .85; font-size: .8rem; }
+
+/* the contour row is inline (Bootstrap flex); just enlarge the slider control */
+.contour .form-range { height: 1.6rem; }
+.contour .form-range::-webkit-slider-runnable-track { height: 9px; border-radius: 6px; }
+.contour .form-range::-moz-range-track       { height: 9px; border-radius: 6px; }
+.contour .form-range::-webkit-slider-thumb   { width: 26px; height: 26px; margin-top: -9px; }
+.contour .form-range::-moz-range-thumb       { width: 26px; height: 26px; }
+
+.hidden { display: none !important; }
+
+/* colour-legend popover */
+.legend div { margin: 3px 0; white-space: nowrap; }
+.dot {
+  display: inline-block; width: 13px; height: 13px; border-radius: 50%;
+  margin-right: 7px; vertical-align: middle; border: 1px solid rgba(0,0,0,.25);
+}

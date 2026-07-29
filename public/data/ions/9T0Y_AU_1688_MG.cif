@@ -1,0 +1,112 @@
+data_9T0Y_AU_1688_MG
+_entry.id '9T0Y_AU_1688_MG'
+
+_cell.entry_id '9T0Y_AU_1688_MG'
+_cell.length_a 1
+_cell.length_b 1
+_cell.length_c 1
+_cell.angle_alpha 90
+_cell.angle_beta 90
+_cell.angle_gamma 90
+
+_symmetry.entry_id '9T0Y_AU_1688_MG'
+_symmetry.space_group_name_H-M 'P 1'
+
+loop_
+_entity.id
+_entity.type
+A polymer
+MG! non-polymer
+
+loop_
+_entity_poly.entity_id
+_entity_poly.type
+_entity_poly.pdbx_strand_id
+_entity_poly.pdbx_seq_one_letter_code
+A polyribonucleotide A ?
+
+
+
+loop_
+_chem_comp.id
+_chem_comp.type
+A .
+C .
+G .
+MG .
+U .
+
+loop_
+_struct_asym.id
+_struct_asym.entity_id
+A A
+NE MG!
+
+
+
+loop_
+_atom_type.symbol
+C
+N
+O
+MG
+P
+
+
+loop_
+_atom_site.group_PDB
+_atom_site.id
+_atom_site.type_symbol
+_atom_site.label_atom_id
+_atom_site.label_alt_id
+_atom_site.label_comp_id
+_atom_site.label_asym_id
+_atom_site.label_entity_id
+_atom_site.label_seq_id
+_atom_site.pdbx_PDB_ins_code
+_atom_site.Cartn_x
+_atom_site.Cartn_y
+_atom_site.Cartn_z
+_atom_site.occupancy
+_atom_site.B_iso_or_equiv
+_atom_site.pdbx_formal_charge
+_atom_site.auth_seq_id
+_atom_site.auth_asym_id
+_atom_site.pdbx_PDB_model_num
+ATOM 1 N N1 . G A A . ? 136.814108 264.8327 249.370964 1 82.609 ? 1309 A 1
+ATOM 2 C C4 . C A A . ? 136.676369 271.142876 248.849702 1 77.7205 ? 1327 A 1
+ATOM 3 C C5 . C A A . ? 137.218905 272.331382 249.396674 1 78.1306 ? 1327 A 1
+ATOM 4 C C6 . C A A . ? 136.563165 272.906101 250.414732 1 79.9112 ? 1327 A 1
+ATOM 5 P P . C A A . ? 137.283922 272.428438 256.004252 1 84.6547 ? 1328 A 1
+ATOM 6 O OP1 . C A A . ? 137.393263 272.806974 257.441307 1 82.4824 ? 1328 A 1
+ATOM 7 O OP2 . C A A . ? 138.534983 272.466433 255.193497 1 88.3968 ? 1328 A 1
+ATOM 8 O "O5'" . C A A . ? 136.711803 270.942833 255.823588 1 82.7812 ? 1328 A 1
+ATOM 9 O "O3'" . C A A . ? 136.472639 267.618261 257.472757 1 82.3703 ? 1328 A 1
+ATOM 10 N N3 . C A A . ? 136.747164 267.177891 251.049957 1 85.089 ? 1328 A 1
+ATOM 11 C C4 . C A A . ? 137.518081 268.260439 250.924501 1 81.7097 ? 1328 A 1
+ATOM 12 N N4 . C A A . ? 138.31829 268.321882 249.871049 1 79.7364 ? 1328 A 1
+ATOM 13 C C5 . C A A . ? 137.485273 269.302801 251.886087 1 80.5667 ? 1328 A 1
+ATOM 14 C C6 . C A A . ? 136.655609 269.164704 252.930449 1 83.4342 ? 1328 A 1
+ATOM 15 P P . A A A . ? 137.968624 267.153802 257.822051 1 83.1079 ? 1329 A 1
+ATOM 16 O OP2 . A A A . ? 138.977279 268.150163 257.355361 1 90.7887 ? 1329 A 1
+ATOM 17 O "O5'" . A A A . ? 138.127432 265.866943 256.88155 1 84.1618 ? 1329 A 1
+ATOM 18 C "C5'" . A A A . ? 137.330852 264.697246 257.170616 1 79.5961 ? 1329 A 1
+ATOM 19 O "O4'" . A A A . ? 137.003637 264.283489 254.793792 1 80.3928 ? 1329 A 1
+ATOM 20 N N9 . A A A . ? 138.492341 264.584599 252.998313 1 82.1415 ? 1329 A 1
+ATOM 21 C C8 . A A A . ? 138.864089 265.858539 253.355028 1 79.3055 ? 1329 A 1
+ATOM 22 N N7 . A A A . ? 139.656734 266.424321 252.479534 1 80.7058 ? 1329 A 1
+ATOM 23 C C5 . A A A . ? 139.835633 265.45623 251.500694 1 81.7867 ? 1329 A 1
+ATOM 24 C C6 . A A A . ? 140.581007 265.434776 250.306942 1 80.9483 ? 1329 A 1
+ATOM 25 N N6 . A A A . ? 141.306155 266.459255 249.871139 1 81.1804 ? 1329 A 1
+ATOM 26 N N1 . A A A . ? 140.549542 264.299314 249.569344 1 80.8394 ? 1329 A 1
+ATOM 27 C C4 . A A A . ? 139.134845 264.313059 251.81963 1 79.9362 ? 1329 A 1
+ATOM 28 N N3 . U A A . ? 143.836954 264.742105 251.06764 1 74.56 ? 1330 A 1
+ATOM 29 C C4 . U A A . ? 143.53283 265.572921 252.126991 1 78.1083 ? 1330 A 1
+ATOM 30 O O4 . U A A . ? 143.899202 266.743701 252.102591 1 77.3992 ? 1330 A 1
+ATOM 31 C C5 . U A A . ? 142.796674 264.957427 253.189078 1 80.0699 ? 1330 A 1
+ATOM 32 N N7 . G A A . ? 145.589399 264.601003 255.654429 1 90.3689 ? 1331 A 1
+ATOM 33 C C5 . G A A . ? 146.031978 265.422888 254.627337 1 88.7906 ? 1331 A 1
+ATOM 34 C C6 . G A A . ? 145.824746 266.806736 254.418082 1 87.6892 ? 1331 A 1
+ATOM 35 O O6 . G A A . ? 145.16477 267.597667 255.106471 1 94.5288 ? 1331 A 1
+ATOM 36 N N1 . G A A . ? 146.46412 267.245602 253.259049 1 86.4128 ? 1331 A 1
+HETATM 37 MG MG . MG NE MG! . ? 141.467799 268.798556 253.787884 1 152.824 ? 1688 A 1

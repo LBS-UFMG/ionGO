@@ -1,0 +1,116 @@
+data_9O3W_L5U_5506_MG
+_entry.id '9O3W_L5U_5506_MG'
+
+_cell.entry_id '9O3W_L5U_5506_MG'
+_cell.length_a 1
+_cell.length_b 1
+_cell.length_c 1
+_cell.angle_alpha 90
+_cell.angle_beta 90
+_cell.angle_gamma 90
+
+_symmetry.entry_id '9O3W_L5U_5506_MG'
+_symmetry.space_group_name_H-M 'P 1'
+
+loop_
+_entity.id
+_entity.type
+L5 polymer
+MG! non-polymer
+water water
+LI polymer
+
+loop_
+_entity_poly.entity_id
+_entity_poly.type
+_entity_poly.pdbx_strand_id
+_entity_poly.pdbx_seq_one_letter_code
+L5 polyribonucleotide L5 ?
+LI polypeptide(L) LI ?
+
+
+
+loop_
+_chem_comp.id
+_chem_comp.type
+A .
+ARG .
+C .
+G .
+HOH .
+MG .
+U .
+
+loop_
+_struct_asym.id
+_struct_asym.entity_id
+A L5
+JP MG!
+NY water
+OY water
+L LI
+
+
+
+loop_
+_atom_type.symbol
+C
+N
+O
+MG
+P
+
+
+loop_
+_atom_site.group_PDB
+_atom_site.id
+_atom_site.type_symbol
+_atom_site.label_atom_id
+_atom_site.label_alt_id
+_atom_site.label_comp_id
+_atom_site.label_asym_id
+_atom_site.label_entity_id
+_atom_site.label_seq_id
+_atom_site.pdbx_PDB_ins_code
+_atom_site.Cartn_x
+_atom_site.Cartn_y
+_atom_site.Cartn_z
+_atom_site.occupancy
+_atom_site.B_iso_or_equiv
+_atom_site.pdbx_formal_charge
+_atom_site.auth_seq_id
+_atom_site.auth_asym_id
+_atom_site.pdbx_PDB_model_num
+ATOM 1 P P . A A L5 . ? 184.748 164.298 218.062 1 21.79 ? 1943 L5 1
+ATOM 2 O OP1 . A A L5 . ? 185.148 162.989 218.591 1 36.33 ? 1943 L5 1
+ATOM 3 O OP2 . A A L5 . ? 183.662 164.319 217.074 1 26.16 ? 1943 L5 1
+ATOM 4 O "O5'" . A A L5 . ? 184.362 165.21 219.296 1 23.38 ? 1943 L5 1
+ATOM 5 C "C5'" . A A L5 . ? 185.269 165.37 220.37 1 18.06 ? 1943 L5 1
+ATOM 6 O OP2 . A A L5 . ? 182.646 163.553 221.914 1 32.74 ? 1944 L5 1
+ATOM 7 C C8 . A A L5 . ? 180.144 165.874 219.944 1 11.65 ? 1944 L5 1
+ATOM 8 N N7 . A A L5 . ? 180.139 165.304 218.773 1 15.33 ? 1944 L5 1
+ATOM 9 C C5 . A A L5 . ? 179.098 165.894 218.09 1 9.47 ? 1944 L5 1
+ATOM 10 C C6 . A A L5 . ? 178.561 165.723 216.803 1 11.13 ? 1944 L5 1
+ATOM 11 N N6 . A A L5 . ? 179.026 164.878 215.904 1 12.11 ? 1944 L5 1
+ATOM 12 C C8 . G A L5 . ? 176.188 164.159 219.109 1 14.22 ? 1945 L5 1
+ATOM 13 N N7 . G A L5 . ? 176.731 163.428 218.189 1 15.11 ? 1945 L5 1
+ATOM 14 C C5 . G A L5 . ? 175.894 163.54 217.097 1 12.84 ? 1945 L5 1
+ATOM 15 C C6 . G A L5 . ? 175.952 162.988 215.789 1 12.59 ? 1945 L5 1
+ATOM 16 O O6 . G A L5 . ? 176.805 162.264 215.284 1 12.46 ? 1945 L5 1
+ATOM 17 N N4 . C A L5 . ? 176.307 158.464 212.677 1 12.72 ? 2036 L5 1
+ATOM 18 N N4 . C A L5 . ? 176.98 161.632 212.485 1 10.06 ? 2037 L5 1
+ATOM 19 C C4 . U A L5 . ? 176.772 165.602 212.943 1 9.9 ? 2038 L5 1
+ATOM 20 O O4 . U A L5 . ? 177.774 164.961 213.175 1 15.49 ? 2038 L5 1
+HETATM 21 MG MG . MG JP MG! . ? 180.615 161.225 217.288 1 29.34 ? 5506 L5 1
+HETATM 22 O O . HOH NY water . ? 179.309 158.096 212.585 1 27.23 ? 8550 L5 1
+HETATM 23 O O . HOH NY water . ? 181.214 163.154 217.673 1 18.06 ? 6609 L5 1
+HETATM 24 O O . HOH NY water . ? 178.982 161.752 218.513 1 21.53 ? 7182 L5 1
+HETATM 25 O O . HOH NY water . ? 180.306 162.565 220.922 1 27.15 ? 7284 L5 1
+HETATM 26 O O . HOH NY water . ? 179.922 159.294 217.048 1 44.19 ? 8586 L5 1
+HETATM 27 O O . HOH NY water . ? 181.605 160.709 219.015 1 24.56 ? 7597 L5 1
+HETATM 28 O O . HOH NY water . ? 177.43 156.837 215.41 1 26.45 ? 7614 L5 1
+HETATM 29 O O . HOH NY water . ? 182.646 164.83 213.634 1 23.95 ? 7041 L5 1
+HETATM 30 O O . HOH NY water . ? 179.358 161.796 215.729 1 21.12 ? 7085 L5 1
+HETATM 31 O O . HOH NY water . ? 185.403 161.556 214.226 1 26.49 ? 9051 L5 1
+HETATM 32 O O . HOH OY water . ? 182.151 160.885 216.02 1 32.7 ? 10430 L5 1
+ATOM 33 N NH1 . ARG L LI . ? 185.537 157.917 221.746 1 39.45 ? 162 LI 1

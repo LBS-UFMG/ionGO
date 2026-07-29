@@ -1,0 +1,159 @@
+data_7QIZ_S2U_1988_MG
+_entry.id '7QIZ_S2U_1988_MG'
+
+_cell.entry_id '7QIZ_S2U_1988_MG'
+_cell.length_a 1
+_cell.length_b 1
+_cell.length_c 1
+_cell.angle_alpha 90
+_cell.angle_beta 90
+_cell.angle_gamma 90
+
+_symmetry.entry_id '7QIZ_S2U_1988_MG'
+_symmetry.space_group_name_H-M 'P 1'
+
+loop_
+_entity.id
+_entity.type
+S2 polymer
+K! non-polymer
+MG! non-polymer
+water water
+
+loop_
+_entity_poly.entity_id
+_entity_poly.type
+_entity_poly.pdbx_strand_id
+_entity_poly.pdbx_seq_one_letter_code
+S2 polyribonucleotide S2 ?
+
+
+
+loop_
+_chem_comp.id
+_chem_comp.type
+6MZ .
+A .
+C .
+G .
+HOH .
+K .
+MG .
+U .
+
+loop_
+_struct_asym.id
+_struct_asym.entity_id
+TA S2
+CR K!
+VT MG!
+WT MG!
+TW water
+
+
+
+loop_
+_atom_type.symbol
+H
+C
+N
+O
+MG
+P
+K
+
+
+loop_
+_atom_site.group_PDB
+_atom_site.id
+_atom_site.type_symbol
+_atom_site.label_atom_id
+_atom_site.label_alt_id
+_atom_site.label_comp_id
+_atom_site.label_asym_id
+_atom_site.label_entity_id
+_atom_site.label_seq_id
+_atom_site.pdbx_PDB_ins_code
+_atom_site.Cartn_x
+_atom_site.Cartn_y
+_atom_site.Cartn_z
+_atom_site.occupancy
+_atom_site.B_iso_or_equiv
+_atom_site.pdbx_formal_charge
+_atom_site.auth_seq_id
+_atom_site.auth_asym_id
+_atom_site.pdbx_PDB_model_num
+ATOM 1 C "C3'" . A TA S2 . ? 262.959 230.931 252.695 1 9.92 ? 1770 S2 1
+ATOM 2 O "O3'" . A TA S2 . ? 262.887 231.453 254.011 1 9.92 ? 1770 S2 1
+ATOM 3 C "C2'" . A TA S2 . ? 262.993 229.412 252.632 1 9.92 ? 1770 S2 1
+ATOM 4 H "H2'" . A TA S2 . ? 263.883 229.067 252.803 1 9.92 ? 1770 S2 1
+HETATM 5 O OP2 . 6MZ TA S2 . ? 263.856 232.44 256.146 1 9.92 ? 1771 S2 1
+HETATM 6 O OP1 . 6MZ TA S2 . ? 265.14 232.533 253.892 1 9.92 ? 1771 S2 1
+HETATM 7 O "O5'" . 6MZ TA S2 . ? 264.888 230.387 255.103 1 9.92 ? 1771 S2 1
+HETATM 8 C "C5'" . 6MZ TA S2 . ? 264.217 229.425 255.903 1 9.92 ? 1771 S2 1
+HETATM 9 P P . 6MZ TA S2 . ? 264.235 231.807 254.809 1 9.92 ? 1771 S2 1
+HETATM 10 H H8 . 6MZ TA S2 . ? 265.996 229.348 253.168 1 9.92 ? 1771 S2 1
+HETATM 11 H "H5''" . 6MZ TA S2 . ? 263.251 229.245 255.439 1 9.92 ? 1771 S2 1
+HETATM 12 H "H5'" . 6MZ TA S2 . ? 264.009 229.879 256.87 1 9.92 ? 1771 S2 1
+HETATM 13 H "H3'" . 6MZ TA S2 . ? 266.886 229.297 256.201 1 9.92 ? 1771 S2 1
+ATOM 14 P P . C TA S2 . ? 267.442 229.568 258.729 1 9.92 ? 1772 S2 1
+ATOM 15 O OP1 . C TA S2 . ? 267.113 229.607 260.173 1 9.92 ? 1772 S2 1
+ATOM 16 O OP2 . C TA S2 . ? 267.406 230.826 257.946 1 9.92 ? 1772 S2 1
+ATOM 17 O "O3'" . A TA S2 . ? 268.296 235.999 261.791 1 9.92 ? 1774 S2 1
+ATOM 18 P P . G TA S2 . ? 267.783 235.055 260.598 1 9.92 ? 1775 S2 1
+ATOM 19 O OP1 . G TA S2 . ? 266.708 235.785 259.885 1 9.92 ? 1775 S2 1
+ATOM 20 O OP2 . G TA S2 . ? 267.508 233.707 261.151 1 9.92 ? 1775 S2 1
+ATOM 21 C "C3'" . G TA S2 . ? 268.261 234.936 256.934 1 9.92 ? 1775 S2 1
+ATOM 22 O "O3'" . G TA S2 . ? 267.778 235.385 255.669 1 9.92 ? 1775 S2 1
+ATOM 23 O "O2'" . G TA S2 . ? 268.299 232.685 255.902 1 9.92 ? 1775 S2 1
+ATOM 24 H "H5''" . G TA S2 . ? 268.918 236.843 259.102 1 9.92 ? 1775 S2 1
+ATOM 25 H "H3'" . G TA S2 . ? 267.555 234.904 257.598 1 9.92 ? 1775 S2 1
+ATOM 26 H "HO2'" . G TA S2 . ? 268.813 232.518 255.259 0 9.92 ? 1775 S2 1
+ATOM 27 P P . G TA S2 . ? 266.202 235.542 255.403 1 9.92 ? 1776 S2 1
+ATOM 28 O OP1 . G TA S2 . ? 265.454 234.9 256.511 1 9.92 ? 1776 S2 1
+ATOM 29 O OP2 . G TA S2 . ? 265.961 235.094 254.011 1 9.92 ? 1776 S2 1
+ATOM 30 O "O5'" . G TA S2 . ? 265.949 237.114 255.462 1 9.92 ? 1776 S2 1
+ATOM 31 C "C5'" . G TA S2 . ? 265.688 237.78 256.692 1 9.92 ? 1776 S2 1
+ATOM 32 O "O4'" . G TA S2 . ? 267.881 238.742 256.921 1 9.92 ? 1776 S2 1
+ATOM 33 C C8 . G TA S2 . ? 268.925 238.426 253.903 1 9.92 ? 1776 S2 1
+ATOM 34 H "H5'" . G TA S2 . ? 265.938 237.198 257.426 1 9.92 ? 1776 S2 1
+ATOM 35 H "H5''" . G TA S2 . ? 264.741 237.977 256.752 1 9.92 ? 1776 S2 1
+ATOM 36 H H8 . G TA S2 . ? 268.085 238.632 253.563 1 9.92 ? 1776 S2 1
+ATOM 37 C "C3'" . U TA S2 . ? 262.539 238.876 259.54 1 9.92 ? 1777 S2 1
+ATOM 38 O "O3'" . U TA S2 . ? 262.083 238.79 260.89 1 9.92 ? 1777 S2 1
+ATOM 39 C "C2'" . U TA S2 . ? 261.721 237.927 258.672 1 9.92 ? 1777 S2 1
+ATOM 40 O "O2'" . U TA S2 . ? 261.465 236.666 259.253 1 9.92 ? 1777 S2 1
+ATOM 41 C "C1'" . U TA S2 . ? 260.444 238.738 258.476 1 9.92 ? 1777 S2 1
+ATOM 42 N N1 . U TA S2 . ? 259.663 238.378 257.282 1 9.92 ? 1777 S2 1
+ATOM 43 C C5 . U TA S2 . ? 259.52 238.144 254.915 1 9.92 ? 1777 S2 1
+ATOM 44 C C6 . U TA S2 . ? 260.203 238.461 256.02 1 9.92 ? 1777 S2 1
+ATOM 45 H "H3'" . U TA S2 . ? 263.489 238.697 259.467 1 9.92 ? 1777 S2 1
+ATOM 46 H "H2'" . U TA S2 . ? 262.167 237.806 257.82 1 9.92 ? 1777 S2 1
+ATOM 47 H "HO2'" . U TA S2 . ? 260.639 236.591 259.391 0 9.92 ? 1777 S2 1
+ATOM 48 H "H1'" . U TA S2 . ? 259.891 238.652 259.268 1 9.92 ? 1777 S2 1
+ATOM 49 H H5 . U TA S2 . ? 259.923 238.213 254.079 1 9.92 ? 1777 S2 1
+ATOM 50 H H6 . U TA S2 . ? 261.083 238.749 255.931 1 9.92 ? 1777 S2 1
+ATOM 51 P P . U TA S2 . ? 263.098 238.978 262.121 1 9.92 ? 1778 S2 1
+ATOM 52 O "O5'" . U TA S2 . ? 263.848 237.578 262.222 1 9.92 ? 1778 S2 1
+ATOM 53 C "C5'" . U TA S2 . ? 263.118 236.363 262.28 1 9.92 ? 1778 S2 1
+ATOM 54 C "C3'" . U TA S2 . ? 263.418 233.818 262.353 1 9.92 ? 1778 S2 1
+ATOM 55 O "O3'" . U TA S2 . ? 263.533 233.418 260.998 1 9.92 ? 1778 S2 1
+ATOM 56 H "H5'" . U TA S2 . ? 262.695 236.206 261.421 1 9.92 ? 1778 S2 1
+ATOM 57 H "H4'" . U TA S2 . ? 264.838 235.28 262.109 1 9.92 ? 1778 S2 1
+ATOM 58 P P . U TA S2 . ? 262.298 232.726 260.237 1 9.92 ? 1779 S2 1
+ATOM 59 O OP1 . U TA S2 . ? 262.532 232.874 258.781 1 9.92 ? 1779 S2 1
+ATOM 60 O OP2 . U TA S2 . ? 261.031 233.229 260.818 1 9.92 ? 1779 S2 1
+ATOM 61 O "O5'" . U TA S2 . ? 262.439 231.183 260.603 1 9.92 ? 1779 S2 1
+ATOM 62 C "C5'" . U TA S2 . ? 263.585 230.442 260.209 1 9.92 ? 1779 S2 1
+ATOM 63 C "C4'" . U TA S2 . ? 263.773 229.214 261.064 1 9.92 ? 1779 S2 1
+ATOM 64 O "O4'" . U TA S2 . ? 263.928 229.602 262.455 1 9.92 ? 1779 S2 1
+ATOM 65 H "H5'" . U TA S2 . ? 264.369 231.007 260.29 1 9.92 ? 1779 S2 1
+ATOM 66 H "H5''" . U TA S2 . ? 263.484 230.171 259.284 1 9.92 ? 1779 S2 1
+HETATM 67 K K . K CR K! . ? 260.922 232.119 256.526 1 5.46 ? 1917 S2 1
+HETATM 68 MG MG . MG VT MG! . ? 263.94 233.985 257.515 1 3.76 ? 1988 S2 1
+HETATM 69 MG MG . MG WT MG! . ? 266.374 233.481 252.608 1 9.92 ? 1989 S2 1
+HETATM 70 O O . HOH TW water . ? 268.089 232.745 253.68 1 4.8 ? 2124 S2 1
+HETATM 71 O O . HOH TW water . ? 264.267 235.565 258.958 1 6.31 ? 2312 S2 1
+HETATM 72 O O . HOH TW water . ? 265.617 232.903 258.356 1 4.88 ? 2410 S2 1
+HETATM 73 O O . HOH TW water . ? 262.298 234.893 256.472 1 7.66 ? 2566 S2 1
+HETATM 74 O O . HOH TW water . ? 262.911 235.298 253.958 1 5.85 ? 2585 S2 1

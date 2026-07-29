@@ -1,0 +1,127 @@
+data_9B4Z_BAU_3150_MG
+_entry.id '9B4Z_BAU_3150_MG'
+
+_cell.entry_id '9B4Z_BAU_3150_MG'
+_cell.length_a 1
+_cell.length_b 1
+_cell.length_c 1
+_cell.angle_alpha 90
+_cell.angle_beta 90
+_cell.angle_gamma 90
+
+_symmetry.entry_id '9B4Z_BAU_3150_MG'
+_symmetry.space_group_name_H-M 'P 1'
+
+loop_
+_entity.id
+_entity.type
+BA polymer
+MG! non-polymer
+
+loop_
+_entity_poly.entity_id
+_entity_poly.type
+_entity_poly.pdbx_strand_id
+_entity_poly.pdbx_seq_one_letter_code
+BA polyribonucleotide BA ?
+
+
+
+loop_
+_chem_comp.id
+_chem_comp.type
+A .
+C .
+MG .
+U .
+
+loop_
+_struct_asym.id
+_struct_asym.entity_id
+FA BA
+RK MG!
+
+
+
+loop_
+_atom_type.symbol
+C
+N
+O
+MG
+P
+
+
+loop_
+_atom_site.group_PDB
+_atom_site.id
+_atom_site.type_symbol
+_atom_site.label_atom_id
+_atom_site.label_alt_id
+_atom_site.label_comp_id
+_atom_site.label_asym_id
+_atom_site.label_entity_id
+_atom_site.label_seq_id
+_atom_site.pdbx_PDB_ins_code
+_atom_site.Cartn_x
+_atom_site.Cartn_y
+_atom_site.Cartn_z
+_atom_site.occupancy
+_atom_site.B_iso_or_equiv
+_atom_site.pdbx_formal_charge
+_atom_site.auth_seq_id
+_atom_site.auth_asym_id
+_atom_site.pdbx_PDB_model_num
+ATOM 1 O "O5'" . C FA BA . ? 182.336 225.954 195.948 1 73.74 ? 786 BA 1
+ATOM 2 C "C5'" . C FA BA . ? 182.735 227.032 195.119 1 64.08 ? 786 BA 1
+ATOM 3 C "C4'" . C FA BA . ? 182.157 226.911 193.734 1 62.34 ? 786 BA 1
+ATOM 4 O "O4'" . C FA BA . ? 182.755 225.787 193.039 1 66.75 ? 786 BA 1
+ATOM 5 C "C3'" . C FA BA . ? 180.669 226.628 193.646 1 62.91 ? 786 BA 1
+ATOM 6 O "O3'" . C FA BA . ? 179.858 227.762 193.884 1 71.8 ? 786 BA 1
+ATOM 7 C "C2'" . C FA BA . ? 180.54 226.059 192.244 1 65.48 ? 786 BA 1
+ATOM 8 C "C1'" . C FA BA . ? 181.81 225.22 192.155 1 62.83 ? 786 BA 1
+ATOM 9 P P . C FA BA . ? 178.442 227.584 194.616 1 67.72 ? 787 BA 1
+ATOM 10 O OP1 . C FA BA . ? 177.944 228.924 195.004 1 76.14 ? 787 BA 1
+ATOM 11 O OP2 . C FA BA . ? 178.594 226.538 195.651 1 68.04 ? 787 BA 1
+ATOM 12 O "O5'" . C FA BA . ? 177.498 226.992 193.481 1 67.38 ? 787 BA 1
+ATOM 13 C "C5'" . C FA BA . ? 177.448 227.586 192.195 1 62.02 ? 787 BA 1
+ATOM 14 P P . A FA BA . ? 173.267 227.508 192.919 1 67.08 ? 788 BA 1
+ATOM 15 O OP1 . A FA BA . ? 173.879 226.97 194.153 1 80.94 ? 788 BA 1
+ATOM 16 O "O5'" . A FA BA . ? 173.175 229.086 193.073 1 62.32 ? 788 BA 1
+ATOM 17 C "C5'" . A FA BA . ? 174.288 229.849 193.523 1 62.14 ? 788 BA 1
+ATOM 18 C "C4'" . A FA BA . ? 173.906 231.292 193.73 1 66.4 ? 788 BA 1
+ATOM 19 O "O4'" . A FA BA . ? 173.538 231.863 192.447 1 70.75 ? 788 BA 1
+ATOM 20 O "O3'" . A FA BA . ? 172.833 232.755 195.323 1 76.05 ? 788 BA 1
+ATOM 21 P P . A FA BA . ? 172.915 232.804 196.924 1 87.38 ? 789 BA 1
+ATOM 22 O OP1 . A FA BA . ? 173.443 231.508 197.406 1 85.51 ? 789 BA 1
+ATOM 23 O "O5'" . A FA BA . ? 174.014 233.914 197.211 1 81.43 ? 789 BA 1
+ATOM 24 C "C5'" . A FA BA . ? 175.382 233.685 196.895 1 79.77 ? 789 BA 1
+ATOM 25 C "C4'" . A FA BA . ? 176.256 233.813 198.115 1 81.34 ? 789 BA 1
+ATOM 26 C "C3'" . A FA BA . ? 175.798 232.992 199.314 1 83.3 ? 789 BA 1
+ATOM 27 O "O3'" . A FA BA . ? 176.926 232.535 200.056 1 85.95 ? 789 BA 1
+ATOM 28 C "C2'" . A FA BA . ? 174.991 233.998 200.128 1 81.45 ? 789 BA 1
+ATOM 29 O "O2'" . A FA BA . ? 174.91 233.707 201.506 1 83.56 ? 789 BA 1
+ATOM 30 P P . U FA BA . ? 177.567 231.099 199.732 1 89.27 ? 790 BA 1
+ATOM 31 O OP1 . U FA BA . ? 178.722 230.904 200.637 1 79.79 ? 790 BA 1
+ATOM 32 O OP2 . U FA BA . ? 177.758 230.991 198.266 1 92.68 ? 790 BA 1
+ATOM 33 O "O5'" . U FA BA . ? 176.432 230.062 200.148 1 86.73 ? 790 BA 1
+ATOM 34 C "C5'" . U FA BA . ? 176.194 229.755 201.511 1 80.94 ? 790 BA 1
+ATOM 35 C "C4'" . U FA BA . ? 175.201 228.63 201.675 1 84.73 ? 790 BA 1
+ATOM 36 O "O4'" . U FA BA . ? 173.941 228.977 201.06 1 86.54 ? 790 BA 1
+ATOM 37 C "C3'" . U FA BA . ? 175.565 227.3 201.036 1 82.88 ? 790 BA 1
+ATOM 38 C "C2'" . U FA BA . ? 174.208 226.615 200.88 1 84.22 ? 790 BA 1
+ATOM 39 C "C1'" . U FA BA . ? 173.257 227.803 200.681 1 86.03 ? 790 BA 1
+ATOM 40 C C5 . U FA BA . ? 173.161 227.995 196.939 1 78.08 ? 790 BA 1
+ATOM 41 C C6 . U FA BA . ? 173.604 227.883 198.196 1 80.51 ? 790 BA 1
+ATOM 42 P P . C FA BA . ? 177.967 226.255 201.326 1 98.54 ? 791 BA 1
+ATOM 43 O OP2 . C FA BA . ? 178.253 227.075 200.125 1 88.44 ? 791 BA 1
+ATOM 44 N N7 . A FA BA . ? 182.123 230.421 194.785 1 75.27 ? 1780 BA 1
+ATOM 45 C C5 . A FA BA . ? 181.752 231.552 194.078 1 71.76 ? 1780 BA 1
+ATOM 46 C C6 . A FA BA . ? 180.628 231.846 193.295 1 70.13 ? 1780 BA 1
+ATOM 47 N N6 . A FA BA . ? 179.63 230.991 193.081 1 70.14 ? 1780 BA 1
+ATOM 48 N N1 . A FA BA . ? 180.561 233.066 192.729 1 71.45 ? 1780 BA 1
+ATOM 49 C C2 . A FA BA . ? 181.561 233.925 192.94 1 73.1 ? 1780 BA 1
+ATOM 50 N N3 . A FA BA . ? 182.667 233.765 193.656 1 71.84 ? 1780 BA 1
+ATOM 51 C C4 . A FA BA . ? 182.704 232.542 194.204 1 69.77 ? 1780 BA 1
+ATOM 52 N N3 . U FA BA . ? 181.696 234.499 200.902 1 86.81 ? 1781 BA 1
+HETATM 53 MG MG . MG RK MG! . ? 177.811 229.748 196.754 1 73.75 ? 3150 BA 1

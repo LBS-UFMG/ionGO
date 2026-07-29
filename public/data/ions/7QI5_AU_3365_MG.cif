@@ -1,0 +1,148 @@
+data_7QI5_AU_3365_MG
+_entry.id '7QI5_AU_3365_MG'
+
+_cell.entry_id '7QI5_AU_3365_MG'
+_cell.length_a 1
+_cell.length_b 1
+_cell.length_c 1
+_cell.angle_alpha 90
+_cell.angle_beta 90
+_cell.angle_gamma 90
+
+_symmetry.entry_id '7QI5_AU_3365_MG'
+_symmetry.space_group_name_H-M 'P 1'
+
+loop_
+_entity.id
+_entity.type
+A polymer
+MG! non-polymer
+water water
+
+loop_
+_entity_poly.entity_id
+_entity_poly.type
+_entity_poly.pdbx_strand_id
+_entity_poly.pdbx_seq_one_letter_code
+A polyribonucleotide A ?
+
+
+
+loop_
+_chem_comp.id
+_chem_comp.type
+A .
+C .
+G .
+HOH .
+MG .
+U .
+
+loop_
+_struct_asym.id
+_struct_asym.entity_id
+JA A
+QI MG!
+QO water
+
+
+
+loop_
+_atom_type.symbol
+H
+C
+N
+O
+MG
+P
+
+
+loop_
+_atom_site.group_PDB
+_atom_site.id
+_atom_site.type_symbol
+_atom_site.label_atom_id
+_atom_site.label_alt_id
+_atom_site.label_comp_id
+_atom_site.label_asym_id
+_atom_site.label_entity_id
+_atom_site.label_seq_id
+_atom_site.pdbx_PDB_ins_code
+_atom_site.Cartn_x
+_atom_site.Cartn_y
+_atom_site.Cartn_z
+_atom_site.occupancy
+_atom_site.B_iso_or_equiv
+_atom_site.pdbx_formal_charge
+_atom_site.auth_seq_id
+_atom_site.auth_asym_id
+_atom_site.pdbx_PDB_model_num
+ATOM 1 C "C4'" . U JA A . ? 242.461 219.531 210.894 1 22.65 ? 2545 A 1
+ATOM 2 C "C3'" . U JA A . ? 242.357 220.505 209.733 1 22.65 ? 2545 A 1
+ATOM 3 O "O3'" . U JA A . ? 241.204 220.28 208.941 1 22.65 ? 2545 A 1
+ATOM 4 C "C2'" . U JA A . ? 242.362 221.86 210.429 1 22.65 ? 2545 A 1
+ATOM 5 O "O2'" . U JA A . ? 241.068 222.195 210.911 1 22.65 ? 2545 A 1
+ATOM 6 C "C1'" . U JA A . ? 243.291 221.598 211.618 1 22.65 ? 2545 A 1
+ATOM 7 H "H4'" . U JA A . ? 241.581 219.42 211.288 1 22.65 ? 2545 A 1
+ATOM 8 H "H3'" . U JA A . ? 243.152 220.429 209.183 1 22.65 ? 2545 A 1
+ATOM 9 H "H2'" . U JA A . ? 242.717 222.553 209.851 1 22.65 ? 2545 A 1
+ATOM 10 H "HO2'" . U JA A . ? 241.122 222.447 211.71 0 22.65 ? 2545 A 1
+ATOM 11 H "H1'" . U JA A . ? 242.937 222.04 212.404 1 22.65 ? 2545 A 1
+ATOM 12 P P . G JA A . ? 241.311 220.173 207.342 1 23.74 ? 2546 A 1
+ATOM 13 O OP1 . G JA A . ? 242.715 219.875 206.968 1 23.74 ? 2546 A 1
+ATOM 14 O OP2 . G JA A . ? 240.639 221.362 206.768 1 23.74 ? 2546 A 1
+ATOM 15 C C8 . G JA A . ? 238.112 219.187 209.897 1 23.74 ? 2546 A 1
+ATOM 16 N N7 . G JA A . ? 237.372 220.203 210.23 1 23.74 ? 2546 A 1
+ATOM 17 C C5 . G JA A . ? 236.074 219.746 210.073 1 23.74 ? 2546 A 1
+ATOM 18 C C6 . G JA A . ? 234.843 220.409 210.292 1 23.74 ? 2546 A 1
+ATOM 19 O O6 . G JA A . ? 234.652 221.567 210.677 1 23.74 ? 2546 A 1
+ATOM 20 N N1 . G JA A . ? 233.762 219.583 210.013 1 23.74 ? 2546 A 1
+ATOM 21 H H8 . G JA A . ? 239.041 219.207 209.905 1 23.74 ? 2546 A 1
+ATOM 22 C C4 . C JA A . ? 234.569 221.126 207.007 1 24.86 ? 2547 A 1
+ATOM 23 N N4 . C JA A . ? 235.015 222.265 207.535 1 24.86 ? 2547 A 1
+ATOM 24 C C5 . C JA A . ? 235.485 220.113 206.602 1 24.86 ? 2547 A 1
+ATOM 25 H H41 . C JA A . ? 234.457 222.87 207.786 1 24.86 ? 2547 A 1
+ATOM 26 H H42 . C JA A . ? 235.86 222.396 207.626 1 24.86 ? 2547 A 1
+ATOM 27 H H5 . C JA A . ? 236.403 220.226 206.697 1 24.86 ? 2547 A 1
+ATOM 28 C C4 . C JA A . ? 233.556 223.607 204.266 1 26.25 ? 2548 A 1
+ATOM 29 N N4 . C JA A . ? 234.516 224.31 204.869 1 26.25 ? 2548 A 1
+ATOM 30 H H41 . C JA A . ? 234.342 225.088 205.191 1 26.25 ? 2548 A 1
+ATOM 31 H H42 . C JA A . ? 235.31 223.985 204.935 1 26.25 ? 2548 A 1
+ATOM 32 O "O3'" . U JA A . ? 239.37 227.931 204.475 1 24.49 ? 2563 A 1
+ATOM 33 C "C2'" . U JA A . ? 236.917 228.131 204.46 1 24.49 ? 2563 A 1
+ATOM 34 H "H2'" . U JA A . ? 236.572 227.303 204.829 1 24.49 ? 2563 A 1
+ATOM 35 P P . A JA A . ? 239.872 226.628 205.269 1 20.6 ? 2564 A 1
+ATOM 36 O OP1 . A JA A . ? 240.923 225.974 204.454 1 20.6 ? 2564 A 1
+ATOM 37 O OP2 . A JA A . ? 238.686 225.85 205.701 1 20.6 ? 2564 A 1
+ATOM 38 O "O5'" . A JA A . ? 240.575 227.23 206.564 1 20.6 ? 2564 A 1
+ATOM 39 C "C5'" . A JA A . ? 239.903 228.184 207.381 1 20.6 ? 2564 A 1
+ATOM 40 H "H5'" . A JA A . ? 239.716 227.784 208.244 1 20.6 ? 2564 A 1
+ATOM 41 H "H5''" . A JA A . ? 239.064 228.427 206.958 1 20.6 ? 2564 A 1
+ATOM 42 H "H2'" . A JA A . ? 242.57 228.722 205.7 1 20.6 ? 2564 A 1
+ATOM 43 O O6 . G JA A . ? 233.348 227.125 205.989 1 23.9 ? 2567 A 1
+ATOM 44 C "C5'" . A JA A . ? 236.019 223.671 213.493 1 21.09 ? 2632 A 1
+ATOM 45 C "C3'" . A JA A . ? 238.583 223.705 213.47 1 21.09 ? 2632 A 1
+ATOM 46 O "O3'" . A JA A . ? 238.927 225.053 213.207 1 21.09 ? 2632 A 1
+ATOM 47 C C8 . A JA A . ? 237.878 219.888 213.687 1 21.09 ? 2632 A 1
+ATOM 48 H "H5'" . A JA A . ? 235.963 224.538 213.064 1 21.09 ? 2632 A 1
+ATOM 49 H "H5''" . A JA A . ? 236.025 222.98 212.812 1 21.09 ? 2632 A 1
+ATOM 50 H "H3'" . A JA A . ? 238.476 223.229 212.633 1 21.09 ? 2632 A 1
+ATOM 51 H "H2'" . A JA A . ? 240.314 222.596 213.803 1 21.09 ? 2632 A 1
+ATOM 52 H H8 . A JA A . ? 237.005 220.2 213.611 1 21.09 ? 2632 A 1
+ATOM 53 P P . A JA A . ? 239.619 225.478 211.823 1 19.71 ? 2633 A 1
+ATOM 54 O OP1 . A JA A . ? 238.727 225.075 210.709 1 19.71 ? 2633 A 1
+ATOM 55 O OP2 . A JA A . ? 241.025 225.006 211.846 1 19.71 ? 2633 A 1
+ATOM 56 O "O5'" . A JA A . ? 239.619 227.069 211.895 1 19.71 ? 2633 A 1
+ATOM 57 C "C5'" . A JA A . ? 240.618 227.843 211.244 1 19.71 ? 2633 A 1
+ATOM 58 C "C4'" . A JA A . ? 241.109 228.959 212.131 1 19.71 ? 2633 A 1
+ATOM 59 O "O4'" . A JA A . ? 242.275 228.498 212.865 1 19.71 ? 2633 A 1
+ATOM 60 H "H5'" . A JA A . ? 240.246 228.221 210.432 1 19.71 ? 2633 A 1
+ATOM 61 H "H5''" . A JA A . ? 241.366 227.27 211.013 1 19.71 ? 2633 A 1
+HETATM 62 MG MG . MG QI MG! . ? 238.316 224.003 209.034 1 17.82 ? 3365 A 1
+HETATM 63 O O . HOH QO water . ? 239.028 222.441 210.354 1 17.57 ? 3532 A 1
+HETATM 64 O O . HOH QO water . ? 237.38 224.056 205.01 1 19.49 ? 3674 A 1
+HETATM 65 O O . HOH QO water . ? 236.516 224.087 209.989 1 21.23 ? 4028 A 1
+HETATM 66 O O . HOH QO water . ? 237.479 225.716 208.08 1 17.07 ? 4513 A 1
+HETATM 67 O O . HOH QO water . ? 242.282 225.601 209.416 1 17.59 ? 5030 A 1
+HETATM 68 O O . HOH QO water . ? 237.941 222.47 207.581 1 23.72 ? 5518 A 1
+HETATM 69 O O . HOH QO water . ? 240.249 224.113 208.328 1 20.98 ? 5694 A 1

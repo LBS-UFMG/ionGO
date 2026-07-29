@@ -1,0 +1,117 @@
+data_9T6M_aL_3144_MG
+_entry.id '9T6M_aL_3144_MG'
+
+_cell.entry_id '9T6M_aL_3144_MG'
+_cell.length_a 1
+_cell.length_b 1
+_cell.length_c 1
+_cell.angle_alpha 90
+_cell.angle_beta 90
+_cell.angle_gamma 90
+
+_symmetry.entry_id '9T6M_aL_3144_MG'
+_symmetry.space_group_name_H-M 'P 1'
+
+loop_
+_entity.id
+_entity.type
+a polymer
+MG! non-polymer
+water water
+s polymer
+
+loop_
+_entity_poly.entity_id
+_entity_poly.type
+_entity_poly.pdbx_strand_id
+_entity_poly.pdbx_seq_one_letter_code
+a polyribonucleotide a ?
+s polypeptide(L) s ?
+
+
+
+loop_
+_chem_comp.id
+_chem_comp.type
+ARG .
+G .
+HOH .
+LYS .
+MG .
+U .
+
+loop_
+_struct_asym.id
+_struct_asym.entity_id
+Y a
+YJ MG!
+GT water
+QA s
+UT water
+
+
+
+loop_
+_atom_type.symbol
+C
+N
+O
+MG
+P
+
+
+loop_
+_atom_site.group_PDB
+_atom_site.id
+_atom_site.type_symbol
+_atom_site.label_atom_id
+_atom_site.label_alt_id
+_atom_site.label_comp_id
+_atom_site.label_asym_id
+_atom_site.label_entity_id
+_atom_site.label_seq_id
+_atom_site.pdbx_PDB_ins_code
+_atom_site.Cartn_x
+_atom_site.Cartn_y
+_atom_site.Cartn_z
+_atom_site.occupancy
+_atom_site.B_iso_or_equiv
+_atom_site.pdbx_formal_charge
+_atom_site.auth_seq_id
+_atom_site.auth_asym_id
+_atom_site.pdbx_PDB_model_num
+ATOM 1 P P . U Y a . ? 266.03901 230.075136 204.101255 1 38.2907 ? 1312 a 1
+ATOM 2 O OP1 . U Y a . ? 264.790171 230.490898 204.791119 1 43.9808 ? 1312 a 1
+ATOM 3 O "O5'" . U Y a . ? 267.196529 230.198159 205.182975 1 36.0229 ? 1312 a 1
+ATOM 4 C "C5'" . U Y a . ? 266.892525 229.877763 206.526244 1 32.4521 ? 1312 a 1
+ATOM 5 C "C4'" . U Y a . ? 268.20317 229.762553 207.259558 1 32.8638 ? 1312 a 1
+ATOM 6 C "C3'" . U Y a . ? 269.241341 230.839444 206.929168 1 29.6286 ? 1312 a 1
+ATOM 7 O "O3'" . U Y a . ? 270.031404 231.116074 208.075077 1 32.3943 ? 1312 a 1
+ATOM 8 C "C2'" . U Y a . ? 270.112975 230.157966 205.883778 1 28.8515 ? 1312 a 1
+ATOM 9 O "O2'" . U Y a . ? 271.430678 230.633018 205.849449 1 30.7073 ? 1312 a 1
+ATOM 10 P P . U Y a . ? 269.47986 232.095806 209.218778 1 28.7108 ? 1313 a 1
+ATOM 11 O OP1 . U Y a . ? 268.319568 232.902059 208.744081 1 35.5333 ? 1313 a 1
+ATOM 12 O OP2 . U Y a . ? 270.664107 232.709207 209.846006 1 33.2676 ? 1313 a 1
+ATOM 13 O "O5'" . U Y a . ? 268.991663 231.024825 210.296593 1 31.9059 ? 1313 a 1
+ATOM 14 C "C5'" . U Y a . ? 268.011474 231.330372 211.279587 1 30.6984 ? 1313 a 1
+ATOM 15 C "C4'" . U Y a . ? 267.312346 230.073066 211.690556 1 28.3542 ? 1313 a 1
+ATOM 16 O OP1 . G Y a . ? 265.398434 233.881835 211.975849 1 35.5685 ? 1333 a 1
+ATOM 17 O "O3'" . G Y a . ? 264.266479 237.74006 211.959306 1 32.7491 ? 1333 a 1
+ATOM 18 P P . G Y a . ? 265.500394 238.045465 210.983243 1 33.4928 ? 1334 a 1
+ATOM 19 O OP1 . G Y a . ? 265.057712 237.837259 209.584209 1 41.0949 ? 1334 a 1
+ATOM 20 O OP2 . G Y a . ? 266.695445 237.265186 211.453422 1 35.5998 ? 1334 a 1
+HETATM 21 MG MG . MG YJ MG! . ? 267.289047 234.481422 208.220883 1 29.747 ? 3144 a 1
+HETATM 22 O O . HOH GT water . ? 271.878368 231.826583 211.774202 1 32.8255 ? 3496 a 1
+HETATM 23 O O . HOH GT water . ? 266.975731 234.964448 210.294419 1 27.7143 ? 3826 a 1
+HETATM 24 O O . HOH GT water . ? 266.202639 236.175753 207.923076 1 32.876 ? 4278 a 1
+HETATM 25 O O . HOH GT water . ? 268.701551 238.033232 209.883857 1 38.8914 ? 4733 a 1
+HETATM 26 O O . HOH GT water . ? 264.87697 230.900344 209.107323 1 42.522 ? 5133 a 1
+HETATM 27 O O . HOH GT water . ? 263.455536 232.16087 211.229421 1 59.1875 ? 5139 a 1
+HETATM 28 O O . HOH GT water . ? 265.661932 233.28856 208.254784 1 30.6575 ? 5418 a 1
+HETATM 29 O O . HOH GT water . ? 263.376738 229.733622 207.025798 1 44.5811 ? 5619 a 1
+HETATM 30 O O . HOH GT water . ? 268.881423 235.638468 208.291065 1 32.9646 ? 6135 a 1
+HETATM 31 O O . HOH GT water . ? 269.250041 234.64615 211.874502 1 31.155 ? 6233 a 1
+HETATM 32 O O . HOH GT water . ? 267.550882 234.10755 206.184658 1 30.0726 ? 6547 a 1
+ATOM 33 C CD . LYS QA s . ? 271.859232 238.329341 203.309375 1 64.7337 ? 68 s 1
+ATOM 34 N NH1 . ARG QA s . ? 263.044824 238.247572 203.887963 1 118.886 ? 69 s 1
+HETATM 35 O O . HOH UT water . ? 269.57466 233.669194 204.293302 1 49.8643 ? 208 s 1

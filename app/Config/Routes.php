@@ -8,3 +8,4 @@ $routes->post('start', 'Curation::start');
 $routes->get('curate', 'Curation::curate');
 $routes->get('api/next', 'Curation::next');
 $routes->post('api/save', 'Curation::save');
+$routes->get('api/results', 'Curation::results');

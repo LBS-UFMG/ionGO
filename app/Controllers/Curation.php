@@ -134,4 +134,72 @@ class Curation extends Controller
         }
         return $this->response->setJSON(['ok' => true]);
     }
+
+    /** id => decision for this curator (last judgement wins). */
+    private function decisions(string $name): array
+    {
+        $f = $this->responseFile($name);
+        if (! is_file($f)) {
+            return [];
+        }
+        $out = [];
+        if (($h = fopen($f, 'r')) !== false) {
+            fgetcsv($h);                                   // header
+            while (($row = fgetcsv($h)) !== false) {
+                if (isset($row[1], $row[2]) && $row[1] !== '') {
+                    $out[$row[1]] = $row[2];               // id => decision
+                }
+            }
+            fclose($h);
+        }
+        return $out;
+    }
+
+    /**
+     * GET: debrief for this curator -- agreement with Cat_Wiz over the ions they
+     * judged, plus a per-ion list (with the data needed to re-view each one). The
+     * true labels are only revealed for ions the curator has ALREADY answered.
+     */
+    public function results()
+    {
+        $name = session()->get('curator');
+        if (! $name) {
+            return $this->response->setStatusCode(403)->setJSON(['error' => 'no session']);
+        }
+        $manifest  = $this->manifest();
+        $decisions = $this->decisions($name);
+        $keyPath   = WRITEPATH . 'curation_key.json';
+        $key       = is_file($keyPath) ? json_decode(file_get_contents($keyPath), true) : [];
+
+        $items = [];
+        $agree = 0;
+        foreach ($manifest as $m) {
+            $id = $m['id'];
+            if (! isset($decisions[$id])) {
+                continue;                                  // only judged ions
+            }
+            $catwiz = $key[$id]['true_label'] ?? '';
+            $ok     = ($decisions[$id] === $catwiz);
+            $agree += $ok ? 1 : 0;
+            $items[] = [
+                'id'       => $id,
+                'pdb'      => $m['pdb'],
+                'ion'      => $m['ion'],
+                'res'      => $m['res'] ?? null,
+                'sigma'    => $m['sigma'] ?? 1,
+                'cif'      => $m['cif'],
+                'map'      => $m['map'],
+                'decision' => $decisions[$id],
+                'catwiz'   => $catwiz,
+                'agree'    => $ok,
+            ];
+        }
+        $total = count($items);
+        return $this->response->setJSON([
+            'total' => $total,
+            'agree' => $agree,
+            'pct'   => $total ? round(100 * $agree / $total, 1) : 0,
+            'items' => $items,
+        ]);
+    }
 }

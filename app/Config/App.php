@@ -16,9 +16,7 @@ class App extends BaseConfig
      *
      * E.g., http://example.com/
      */
-    // MUST match where the app is served (CI uses this path to strip the base and
-    // resolve routes). The app is under the /iongo/public/ subpath on this server.
-    public string $baseURL = 'https://bioinfo.dcc.ufmg.br/iongo/public/';
+    public string $baseURL = 'http://localhost:8080/';
 
     /**
      * Allowed Hostnames in the Site URL other than the hostname in the baseURL.
